@@ -6,6 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Cumbrian Kayaking|Kayaking in the Lake District</title>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+ <link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Raleway:400,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+
 </head>
 <body>
    <nav class="navbar navbar-light bg-light navbar-expand-sm"> 
@@ -18,7 +21,7 @@
             <li class="active nav-item ml-4"><a class="nav-link" href="#">Home</a></li>
             <li class="nav-item ml-4"><a class="nav-link" href="#">Contact</a></li>
             <li class="nav-item ml-4"><a class="nav-link" href="#">Features</a></li>      
-            <li class="nav-item dropdown">
+            <li class="nav-item dropdown"></li> 
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenulink" role="button" data-toggle="dropdown"
             aria-haspopup="true" aria-expanded="false">
           About Us   
@@ -31,19 +34,23 @@
      </div>
    </nav>
 
-<article class="container mt-3">
+<div class="container-fluid callout-container mt-3">
 <!----------------------------Callout Section  --> 
+<div class="opaque-overlay">&nbsp;</div>
 <div class="row">
    <div class="col-12">
      <section class="callout jumbotron text-center" >
-       <h1>Kayak The Lakes</h1>
+       <h1 class="jumbotron-header">Kayak The Lakes</h1>
         <p class="lead">Get Our 2020 Brochure Now </p>
        <button class="btn btn-warning btn-lg" data-toggle="modal" data-target="#signUpModal">I Want the Brochure!</button>
         <p class="text-muted"><small>Great Discounts Available for Groups</small></p>
      </section>
    </div>
 </div>
+</div>
+
 <!----------------------------Features Section  -->
+<div class="container features-container"> 
 
 <section class="features">
    <div class="row">
@@ -52,8 +59,8 @@
 </div>
     
       <div class="row">
-      <div class="col-12 col-md-6 col-lg-4">
-        <div class="feature">
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="feature">
             <h3>Feature 1</h3>
              <p>Lorem,ipsum dolor sit amet consectetur adipisicing elit. Dignissimos fugit cumque atque libero eos quod?
                  Est, maxime sunt! Dolore, quo.</p>
@@ -75,8 +82,9 @@
            </div>
         </div>
 </section>
+</div>
  <!----------------------------Trips Section  -->
- 
+ <div ="container trips-container">
      <section class="trips">     
       <div class="row">
       <div class="col-12 my-5">
@@ -84,8 +92,9 @@
       </div>
       </div>
     </section>
+    </div>
     <!----------------------------Team Section  -->
-
+<div ="container team-container">
 <section class="team">     
       <div class="row">
       <div class="col-12 my-5">
@@ -93,10 +102,12 @@
       </div>
       </div>
     </section>
+     </div>
  
 
   
  <!----------------------------Reviews Section  -->
+ <div ="container reviews-container">
  <section class="reviews">
       <div class="row">
         <div class="col-12 my-5">
@@ -130,7 +141,9 @@
          </div>
    
   </section>
+  </div>
  <!----------------------------Contact Section  -->
+ <div ="container contact-container">
  <section class="contact"> 
     <div class="row">
         <div class="col-12">
@@ -150,9 +163,10 @@
               <button value="Send" type="submit">Submit</button>
             </form>
            </div>
-    </section> 
+      </section>
+    </div> 
 
-</article>
+
     
 <div class="modal" tabindex="-1" role="dialog" id="signUpModal">
   <div class="modal-dialog" role="document">

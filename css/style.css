@@ -1,0 +1,48 @@
+.callout-container {}
+.features-container{}
+.trips-container{}
+.team-container{}
+.reviews-container{}
+.contact-container{}
+
+/* Callout Section */
+
+.callout-container {
+ height: 100vh;
+background:url("/images/girl-kayak-hero.png") no-repeat bottom right fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+display: flex;
+align-items: center;
+justify-content: center;
+position:relative;
+ }
+ 
+ .opaque-overlay {
+   position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: linear-gradient(rgba(0, 0, 0, 0.4), transparent);   
+ }
+
+
+/* Jumbotron Section */
+
+.jumbotron {
+background-color: transparent;
+}
+.jumbotron-header {
+color:white;
+font-weight: bold;
+margin-bottom: 30px;
+}
+.jumbotron .lead {
+font-size: 1.25rem;
+font-weight: 500;
+color:#fafafa;
+}
+
