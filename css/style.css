@@ -23,10 +23,10 @@ position:relative;
  .opaque-overlay {
    position: absolute;
   top: 0;
-  left: 0;
+  left: 0;     
   height: 100%;
   width: 100%;
-  background-color: linear-gradient(rgba(0, 0, 0, 0.4), transparent);   
+  background-color: linear-gradient(rgba(0, 0, 0, 0.5), transparent);   
  }
 
 
@@ -38,11 +38,24 @@ background-color: transparent;
 .jumbotron-header {
 color:white;
 font-weight: bold;
-margin-bottom: 30px;
+font-size: 3rem;
+margin-bottom: 10px;
 }
 .jumbotron .lead {
 font-size: 1.25rem;
 font-weight: 500;
 color:#fafafa;
 }
+.jumbotron small {
+color: #fff;
+font-size: 80%;
+}
 
+/* Buttons */
+
+.btn-cta {
+  background-color: #f1dc22;
+  font-weight: bold;
+  border-radius: 23px;
+  width: 160px;
+}
