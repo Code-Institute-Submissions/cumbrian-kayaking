@@ -50,41 +50,61 @@
      </section>
    </div>
 </div>
-</div>
+</div> 
 
-<!----------------------------Features Section  -->
-<div class="container features-container"> 
+<!----------------------------Features Section 
+This section of code and the accompanying styling in CSS  for the cards was inspired and is adapted from, the Deved course on Youtube
+he does not use the grid system of Bootstrap. -->
 
-<section class="features">
+<div class="container-fluid features-container"> 
+<section id="features">
+<header class="features-head">
    <div class="row">
    <div class="col-12 my-5">
       <h2 class="text-uppercase">What To Expect </h2>
-</div>
-    
+      <h3>Superb camp cuisine, luxury tents, breathtaking kayaking!</h3>
+      </div>
+      </div>
+      </header>
+
+    <div class="cards">
+
+  <div class="row"> 
+      <div class="col-12 col-md-6 col-lg-4">
+         <div class="card">
+          <div class="card-icon">
+            <img src="icons/kayaking.svg" alt=""/>
+          </div>
+           <h4>Learning to Kayak </h4>  
+            <p>Beginners or Advanced - we have weekend workshops and 3-Day courses for every aspect of kayaking!</p> 
+         </div>
+        </div>
+      </div>
       <div class="row">
         <div class="col-12 col-md-6 col-lg-4">
-          <div class="feature">
-            <h3>Feature 1</h3>
-             <p>Lorem,ipsum dolor sit amet consectetur adipisicing elit. Dignissimos fugit cumque atque libero eos quod?
-                 Est, maxime sunt! Dolore, quo.</p>
+           <div class="card">
+             <div class="card-icon">
+              <img src="icons/binocular.svg" alt=""/>
+              </div>    
+                <h4>Activities</h4>
+                <p> Birdwatching and Hiking in the spectacular Lake District. 2-Day 3-night getaways.  </p>
               </div>
-              </div>     
-          
-        <div class="col-12 col-md-6 col-lg-4">  
-           <div class="feature"> 
-               <h3>Feature 2 </h3>
-               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos fugit cumque atque libero eos quod?
-                  Est, maxime sunt! Dolore, quo.</p>
             </div>
-        </div> 
-        <div class="col-12 d-md-none d-lg-block col-lg-4"> 
-           <div class="feature">
-               <h3>Feature 3 </h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos fugit cumque atque libero eos quod?
-                 Est, maxime sunt! Dolore, quo.</p>  
-           </div>
-        </div>
-</section>
+          </div>
+          <div class"row">
+            <div class="col-12 d-md-none d-lg-block d-col-lg-4">
+              <div class="card">
+                  <div class="card-icon">
+                    <img src="icons/good-tent.svg" alt=""/>
+                  </div>   
+                    <h4>Food & Accomodation</h4>
+                    <p>Nutritious and delicious, hearty meals with vegan and vegetarian options. Superb yurt accomodation with all the comforts.
+                    </p>
+               </div>
+              </div>
+            </div>
+         </div>
+     </section>
 </div>
  <!----------------------------Trips Section  -->
  <div ="container trips-container">    
@@ -105,7 +125,7 @@
       </div>
       </div>
     </section>
-     </div>
+</div>
  
 
   
