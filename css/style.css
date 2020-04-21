@@ -104,6 +104,7 @@ background-color:#93970f;
 border-color:#93970f;
 } 
 /* Features Section */
+ /*Styling for the features/cards adapted examples in Deved course on HTML & CSS on Youtube  */
 .
 .features-container {
  padding: 0;
@@ -154,3 +155,29 @@ margin:2rem;
 
 
 /* Footer Section */
+
+ footer {
+    color: #131212;
+    background: rgb(157, 157, 157, 0.6);
+  }
+
+  .footer-wrapper {
+    display: flex;
+    padding: 2rem;
+    width: 100%;
+    margin: auto; 
+    align-items: center;
+    min-height: 10vh;
+    flex-wrap: wrap;
+  }
+
+   footer h5 {
+    flex: 1 1 40rem;
+  }
+  footer ul {
+    display: flex;
+    list-style: none;
+    flex: 1 1 40rem;
+    justify-content: space-between;
+    align-items: center;
+  }
