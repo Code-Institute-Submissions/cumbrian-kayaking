@@ -43,20 +43,24 @@ position:relative;
 }
 
 .navbar {
-    margin-bottom:0;
+    margin-bottom:0; 
     border:0;
+    padding:5px;
     width: 100%;
     background-color:rgba(0, 0, 0, 0.25);
-    z-index: 1; 
+    z-index:1; 
 }
 .navbar .navbar-toggler {
     border:0;
 }
 .navbar navbar-nav a {
     font-weight: bold;
+    font-size: 1rem; 
 }
 .navbar-brand {
     font-weight:bold;
+    margin-left: 2rem;
+    font-size: 2rem;
 }  
 
 
@@ -86,8 +90,18 @@ font-size: 80%;
 /* Buttons */
 
 .btn-cta {
-  background-color: #f1dc22;
-  font-weight: bold;
+  background-color:#edf40f;
+  font-weight: 700;
   border-radius: 23px;
-  width: 160px;
+  width: 200px;
+  font-size: 15px;
 }
+.btn-cta:hover,
+.btn-cta:active,
+.btn-cta:focus,
+.btn-cta:active:focus{ 
+background-color:#93970f;
+border-color:#93970f;
+} 
+
+
