@@ -273,20 +273,22 @@ margin:2rem;
 /* Add styles to the form container */
 form.container {
   position: absolute;
+  color:#fff; 
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   margin: 20px;
   max-width: 500px;
   padding: 16px;
-  background-color: rgb(237, 244, 15, 0.5);
+  background-color: #545b6285;
   border-radius: 20px;
+  align-items: center;
 }
 
 /* Full-width input fields */
 input[type="text"],
-input[type="password"] {
-  width: 100%;
+input[type="email"] {
+  width: 70%;
   padding: 15px;
   margin: 5px 0 22px 0;
   border: none;
@@ -294,7 +296,7 @@ input[type="password"] {
 }
 
 input[type="text"]:focus,
-input[type="password"]:focus {
+input[type="email"]:focus {
   background-color: #ddd;
   outline: none;
 }
@@ -302,13 +304,16 @@ input[type="password"]:focus {
 /* Set a style for the submit button */
 .btn-contact {
   background-color: #edf40f;
-  color: white;
+  color: black;
+  font-weight: 700;
+  font-size: 15px;
   padding: 16px 20px;
-  border: none;
+ border-radius: 23px;
   cursor: pointer;
-  width: 100%;
+  width: 50%;
   opacity: 0.9;
 }
+ 
 
 .btn-contact:hover {
   opacity: 1;
