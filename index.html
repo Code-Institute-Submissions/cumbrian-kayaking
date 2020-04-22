@@ -162,7 +162,7 @@ he does not use the grid system of Bootstrap. -->
                   <i class="fa fa-angle-left"></i>
                 </a>
                 <a class="carousel-control right carousel-control-next" href="#myCarousel" data-slide="next">
-                  <i class="fa fa-angle-right"></i>
+                  <img src="icons/angle-right-solid.svg" alt=""/>
                 </a>
               </div>
             </div>
@@ -227,25 +227,26 @@ he does not use the grid system of Bootstrap. -->
  <section class="contact"> 
     <div class="row">
         <div class="col-12">
-        <div class="form-wrapper">
-             <header class="form-head">
-             <h2 class="text-uppercase">Get In Touch</h2>
-             <p>We promise not to share your email</p>
-             </header>
-            <form action=""method="POST">
-                <div class="name-form">
-                   <label for="name">Name:</label>
-                   <input id="text"type="text"name required minlength="4"/>
-                </div>
-                <div class="email-form">
-                   <label for="email">Email:</label>
-                   <input id="email"type="email"required name="_replyto"/> 
-                </div>
-              <button value="Send" type="submit">Submit</button>
-            </form>
-           </div>
-      </section>
-    </div> 
+         <div class="bg-img">
+          <form action="/action_page.php" class="container">
+            <h2 class="text-uppercase">Get In Touch</h2>
+            <p>We promise not to share your email</p>
+          
+        
+            <label for="email"><b>Email</b></label>
+            <input type="text" placeholder="Enter Email" name="email" required>
+        
+            <label for="psw"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" name="psw" required>
+            <label for="textarea">Your Question...</label><br>
+            <textarea rows="5" cols="45" name="comment"></textarea>
+        
+            <button type="submit" class="btn-contact">Submit</button>
+          </form>
+        </div> 
+       </section>
+      </div>
+   
 
 
     
