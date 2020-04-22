@@ -111,7 +111,7 @@ border-color:#93970f;
 }
 .features-head {
   background: #9d9d9d;
-  padding: 3rem;
+  padding: 1rem;
   min-height: 30vh;
   display: flex;
   flex-direction: column;
@@ -150,13 +150,25 @@ background: #edf40f;
 .cards img {
 
 max-width: 15%;
-margin:2rem;
+margin:2rem;   
 }
 
 /* Carousel Section */
 
 .trips-container {
   height: 100vh;
+  padding:0;
+}
+.trips-head {
+  background: #9d9d9d;
+  padding: 1rem; 
+  min-height: 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color:#454609 ;
+  text-align: center;
 }
 
 .carousel {
@@ -282,12 +294,13 @@ form.container {
   padding: 16px;
   background-color: #545b6285;
   border-radius: 20px;
-  align-items: center;
+  
 }
 
 /* Full-width input fields */
 input[type="text"],
-input[type="email"] {
+input[type="email"]
+ {
   width: 70%;
   padding: 15px;
   margin: 5px 0 22px 0;
@@ -296,8 +309,8 @@ input[type="email"] {
 }
 
 input[type="text"]:focus,
-input[type="email"]:focus {
-  background-color: #ddd;
+input[type="email"]:focus
+background-color: #ddd;
   outline: none;
 }
 
@@ -330,7 +343,7 @@ input[type="email"]:focus {
 
  footer {
     color: #131212;
-    background: rgb(157, 157, 157, 0.6);
+    background: #9d9d9d;
   }
 
   .footer-wrapper {

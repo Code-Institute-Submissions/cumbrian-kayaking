@@ -99,7 +99,7 @@ he does not use the grid system of Bootstrap. -->
                   </div>   
                     <h4>Food & Accomodation</h4>
                     <p>Nutritious and delicious, hearty meals with vegan and vegetarian options. Superb yurt accomodation with all the comforts.
-                    </p>
+                    </p>  
                </div>
               </div>
             </div>
@@ -110,12 +110,15 @@ he does not use the grid system of Bootstrap. -->
  <!---------------------------- This code section is taken and adapted from w3schools.com  -->
 
  <div ="container trips-container">    
-     <section class="trips">     
+     <section class="trips">
+     <header class="trips-head">     
        <div class="row">
          <div class="col-12 my-5">
             <h2 class ="text-uppercase">Our Popular Trips</h2> 
+            <p>Friends,family or solo, teams and teens we have the perfect getaway!</p>
          </div>
       </div>
+     </header> 
    
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
                 <!-- Carousel indicators -->
@@ -233,13 +236,13 @@ he does not use the grid system of Bootstrap. -->
             <p>We promise not to share your email</p>
            
            <label for="name"><b>Name:</b></label>
-            <input type="text"  name="psw" required><br>
+            <input type="text"  name="name" required><br>
 
            <label for="email"><b>Email:</b></label>
             <input type="email"  name="email" required>
 
             <label for="textarea">Your Question...</label><br>
-            <textarea rows="5" cols="45" name="comment"></textarea>
+          <textarea rows="5" cols="45" name="comment"></textarea>
         
             <button type="submit" class="btn-contact">Submit</button>
           </form>
