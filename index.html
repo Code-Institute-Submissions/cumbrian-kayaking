@@ -106,16 +106,73 @@ he does not use the grid system of Bootstrap. -->
          </div>
      </section>
 </div>
- <!----------------------------Trips Section  -->
+ <!----------------------------Slideshow Trips Section  -->
+ <!---------------------------- This code section is taken and adapted from w3schools.com  -->
+
  <div ="container trips-container">    
      <section class="trips">     
-      <div class="row">
-      <div class="col-12 my-5">
-       <h2 class ="text-uppercase">Our Popular Trips</h2>
+       <div class="row">
+         <div class="col-12 my-5">
+            <h2 class ="text-uppercase">Our Popular Trips</h2> 
+         </div>
       </div>
-      </div>
-    </section>
-    </div>
+   
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <!-- Carousel indicators -->
+                <ol class="carousel-indicators">
+                  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                  <li data-target="#myCarousel" data-slide-to="1"></li>
+                  <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol>   
+                <!-- Wrapper for carousel items -->
+                <div class="carousel-inner">
+                  <div class="item carousel-item active">
+                    <img src="/images/slider-corporate.png" alt="">
+                    <div class="carousel-caption">
+                      <h2>Corporate Team Weekends</h2>
+                      <p>A weekend away with your team-good food and magnificent scenery!</p>
+                      <div class="carousel-action">
+                       <a href="#" class="btn btn-trip">Learn More</a>
+                      </div>
+                    </div>
+                  </div>	
+                  <div class="item carousel-item">
+                    <img src="images/slider-birdwatching.png" alt="">
+                    <div class="carousel-caption">
+                      <h2>Birdwatching & Hiking</h2>							
+                      <p>See the extraordinary birds of the Lake District.</p>
+                      <div class="carousel-action">
+                      <a href="#" class="btn btn-trip">Learn More</a>
+                      </div> 
+                    </div> 
+                  </div>
+                  <div class="item carousel-item">
+                    <img src="/images/slider-touring.png" alt="">
+                    <div class="carousel-caption">
+                      <h2>Kayak Lake Tours</h2>
+                      <p>Do your own thing and explore the beauty of this national park </p>
+                      <div class="carousel-action">
+                      <a href="#" class="btn btn-trip">Learn More</a>
+                      </div>
+                    </div>
+                  </div>	
+                </div>
+                <!-- Carousel controls -->
+                <a class="carousel-control left carousel-control-prev" href="#myCarousel" data-slide="prev">
+                  <i class="fa fa-angle-left"></i>
+                </a>
+                <a class="carousel-control right carousel-control-next" href="#myCarousel" data-slide="next">
+                  <i class="fa fa-angle-right"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+  </div>
+
+
+
     <!----------------------------Team Section  -->
 <div ="container team-container">
 <section class="team">     
@@ -166,13 +223,14 @@ he does not use the grid system of Bootstrap. -->
   </section>
   </div>
  <!----------------------------Contact Section  -->
- <div ="container contact-container">
+ <div ="container-fluid contact-container">
  <section class="contact"> 
     <div class="row">
         <div class="col-12">
         <div class="form-wrapper">
              <header class="form-head">
              <h2 class="text-uppercase">Get In Touch</h2>
+             <p>We promise not to share your email</p>
              </header>
             <form action=""method="POST">
                 <div class="name-form">
