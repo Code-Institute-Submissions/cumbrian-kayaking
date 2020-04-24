@@ -3,6 +3,24 @@
 
 /*----------------------------------- Global Styles */
 
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.general-sub {
+  font-family: "Exo", sans-serif;
+  font-weight: 300;
+  color: #fafafa;
+}
+.inline-block {
+  display: inline-block;
+}
+
 
 /* -----------------------------------Callout Section */
  /* Style details for callout img https://css-tricks.com/perfect-full-page-background-image/ */
@@ -211,7 +229,7 @@ form.container {
   margin: 20px;
   max-width: 500px;
   padding: 16px;
-  background-color: #161d235c;
+  background-color: rgba(22, 29, 35, 0.3);
   border-radius: 20px;
   
 }
@@ -254,35 +272,41 @@ background-color: #ddd;
 
 
 
-/* -----------------------------------Callout Section */
+/* -----------------------------------Footer Section */
 
 
 
 
 
 
- footer {
-    color: #131212;
-    background: #9d9d9d;
-  }
 
-  .footer-container {
-    display: flex;
-    padding: 2rem;
-    width: 100%;
-    margin: auto; 
-    align-items: center;
-    min-height: 10vh;
-    flex-wrap: wrap;
-  }
-
-   footer h5 {
-    flex: 1 1 40rem;
-  }
-  footer ul {
-    display: flex;
-    list-style: none;
-    flex: 1 1 40rem;
-    justify-content: space-between;
-    align-items: center;
-  }
+footer {
+  background-color: #525252;
+  color: #fafafa;
+  min-height: 120px;
+  margin: 0;
+}
+#footer-details {
+  padding: 20px;
+}
+.social-links {
+  padding-bottom: 15px;
+}
+.social-links li a i {
+  width: 52px;
+  height: 52px;
+  padding: 12px 0;
+  border-radius: 50%;
+  font-size: 23px;
+  line-height: 7px;
+  text-align: center;
+  color: #fafafa;
+  background: #8f8f8f;
+  transition: all 0.35s ease-in-out;
+  -moz-transition: all 0.35s ease-in-out;
+  -webikit-transition: all 0.35s ease-in-out;
+  -o-transition: all 0.35s ease-in-out;
+}
+.social-links li a i:hover {
+  background: #93970f;
+}
