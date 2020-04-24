@@ -252,7 +252,7 @@ background-color: #ddd;
 }
 
 /* Set a style for the submit button */
-.btn-contact {
+ button.btn-contact {
   background-color: #edf40f;
   color: black;
   font-weight: 700;
