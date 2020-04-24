@@ -9,16 +9,17 @@
 
 
 
-/* Callout Section */
+/* -----------------------------------Callout Section */
+ /* Style details for callout img https://css-tricks.com/perfect-full-page-background-image/ */
 
 .callout-container {
  height: 100vh;
-background:url("/images/girl-kayak-hero.png") no-repeat bottom right fixed;
+background:url("/images/girl-kayak-sm.png") no-repeat bottom right fixed;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
-display: flex;
+display: flex; 
 align-items: center;
 justify-content: center;
 position:relative;
@@ -45,7 +46,7 @@ position:relative;
 .navbar {
     margin-bottom:0; 
     border:0;
-    padding:5px;
+    padding:5px; 
     width: 100%;
     background-color:rgba(0, 0, 0, 0.25);
     z-index:1; 
@@ -65,8 +66,9 @@ position:relative;
 
 
 
+/* -----------------------------------Jumbotron Section */
 
-/* Jumbotron Section */
+
 
 .jumbotron {
 background-color: transparent;
@@ -103,8 +105,10 @@ font-size: 80%;
 background-color:#93970f;
 border-color:#93970f;
 } 
-/* Features Section */
+
+/* -----------------------------------Feature Card Section */
  /*Styling for the features/cards adapted from examples in Deved course on HTML & CSS on Youtube  */
+ /* Icons used are from "Icon made by Pixel perfect from www.flaticon.com" */
 .
 .features-container {
  padding: 0;
@@ -153,7 +157,8 @@ max-width: 15%;
 margin:2rem;   
 }
 
-/* Carousel Section */
+
+/* -----------------------------------Carousel Section */
 
 .trips-container {
   height: 100vh;
@@ -271,10 +276,11 @@ margin:2rem;
 }
 
 
-/* Contact Section */
+
+/* -----------------------------------Contact Section */
 
 .bg-img {  
-  background-image: url("/images/contact-bkg.png");
+  background-image: url("/images/contact-form-bkg2.png");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -292,7 +298,7 @@ form.container {
   margin: 20px;
   max-width: 500px;
   padding: 16px;
-  background-color: #545b6285;
+  background-color: #161d235c;
   border-radius: 20px;
   
 }
@@ -334,7 +340,8 @@ background-color: #ddd;
 
 
 
-/* Footer Section */
+
+/* -----------------------------------Callout Section */
 
 
 
@@ -346,7 +353,7 @@ background-color: #ddd;
     background: #9d9d9d;
   }
 
-  .footer-wrapper {
+  .footer-container {
     display: flex;
     padding: 2rem;
     width: 100%;

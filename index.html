@@ -1,317 +1,362 @@
 <!DOCTYPE html>
-<html lang="en"> 
+<html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Cumbrian Kayaking | Kayaking in the Lake District</title>
-    <link rel="icon" href="/icons/kayak.svg">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
- <link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Raleway:400,700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/style.css">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Cumbrian Kayaking | Kayaking in the Lake District</title>
+	<link rel="icon" href="/icons/kayak.svg">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+		integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Raleway:400,700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="/css/style.css">
 
 </head>
-<body> 
-<div class="container-fluid navbar-container">
-   <nav class="navbar navbar-dark  navbar-expand-sm"> 
-      <a href="#" class="navbar-brand">Cumbrian Kayaking</a>
-       <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+
+<body>
+	<!-------------------------------------------------------- Navbar Section  -->
+	<div class="container-fluid navbar-container">
+		<nav class="navbar navbar-dark  navbar-expand-sm">
+			<a href="#" class="navbar-brand">Cumbrian Kayaking</a>
+			<button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
                   aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                  <span class="navbar-toggler-icon"></span></button>
-      <div class="collapse navbar-collapse" id="navbarNavDropdown"> 
-        <ul class="navbar-nav ml-auto">
-            <li class="active nav-item ml-4"><a class="nav-link" href="#">Home</a></li>
-            <li class="nav-item ml-4"><a class="nav-link" href="#">Contact</a></li>
-            <li class="nav-item ml-4"><a class="nav-link" href="#">Features</a></li>       
-            <li class="nav-item dropdown"></li> 
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenulink" role="button" data-toggle="dropdown"
-            aria-haspopup="true" aria-expanded="false">
-          About Us   
-          </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenulink">    
-                  <a class="dropdown-item" href="#">Our Team</a>
-                  <a class="dropdown-item" href="#">Testimonials</a>
-                </div> 
-        </ul>
-     </div>
-   </nav>
-   </div> 
+			<div class="collapse navbar-collapse" id="navbarNavDropdown">
+				<ul class="navbar-nav ml-auto">
+					<li class="active nav-item ml-4"><a class="nav-link" href="#">Home</a></li>
+					<li class="nav-item ml-4"><a class="nav-link" href="#">Contact</a></li>
+					<li class="nav-item ml-4"><a class="nav-link" href="#">Features</a></li>
+					<li class="nav-item dropdown"></li>
+					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenulink" role="button"
+						data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						About Us
+					</a>
+					<div class="dropdown-menu" aria-labelledby="navbarDropdownMenulink">
+						<a class="dropdown-item" href="#">Our Team</a>
+						<a class="dropdown-item" href="#">Testimonials</a>
+					</div>
+				</ul>
+			</div>
+		</nav>
+	</div>
 
-<div class="container-fluid callout-container mt-3">
-<!----------------------------Callout Section  --> 
-<div class="opaque-overlay">&nbsp;</div>
-<div class="row">
-   <div class="col-12">
-     <section class="callout jumbotron text-center" >
-       <h1 class="jumbotron-header">Kayak The Lakes</h1>
-        <p class="lead">Get Our 2020 Brochure Now </p>
-       <button class="btn btn-cta btn-lg" data-toggle="modal" data-target="#signUpModal">I Want the Brochure!</button>
-        <p class="text-muted"><small>Great Discounts Available for Groups</small></p>
-     </section>
-   </div>
-</div>
-</div> 
+	<div class="container-fluid callout-container mt-3">
+		<!-------------------------------------------------------- Jumbotron Section  -->
+		<div class="opaque-overlay">&nbsp;</div>
+		<div class="row">
+			<div class="col-12">
+				<section class="callout jumbotron text-center">
+					<h1 class="jumbotron-header">Kayak The Lakes</h1>
+					<p class="lead">Get Our 2020 Brochure Now </p>
+					<button class="btn btn-cta btn-lg" data-toggle="modal" data-target="#signUpModal">I Want the Brochure!</button>
+					<p class="text-muted"><small>Great Discounts Available for Groups</small></p>
+				</section>
+			</div>
+		</div>
+	</div>
 
-<!----------------------------Features Section 
+	<!---------------------------------------------------------Feature Card Section 
 This section of code and the accompanying styling in CSS  for the cards was inspired and is adapted from, the Deved course on Youtube
 he does not use the grid system of Bootstrap. -->
 
-<div class="container-fluid features-container"> 
-<section id="features">
-<header class="features-head">
-   <div class="row">
-   <div class="col-12 my-5">
-      <h2 class="text-uppercase">What To Expect </h2>
-      <h3>Superb camp cuisine, luxury tents, breathtaking kayaking!</h3>
-      </div>
-      </div>
-      </header>
+	<div class="container-fluid features-container">
+		<section id="features">
+			<header class="features-head">
+				<div class="row">
+					<div class="col-12 my-5">
+						<h2 class="text-uppercase">What To Expect </h2>
+						<h3>Superb camp cuisine, luxury tents, breathtaking kayaking!</h3>
+					</div>
+				</div>
+			</header>
 
-    <div class="cards">
+			<div class="cards">
 
-  <div class="row"> 
-      <div class="col-12 col-md-6 col-lg-4">
-         <div class="card">
-          <div class="card-icon">
-            <img src="icons/kayaking.svg" alt=""/>
+				<div class="row">
+					<div class="col-12 col-md-6 col-lg-4">
+						<div class="card">
+							<div class="card-icon">
+								<img src="icons/kayaking.svg" alt=""/>
           </div>
-           <h4>Learning to Kayak </h4>  
-            <p>Beginners or Advanced - we have weekend workshops and 3-Day courses for every aspect of kayaking!</p> 
-         </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-12 col-md-6 col-lg-4">
-           <div class="card">
-             <div class="card-icon">
-              <img src="icons/binocular.svg" alt=""/>
-              </div>    
-                <h4>Activities</h4>
-                <p> Birdwatching and Hiking in the spectacular Lake District. 2-Day 3-night getaways.  </p>
+								<h4>Learning to Kayak </h4>
+								<p>Beginners or Advanced - we have weekend workshops and 3-Day courses for every aspect
+									of kayaking!</p>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-12 col-md-6 col-lg-4">
+							<div class="card">
+								<div class="card-icon">
+									<img src="icons/binocular.svg" alt=""/>
               </div>
-            </div>
-          </div>
-          <div class"row">
-            <div class="col-12 d-md-none d-lg-block d-col-lg-4">
-              <div class="card">
-                  <div class="card-icon">
-                    <img src="icons/good-tent.svg" alt=""/>
-                  </div>   
-                    <h4>Food & Accomodation</h4>
-                    <p>Nutritious and delicious, hearty meals with vegan and vegetarian options. Superb yurt accomodation with all the comforts.
-                    </p>  
-               </div>
-              </div>
-            </div>
-         </div>
-     </section>
-</div>
- <!----------------------------Slideshow Trips Section  -->
- <!---------------------------- This code section is taken and adapted from w3schools.com  -->
-
- <div ="container trips-container">    
-     <section class="trips">
-     <header class="trips-head">     
-       <div class="row">
-         <div class="col-12 my-5">
-            <h2 class ="text-uppercase">Our Popular Trips</h2> 
-            <p>Friends,family or solo, teams and teens we have the perfect getaway!</p>
-         </div>
-      </div>
-     </header> 
-   
-        <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                <!-- Carousel indicators -->
-                <ol class="carousel-indicators">
-                  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                  <li data-target="#myCarousel" data-slide-to="1"></li>
-                  <li data-target="#myCarousel" data-slide-to="2"></li>
-                </ol>   
-                <!-- Wrapper for carousel items -->
-                <div class="carousel-inner">
-                  <div class="item carousel-item active">
-                    <img src="/images/slider-corporate.png" alt="">
-                    <div class="carousel-caption">
-                      <h2>Corporate Team Weekends</h2>
-                      <p>A weekend away with your team-good food and magnificent scenery!</p>
-                      <div class="carousel-action">
-                       <a href="#" class="btn btn-trip">Learn More</a>
-                      </div>
-                    </div>
-                  </div>	
-                  <div class="item carousel-item">
-                    <img src="images/slider-birdwatching.png" alt="">
-                    <div class="carousel-caption">
-                      <h2>Birdwatching & Hiking</h2>							
-                      <p>See the extraordinary birds of the Lake District.</p>
-                      <div class="carousel-action">
-                      <a href="#" class="btn btn-trip">Learn More</a>
-                      </div> 
-                    </div> 
+									<h4>Activities</h4>
+									<p> Birdwatching and Hiking in the spectacular Lake District. 2-Day 3-night
+										getaways. </p>
+								</div>
+							</div>
+						</div>
+						<div class"row">
+							<div class="col-12 d-md-none d-lg-block d-col-lg-4">
+								<div class="card">
+									<div class="card-icon">
+										<img src="icons/good-tent.svg" alt=""/>
                   </div>
-                  <div class="item carousel-item">
-                    <img src="/images/slider-touring.png" alt="">
-                    <div class="carousel-caption">
-                      <h2>Kayak Lake Tours</h2>
-                      <p>Do your own thing and explore the beauty of this national park </p>
-                      <div class="carousel-action">
-                      <a href="#" class="btn btn-trip">Learn More</a>
-                      </div>
-                    </div>
-                  </div>	
-                </div>
-                <!-- Carousel controls -->
-                <a class="carousel-control left carousel-control-prev" href="#myCarousel" data-slide="prev">
-                  <i class="fa fa-angle-left"></i>
+										<h4>Food & Accomodation</h4>
+										<p>Nutritious and delicious, hearty meals with vegan and vegetarian options.
+											Superb yurt accomodation with all the comforts.
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+		</section>
+	</div>
+	<!----------------------------Slideshow-Trips Section  -->
+	<!---------------------------- This code section is taken and adapted from w3schools.com  -->
+
+	<div="container trips-container">
+		<section class="trips">
+			<header class="trips-head">
+				<div class="row">
+					<div class="col-12 my-5">
+						<h2 class="text-uppercase">Our Popular Trips</h2>
+						<p>Friends,family or solo, teams and teens we have the perfect getaway!</p>
+					</div>
+				</div>
+			</header>
+
+			<div id="myCarousel" class="carousel slide" data-ride="carousel">
+				<!-- Carousel indicators -->
+				<ol class="carousel-indicators">
+					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+					<li data-target="#myCarousel" data-slide-to="1"></li>
+					<li data-target="#myCarousel" data-slide-to="2"></li>
+				</ol>
+				<!-- Wrapper for carousel items -->
+				<div class="carousel-inner">
+					<div class="item carousel-item active">
+						<img src="/images/slider-corporate.png" alt="">
+						<div class="carousel-caption">
+							<h2>Corporate Team Weekends</h2>
+							<p>A weekend away with your team-good food and magnificent scenery!</p>
+							<div class="carousel-action">
+								<a href="#" class="btn btn-trip">Learn More</a>
+							</div>
+						</div>
+					</div>
+					<div class="item carousel-item">
+						<img src="images/slider-birdwatching.png" alt="">
+						<div class="carousel-caption">
+							<h2>Birdwatching & Hiking</h2>
+							<p>See the extraordinary birds of the Lake District.</p>
+							<div class="carousel-action">
+								<a href="#" class="btn btn-trip">Learn More</a>
+							</div>
+						</div>
+					</div>
+					<div class="item carousel-item">
+						<img src="/images/slider-touring.png" alt="">
+						<div class="carousel-caption">
+							<h2>Kayak Lake Tours</h2>
+							<p>Do your own thing and explore the beauty of this national park </p>
+							<div class="carousel-action">
+								<a href="#" class="btn btn-trip">Learn More</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- Carousel controls -->
+				<a class="carousel-control left carousel-control-prev" href="#myCarousel" data-slide="prev">
+					<i class="fa fa-angle-left"></i>
+				</a>
+				<a class="carousel-control right carousel-control-next" href="#myCarousel" data-slide="next">
+					<img src="icons/angle-right-solid.svg" alt=""/>
                 </a>
-                <a class="carousel-control right carousel-control-next" href="#myCarousel" data-slide="next">
-                  <img src="icons/angle-right-solid.svg" alt=""/>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-  </div>
+			</div>
+			</div>
+			</div>
+			</div>
+		</section>
+		</div>
 
 
 
-    <!----------------------------Team Section  -->
-<div ="container team-container">
-<section class="team">     
-      <div class="row">
-      <div class="col-12 my-5">
-       <h2 class ="text-uppercase">Meet The Team</h2>
-      </div>
-      </div>
-    </section>
-</div>
- 
 
-  
- <!----------------------------Reviews Section  -->
- <div ="container reviews-container">
- <section class="reviews">
-      <div class="row">
-        <div class="col-12 my-5">
-            <h2 class= "text-uppercase">Our Reviews</h2>      
-        </div>
-       </div>
-       
-      <div class="row"> 
-         <div class="col-12 col-md-6 col-lg-4">
-            <blockquote class="blockquote">
-                <p>I have a lot to say about this holiday</p> 
-                <p>Jane from Essex</p>
-            </blockquote>
-          </div>
-       
-      
-
-            <div class="col-12 col-md-6 col-lg-4"> 
-              <blockquote class="blockquote">
-                 <p>I have a lot to say about this holiday</p>
-                 <p>Richard from Essex</p>
-              </blockquote>
-            </div>
-
-              <div class="col-12 d-md-none d-lg-block col-lg-4">
-                 <blockquote class="blockquote">
-                   <p>I have a lot to say about this holiday</p>  
-                    <p>Samantha from Essex</p>
-                 </blockquote>
-             </div>
-         </div>
-   
-  </section>
-  </div>
- <!----------------------------Contact Section  --> 
- <div ="container-fluid contact-container">
- <section class="contact"> 
-    <div class="row">
-        <div class="col-12">
-         <div class="bg-img">
-          <form action="/action_page.php" class="container">
-            <h2 class="text-uppercase">Get In Touch</h2>
-            <p>We promise not to share your email</p>
-           
-           <label for="name"><b>Name:</b></label>
-            <input type="text"  name="name" required><br>
-
-           <label for="email"><b>Email:</b></label>
-            <input type="email"  name="email" required>
-
-            <label for="textarea">Your Question...</label><br>
-          <textarea rows="5" cols="45" name="comment"></textarea>
-        
-            <button type="submit" class="btn-contact">Submit</button>
-          </form>
-        </div> 
-       </section>
-      </div>
-   
+		<!-------------------------------------------------------- Team Section  -->
+		<div="container team-container">
+			<section class="team">
+				<div class="row">
+					<div class="col-12 my-5">
+						<h2 class="text-uppercase">Meet The Team</h2>
+					</div>
+				</div>
+			</section>
+			</div>
 
 
-    
-<div class="modal" tabindex="-1" role="dialog" id="signUpModal">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-             <div class="modal-header">
-               <h5 class="modal-title">Sign Up to Get the 2020 Brochure</h5>
-                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+
+			<!-------------------------------------------------------- Reviews  Section  -->
+			<div="container reviews-container">
+				<section class="reviews">
+					<div class="row">
+						<div class="col-12 my-5">
+							<h2 class="text-uppercase">Our Reviews</h2>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-12 col-md-6 col-lg-4">
+							<blockquote class="blockquote">
+								<p>I have a lot to say about this holiday</p>
+								<p>Jane from Essex</p>
+							</blockquote>
+						</div>
+
+
+
+						<div class="col-12 col-md-6 col-lg-4">
+							<blockquote class="blockquote">
+								<p>I have a lot to say about this holiday</p>
+								<p>Richard from Essex</p>
+							</blockquote>
+						</div>
+
+						<div class="col-12 d-md-none d-lg-block col-lg-4">
+							<blockquote class="blockquote">
+								<p>I have a lot to say about this holiday</p>
+								<p>Samantha from Essex</p>
+							</blockquote>
+						</div>
+					</div>
+
+				</section>
+				</div>
+				<<!-------------------------------------------------------- Contact Section -->
+					<div="container-fluid contact-container">
+						<section class="contact">
+							<div class="row">
+								<div class="col-12">
+									<div class="bg-img">
+										<form action="/action_page.php" class="container">
+											<h2 class="text-uppercase">Get In Touch</h2>
+											<p>We promise not to share your email</p>
+
+											<label for="name"><b>Name:</b></label>
+											<input type="text"  name="name" required><br>
+
+											<label for="email"><b>Email:</b></label>
+											<input type="email"  name="email" required>
+
+											<label for="textarea">Your Question...</label><br>
+											<textarea rows="5" cols="45" name="comment"></textarea>
+
+											<button type="submit" class="btn-contact">Submit</button>
+										</form>
+									</div>
+						</section>
+						</div>
+
+						<!-------------------------------------------------------- Modal Section  -->
+
+
+						<div class="modal" tabindex="-1" role="dialog" id="signUpModal">
+							<div class="modal-dialog" role="document">
+								<div class="modal-content">
+									<div class="modal-header">
+										<h5 class="modal-title">Sign Up to Get the 2020 Brochure</h5>
+										<button type="button" class="close" data-dismiss="modal" aria-label="Close">
                   <span aria-hidden="true">&times;</span>
-                  </button>     
-             </div>
-      <div class="modal-body">
-          <form>    
-            <div class="form-group">
-              <label for="exampleInputEmail1">Email address</label>
-                 <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-                    </div>
-                   <div class="form-group">
-                      <label for="password">Password</label>
-                     <input type="password" class="form-control" id="password">
+                  </button>
+									</div>
+									<div class="modal-body">
+										<form>
+											<div class="form-group">
+												<label for="exampleInputEmail1">Email address</label>
+												<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+												<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+											</div>
+											<div class="form-group">
+												<label for="password">Password</label>
+												<input type="password" class="form-control" id="password">
                   </div>
-            <button type="submit" class="btn btn-success">Submit</button>
-          </form>
-        </div>
-      </div>
-    </div>
- </div>
-   <footer>
-      <div class="footer-wrapper">
-        <h5>Cumbrian&nbspKayaking &copy;</h5>
-         <ul>  
-            <li class="list-inline-item">
-              <a href="#" target="_blank">
-                  <i class="fab fa-facebook-square" aria-hidden="true"></i>
-               <span class="sr-only">Facebook</span>
-              </a>
-            </li>
-             <li class="list-inline-item">
-              <a href="#" target="_blank">
-               <i class="fab fa-twitter-square" aria-hidden="true"></i>
-               <span class="sr-only">Twitter</span>
-              </a>
-             </li>
-           <li>
-            <li class="list-inline-item">
-              <a href="#" target="_blank">
-               <i class="fab fa-youtube-square" aria-hidden="true"></i>
-               <span class="sr-only">Youtube</span>
-              </a>
-           </li> 
-         </ul>
-       </div>
-    </footer>
+												<button type="submit" class="btn btn-success">Submit</button>
+										</form>
+									</div>
+								</div>
+							</div> 
+						</div>
+						<!-------------------------------------------------------- Footer Section  -->
+						<footer>
+							<div class="container-fluid footer-container">
+								<div id="footer-details" class="row">
+									<div class="col-sm-4 ">
+										<h5>Cumbrian&nbspKayaking &copy;</h5>
+										<p><a href="#">Sign Up for our 2020 Brochure Here </a></p> 
+									</div>
+                                 </div>
+									<div class="col-sm-4">
+										<h5 class=" general-sub">Social</h5>
+										<ul class="list-inline social-links">
+											<li class="list-inline-item">
+												<a href="https://www.facebook.com" target="_blank">
+													<i class="fab fa-facebook-square" aria-hidden="true"></i>
+													<span class="sr-only">Facebook</span>
+												</a>
+											</li>
+
+											<li class="list-inline-item">
+												<a href="https://www.twitter.com" target="_blank">
+													<i class="fab fa-twitter-square" aria-hidden="true"></i>
+													<span class="sr-only">Twitter</span>
+												</a>
+											</li>
+											
+											<li class="list-inline-item">
+												<a href="https://www.youtube.com" target="_blank">
+													<i class="fab fa-youtube" aria-hidden="true"></i>
+													<span class="sr-only">YouTube</span>
+												</a>
+											</li>
+											<li class="list-inline-item">
+												<a href="https://www.instagram.com" target="_blank">
+													<i class="fab fa-instagram" aria-hidden="true"></i>
+													<span class="sr-only">Instagram</span>
+												</a>
+											</li>
+										</ul>
+                                     </div> 
+										<div class="row">
+											<div class="col-sm-4 ">
+
+												 <a href="#" class="text-dark">Terms of Use</a>
+												<span class="text-muted mx-2">|</span> <a href="#"
+													class="text-dark">Privacy Policy</a>
+											</div>
+										</div>
+
+									</div>
+								</div> 
+                                </div>
+						</footer>
 
 
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+						<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+							integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+							crossorigin="anonymous">
+						</script>
+						<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+							integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+							crossorigin="anonymous">
+						</script>
+						<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+							integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+							crossorigin="anonymous">
+						</script>
 
 
-    
+
 </body>
+
 </html>
