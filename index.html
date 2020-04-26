@@ -327,37 +327,42 @@ he does not use the grid system of Bootstrap. -->
 							<!-- </section> -->
 						</div>
 
+
 						<!-------------------------------------------------------- Modal Section  -->
 
+<div class="modal" tabindex="-1" role="dialog" id="signUpModal">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Sign Up For Our Holiday Brochure</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>     
+      </div>
+      <div class="modal-body">
+ <form>
+ <div class="form-group">
+      <label for="name">Password</label>
+        <input type="text" class="form-control" id="name "placeholder="Name">
+  </div>
+    <div class="form-group">
+      <label for="exampleInputEmail1">Email address</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+          <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+  </div>
+  
+  
+  <button type="submit" class="btn btn-modal">Send Me the Brochure!</button><form>
+  
+</form>
+      </div>
+     
+    </div>
+  </div>
+</div>
 
-						<div class="modal" tabindex="-1" role="dialog" id="signUpModal">
-							<div class="modal-dialog" role="document">
-								<div class="modal-content">
-									<div class="modal-header">
-										<h5 class="modal-title">Sign Up to Get the 2020 Brochure</h5>
-										<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                  <span aria-hidden="true">&times;</span>
-                  </button>
-									</div>
-									<div class="modal-body">
-										<form>
-											<div class="form-group">
-												<label for="exampleInputEmail1">Email address</label>
-												<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-												<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-											</div>
-											<div class="form-group">
-												<label for="password">Password</label>
-												<input type="password" class="form-control" id="password">
-                  </div>
-												<button type="submit" class="btn btn-success">Submit</button>
-										</form>
-									</div>
-								</div>
-							</div>
-						</div>
 						<!-------------------------------------------------------- Footer Section  -->
-						<footer class="container-fluid ">
+						<!-- <footer class="container-fluid ">
 							<div id="footer-details" class="row">
 								<div class="col-sm-4 ">
 									<h5>Cumbrian&nbspKayaking &copy;</h5>
@@ -400,8 +405,25 @@ he does not use the grid system of Bootstrap. -->
 									</div>
 								</div>
 							</div>
-						</footer>
-
+						</footer> -->
+<footer >  
+    <div class="container-fluid footer-container">
+    <div class="row">
+    div class="col-12"
+    </div>
+        <div class="row align-items-center">
+            <div class="col-lg-4 text-lg-left">Copyright © Cumbrian Kayaking 2020</div>
+            <div class="col-lg-4 my-3 my-lg-0">
+                <a class="btn btn-dark btn-social mx-2" href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+                <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com" target="_blank"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a>
+                <a class="btn btn-dark btn-social mx-2" href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+              </div>
+            <div class="col-lg-4 text-lg-right"><a class="mr-3" >Get Your 2020 Brochure!</a><a href="#! target="#signUpModal">Sign Up Here! </a></div>
+        </div>
+    </div>
+</footer>
+ 
 
 						<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
 							integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"

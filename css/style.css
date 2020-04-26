@@ -206,7 +206,7 @@ margin:2rem;
 
 /* -----------------------------------Team Section */
 .team-container {
-height: vh100;
+height: 100 vh;
 border: 0;
 padding:0;
 }
