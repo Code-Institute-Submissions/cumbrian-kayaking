@@ -17,7 +17,7 @@
 <body>
 	<!-------------------------------------------------------- Navbar Section  -->
 	<div class="container-fluid navbar-container">
-		<nav class="navbar navbar-dark  navbar-expand-sm">
+		<nav class="navbar navbar-dark  navbar-expand-sm fixed-top">
 			<a href="#" class="navbar-brand">Cumbrian Kayaking</a>
 			<button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
                   aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -63,8 +63,7 @@ he does not use the grid system of Bootstrap. -->
 	<div class="container-fluid features-container">
 		<section id="features">
 			<header class="features-head">
-				<div class="row">
-					<div class="col-12 my-5">
+
 						<h2 class="text-uppercase">What To Expect </h2>
 						<h3>Superb camp cuisine, luxury tents, breathtaking kayaking!</h3>
 					</div>
@@ -102,10 +101,10 @@ he does not use the grid system of Bootstrap. -->
 								<div class="card">
 									<div class="card-icon">
 										<img src="icons/good-tent.svg" alt=""/>
-                  </div>
+    </div>
 										<h4>Food & Accomodation</h4>
 										<p>Nutritious and delicious, hearty meals with vegan and vegetarian options.
-											Superb yurt accomodation with all the comforts.
+											Luxury tent accomodation with all the comforts.
 										</p>
 									</div>
 								</div>
@@ -115,9 +114,9 @@ he does not use the grid system of Bootstrap. -->
 	</div>
 	<!-----------------------------Trips Image Section  -->
 
-	<div class="container-fluid trips-container"> 
+	<div class="container-fluid Gallery-container"> 
 		<section class="trips">
-			<header class="trips-head">
+			<header class="gallery-head">
 				<div class="row">
 					<div class="col-12 my-5">
 						<h2 class="text-uppercase">Our Popular Trips</h2>
@@ -125,24 +124,24 @@ he does not use the grid system of Bootstrap. -->
 					</div>
 				</div>
 			</header>
+            <div id="gallery">
 			<div class="row my-5">
 				<!-- Gallery item -->
 				<div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-					<div class="bg-white rounded shadow-sm"><img src="/images/slider-birdwatching.png" alt="" class="img-fluid card-img-top">
+					<div class="bg-white rounded shadow-sm"><img src="/images/bird-hike-gallery6.png" alt="" class="img-fluid card-img-top">
 						<div class="p-4">
 							<h5> <a href="#" class="text-dark">Birdwatching</a></h5>
-							<p class="small text-dark mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+							<p class="small text-dark mb-0">See spectacular lake birds, enjoy the beauty of a national park</p>
 						</div>
 					</div>
 				</div>
 
 				<!-- End -->
 				<div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-					<div class="bg-white rounded shadow-sm"><img src="/images/slider-corporate.png" alt="" class="img-fluid card-img-top">
+					<div class="bg-white rounded shadow-sm"><img src="/images/corporate-gallery-3.png" alt="" class="img-fluid card-img-top">
 						<div class="p-4">
 							<h5> <a href="#" class="text-dark">Corporate Teams </a></h5>
-							<p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit
-							</p>
+							<p class="small text-muted mb-0">Escape from the office with your colleagues</p>
 
 						</div>
 					</div>
@@ -150,10 +149,10 @@ he does not use the grid system of Bootstrap. -->
 
 				<!-- Gallery item -->
 				<div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-					<div class="bg-white rounded shadow-sm"><img src="/images/slider-family2.png" alt="" class="img-fluid card-img-top">
+					<div class="bg-white rounded shadow-sm"><img src="/images/Family-gallery-1.png" alt="" class="img-fluid card-img-top">
 						<div class="p-4">
-							<h5> <a href="#" class="text-dark">Friend Weekends</a></h5>
-							<p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit
+							<h5> <a href="#" class="text-dark">Reunion Weekends</a></h5>
+							<p class="small text-muted mb-0">The perfect way to spend time with old friends and make new ones!
 							</p>
 
 						</div>
@@ -164,10 +163,10 @@ he does not use the grid system of Bootstrap. -->
 
 			<div class="row my-5"> 
 				<div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-					<div class="bg-white rounded shadow-sm"><img src="/images/slider-family.png" alt="" class="img-fluid card-img-top">
+					<div class="bg-white rounded shadow-sm"><img src="/images/Friends-gallery-2.png" alt="" class="img-fluid card-img-top">
 						<div class="p-4">
 							<h5> <a href="#" class="text-dark">Family Groups</a></h5>
-							<p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit
+							<p class="small text-muted mb-0">Family & friend get-togethers. Great food and great company
 							</p>
 
 						</div>
@@ -177,10 +176,10 @@ he does not use the grid system of Bootstrap. -->
 				<!-- Gallery item -->
 
 				<div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-					<div class="bg-white rounded shadow-sm"><img src="images/slider-corporate.png" alt="" class="img-fluid card-img-top">
+					<div class="bg-white rounded shadow-sm"><img src="images/Teen-gallery-4.png" alt="" class="img-fluid card-img-top">
 						<div class="p-4">
 							<h5> <a href="#" class="text-dark">Teen Weekends</a></h5>
-							<p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit
+							<p class="small text-muted mb-0">Learn to kayak, make friends, have fun!
 							</p>
 
 						</div>
@@ -190,7 +189,7 @@ he does not use the grid system of Bootstrap. -->
 
 				<!-- Gallery item -->
 				<div class="col-xl-3 col-lg-4 col-md-6 mb-4">
-					<div class="bg-white rounded shadow-sm"><img src="/images/Teen-weekends.png" alt="" class="img-fluid card-img-top">
+					<div class="bg-white rounded shadow-sm"><img src="/images/advanced-gallery-5.png" alt="" class="img-fluid card-img-top">
 						<div class="p-4">
 							<h5> <a href="#" class="text-dark">Intermediate Touring</a></h5>
 							<p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit
@@ -200,6 +199,7 @@ he does not use the grid system of Bootstrap. -->
 					</div>
 				</div>
 			</div>
+        </div>
 			<!-------------------------------------------------------- Team Section  -->
 
 			<div class=" container-fluid team-container">
