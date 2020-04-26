@@ -2,6 +2,23 @@
 
 
 /*----------------------------------- Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+
+}
+
+html {
+  font-size: 62.5%;
+}
 
 h1,
 h2,
@@ -103,10 +120,18 @@ font-size: 80%;
 }
 
 /* Buttons */
-
-.btn-cta {
+.btn  {
   background-color:#edf40f;
   font-weight: 700;
+  border-radius: 23px;
+  width: 200px;
+  font-size: 15px;
+}
+
+
+.btn-cta { 
+  background-color:#edf40f;
+  font-weight: 500;
   border-radius: 23px;
   width: 200px;
   font-size: 15px;
@@ -118,6 +143,9 @@ font-size: 80%;
 background-color:#93970f;
 border-color:#93970f;
 } 
+.btn-modal{
+
+}
 
 /* -----------------------------------Feature Card Section */
  /*Styling for the features/cards adapted from examples in Deved course on HTML & CSS on Youtube  */
