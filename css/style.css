@@ -9,7 +9,10 @@
 html {
   font-size: 62.5%;
 }
-
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
 
 h1 {
   font-size: 4rem;
@@ -183,7 +186,7 @@ font-size: 80%;
 .btn-cta:focus,
 .btn-cta:active:focus{ 
 background-color:#93970f;
-border-color:#93970f;
+border-color:#93970f; 
 } 
 .btn--contact{
  background-color:#edf40f;
@@ -192,7 +195,11 @@ border-color:#93970f;
   width: 100px;
   font-size: 15px;
 }
+.btn--social {
+    background-color:gray
+    width: 20px;
 
+}
 
 /* -----------------------------------Feature Card Section */
  /*Styling for the features/cards adapted from examples in Deved course on HTML & CSS on Youtube  */
