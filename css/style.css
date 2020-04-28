@@ -200,20 +200,19 @@ border-color:#93970f;
 .
 .features-container {
  padding: 0;
- width: 100%;
  height:100vh;
 }
-header.features-head { 
-  background: #756f6f;
-    padding: 1rem;
-    min-height: 30vh;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    text-align: center;
+.features-head { 
+ background: #756f6f;
+  padding: 1rem;
+  min-height: 30vh;
+  width: 100%; 
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
 } 
 header h3 {
     padding-top: 1rem;
@@ -330,10 +329,20 @@ team-member {
 }
 /* -----------------------------------Reviews Section */
 .review-container {
-    
-    padding: 0;
-    border: 0;
-    
+padding: 0;
+border: 0;
+    }
+.reviews-head {
+background: #756f6f;
+padding: 1rem;
+min-height: 30vh;
+width: 100%;
+display: flex; 
+flex-direction: column;
+justify-content: center;
+align-items: center;
+color: white;
+text-align: center; 
 }
 
 
