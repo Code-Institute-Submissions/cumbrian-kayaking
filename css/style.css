@@ -34,7 +34,7 @@ h2::after {
 	background: #edf40f;
 	left: 0;
 	right: 0;
-	bottom: -10px;
+	bottom: -5px;
 }
 
 
@@ -203,7 +203,7 @@ border-color:#93970f;
  width: 100%;
  height:100vh;
 }
-header.features-head {
+header.features-head { 
   background: #756f6f;
     padding: 1rem;
     min-height: 30vh;
@@ -214,6 +214,9 @@ header.features-head {
     align-items: center;
     color: white;
     text-align: center;
+} 
+header h3 {
+    padding-top: 1rem;
 }
 
 
@@ -258,17 +261,18 @@ margin:2rem;
 .gallery-container {
   height: 100vh;
   padding:0;
+  border:0;
 }
-.gallery-head {
-  background: #9d9d9d;
-  padding: 1rem; 
+header.gallery-head {
+  background: #756f6f;
+  padding: 1rem;
   min-height: 30vh;
-  width:100%
+  width: 100%; 
   display: flex;
-  flex-direction: column;
+  flex-direction: column; 
   justify-content: center;
   align-items: center;
-  color: # fff;
+  color: white;
   text-align: center;
 }
 .gallery-item {
@@ -284,13 +288,13 @@ margin:2rem;
    
   }
 
-  #gallery h3 {
+  #gallery h5 { 
     font-weight: 400; 
     font-size:2rem;
     text-align: center;
     }
-    #gallery h3,p {
-    text-align: center;
+    #gallery h5,p {
+    text-align: center; 
     }
 
 /* -----------------------------------Team Section */
@@ -324,13 +328,17 @@ team-member {
   margin-top: 1.5rem;
   margin-bottom: 0;
 }
+/* -----------------------------------Reviews Section */
+.review-container {
+    
+    padding: 0;
+    border: 0;
+    
+}
+
 
 /* -----------------------------------Contact Section */
-.contact-container {
-     height: 100vh
-     width: 100%;
 
- }
 
 
  .bg-img {  
@@ -405,7 +413,7 @@ background-color: #ddd;
 /* -----------------------------------Footer Section */
 
 footer {
-  background-color: #525252;
+  background-color: #756f6f;
   color: #fafafa;
   min-height: 120px;
   margin: 0;
