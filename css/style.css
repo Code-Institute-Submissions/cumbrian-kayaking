@@ -315,7 +315,7 @@ team-member {
 .team-member img {
   width: 14rem;
   height: 14rem;
-  border: 0.5rem solid rgba(0, 0, 0, 0.8);
+  border: 0.5rem solid rgba(0, 0, 0, 0.3);
 }
 .team-member h4 {
   margin-top: 1.5rem;
@@ -323,15 +323,20 @@ team-member {
 }
 
 /* -----------------------------------Contact Section */
+.contact-container {
+     height: 100vh;
 
-.bg-img {  
+ }
+
+
+ .bg-img {  
   background-image: url("/images/contact-form-bkg2.png");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-}
+} 
 
 /* Add styles to the form container */
 form.container {
