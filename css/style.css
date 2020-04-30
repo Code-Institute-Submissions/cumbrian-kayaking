@@ -43,8 +43,8 @@ h2::after {
 
 button,
 label,
-input,
-p {
+input
+ {
   font-size: 1.5rem;
 }
 h2 {
@@ -91,7 +91,9 @@ body {
 } 
 
 /* -----------------------------------Callout Section */
- /* Style details for callout img https://css-tricks.com/perfect-full-page-background-image/ */
+
+ /* Style details for callout img  from https://css-tricks.com/perfect-full-page-background-image/ */
+ /* Photo by Filip Mroz on Unsplash */
 
 .callout-container {
  height: 100vh;
@@ -134,11 +136,12 @@ position:relative;
     z-index:1; 
 }
 .navbar .navbar-toggler { 
-    border:0;
+    border:0; 
 }
-.navbar navlink a { 
-    font-weight: bold;
-    font-size: 2rem; 
+.nav-item a { 
+    font-weight: 400;
+    font-size: 1.5rem;
+    color:#fafafa 
 }
 .navbar-brand {
     font-family:'Kaushan Script', cursive;  
@@ -146,8 +149,8 @@ position:relative;
     margin-left: 2rem;
     font-size: 2rem;
 }  
-.navlink  {
-    font-size: 2rem;
+.nav-link.dropdown-toggle  {
+    font-size: 1.5rem;
 }
 
 
@@ -161,18 +164,20 @@ background-color: transparent;
 .jumbotron-header {
 color:white;
 font-weight: bold;
-font-size: 3rem;
+font-size: 3.5rem;
 margin-bottom: 10px;
 }
-.jumbotron .lead {
-font-size: 1.25rem;
-font-weight: 500;
-color:#fafafa;
+.lead {
+    font-size: 2rem;
+    font-weight: 300;
+    color: white;
 }
-.jumbotron small {
+/* .jumbotron small {
 color: #fff;
-font-size: 80%;
-}
+font-size: 1.5rem;
+font-weight:400;
+
+} */
 
 /* Buttons */
 
@@ -242,7 +247,7 @@ header h3 {
 }
 
 .card {
-  width: 25rem;
+  /* width: 25rem; */
   text-align: center;
   min-height: 40vh;
   margin: 2rem 5rem;
