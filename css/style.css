@@ -264,8 +264,7 @@ margin:2rem;
 
 /* -----------------------------------Trips Gallery Section */
 
-.gallery-container {
-  height: 100vh;
+.gallery-container { 
   padding:0;
   border:0;
 }
@@ -429,7 +428,7 @@ background-color: #ddd;
 /* -----------------------------------Footer Section */
 
 footer {
-  background-color: #756f6f;
+  background-color: #525252;
   color: #fafafa;
   min-height: 120px;
   margin: 0;
