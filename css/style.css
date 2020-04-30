@@ -338,18 +338,46 @@ team-member {
 padding: 0;
 border: 0;
     }
-.reviews-head {
-background: #756f6f;
-padding: 1rem;
-min-height: 30vh;
-width: 100%;
-display: flex; 
-flex-direction: column;
-justify-content: center;
-align-items: center;
-color: white;
-text-align: center; 
+
+/* Review Section */
+
+.review-container {
+  height: 100vh;
+  padding: 0; 
+  border:0; 
 }
+
+.reviews-head {
+  background: #756f6f;
+  padding: 1rem;
+  min-height: 30vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+}
+#reviews img{
+  margin-top: -5rem;
+  }
+  #reviews .card {
+    border-radius: 0;
+    border-color: #edf40f;
+    box-shadow: 5px 5px 15px #;
+    transition: all 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in ;
+  }
+  #reviews.card :hover{
+    background:#93970f
+    color:#fff;
+    border-radius: 5px;
+    border: none; 
+    box-shadow: 5px 5px 10px #9e9e9e;
+
+  }
 
 
 /* -----------------------------------Contact Section */
