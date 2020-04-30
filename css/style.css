@@ -146,7 +146,9 @@ position:relative;
     margin-left: 2rem;
     font-size: 2rem;
 }  
-
+.navlink a {
+    font-size: 2rem;
+}
 
 
 /* -----------------------------------Jumbotron Section */
