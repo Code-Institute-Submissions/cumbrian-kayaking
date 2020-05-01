@@ -37,10 +37,10 @@ d) ** **Company phone number & email address****  are in the navbar and in the f
  Converting a website viewer to a  purchaser requires several  communications with potential clients, purchasing is more likely if the company can persuade a user to part with their email address. 
  Users are offered valuable information and assistance via their email, and then the company can ask their permission to add them to their marketing   funnel . Website owners can supply some information immediately, and establish longer term communication with users Eg  with off- season specials or group discounts.
 
- 2. ####   **The goal of  the website user**
+## 2. The goal of the website user
 
-To scan the  website quickly and make a decision -
-That decision might be- shall I book a holiday with this company but it is more likely to be- 
+A visitor scans the  website quickly and make a decision -
+Shall I book a holiday with this company ? but it is more likely to be- 
 
 Am I sufficiently persuaded by the information on this website that I am willing to exchange my  email for  more information about the holidays? - either an answer to my question or to receive their brochure with all the details.
 
@@ -444,5 +444,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA2MzY3MjYsNTkyMzE2OTQ1XX0=
+eyJoaXN0b3J5IjpbLTMwMTI4Mzk4Miw1OTIzMTY5NDVdfQ==
 -->
