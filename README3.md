@@ -10,11 +10,12 @@
 
 The site has two goals 
 
-#### **
 
- 1. Goal of the business owners** 
+ 1. 
 
-To capture leads. The business owners want to expand their business by attracting website visitors and converting them to customers  via a marketing funnel .
+## Business Owners
+
+The busin capture leads. The business owners want to expand their business by attracting website visitors and converting them to customers  via a marketing funnel .
 
  **To meet this goal
   users are invited to opt-in using:**
@@ -438,5 +439,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzMwNTE1XX0=
+eyJoaXN0b3J5IjpbMTgwMzk2NzMxN119
 -->
