@@ -57,10 +57,12 @@ It is hoped that a combination of these factors will  promote the decision to as
 ## UX
 
 **The website is for people **
-Looking for activity holidays,
-Interested in  learning to kayak 
-Who want to improve their kayaking skills 
- Those who want short outdoor breaks in a beautiful setting.
+
+Looking for activity holidays
+Interested in  learning to kayak
+Who want to improve their kayaking skills   
+Those who want short outdoor
+breaks in a beautiful setting.
 
 Users are deciding  ( quickly ) whether they are sufficiently interested to ask for more details.
 
@@ -438,5 +440,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzM0MTkxMyw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbLTEzMDU1ODM1NTEsNTkyMzE2OTQ1XX0=
 -->
