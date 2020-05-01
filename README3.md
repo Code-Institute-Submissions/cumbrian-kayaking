@@ -130,7 +130,8 @@ LINK HERE TO WIREFRAMES
 
 ## User stories
 
-1)   As a user I and 3 friends want a weekend activity break.  I am looking at several websites  on my phone and I want to know whether they can cater to vegans, I want contact the company for more information so that I can compare  prices.  
+1)   As a user I and 3 friends want a weekend activity break. 
+ I am looking at several websites  on my phone and I want to know whether they can cater to vegans, I want contact the company for more information so that I can compare  prices.  
 
 - The site is mobile first and one page - so the  user can access easily from their phone   
 
@@ -143,9 +144,12 @@ LINK HERE TO WIREFRAMES
 
 
 2)   As a user I am a parent looking for a short holiday for my family. 
-I want to read  reviews from other families and see what they most enjoyed about their experience.  I want to know how experienced are the kayaking instuctors, how child friendly are they? How safety conscious are they? I want to contact the company to ask about availability of trips next Summer.  I use my ipad and desktop 
+I want
+ To read  reviews from other families and see what they most enjoyed about their experience.
+ I want to know how experienced are the kayaking instuctors, how child friendly are they? How safety conscious ?
+ I want to contact the company to ask about availability of trips next Summer.  I use my ipad and desktop 
 
-The  user can get the information in the following ways:
+This  user can get the information they want by :
 
 - The site is responsive on desktop and on tablet versions
 
@@ -446,5 +450,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzEzNTc3NCw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbLTkxMDQxMzc1MSw1OTIzMTY5NDVdfQ==
 -->
