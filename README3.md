@@ -30,13 +30,11 @@ The business owners want to capture leads. They want to use the website to expan
     in return the user receives a brochure with holiday details
  2. **Contact us form** -  for users not  yet ready for all the holiday details  but who have a question about the holidays
  3. **Footer CTA button**- a second opportunity to get  the brochure is located  in the footer
-
-d) ** **Company phone number & email address****  are in the navbar and in the footer giving  other contact options.
+ 4. **Company phone number & email address**  located in the navbar and in the footer giving  other contact options.
 
 The primary goal of the website is to present visitors with useful valuable information to persuade users to part with email address 
 
- Converting a website viewer to a  purchaser requires several  communications with potential clients, purchasing is more likely if the company can persuade a user to part with their email address. 
- Users are offered valuable information and assistance via their email, and then the company can ask their permission to add them to their marketing   funnel . Website owners can supply some information immediately, and establish longer term communication with users Eg  with off- season specials or group discounts.
+ 
 
 ## 2. The goals of the website user
 
@@ -454,5 +452,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDk4ODU3NDQsNTkyMzE2OTQ1XX0=
+eyJoaXN0b3J5IjpbMTI4MTAzMTE5Miw1OTIzMTY5NDVdfQ==
 -->
