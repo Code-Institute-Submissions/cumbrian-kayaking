@@ -40,9 +40,10 @@ d) ** **Company phone number & email address****  are in the navbar and in the f
 ## 2. The goal of the website user
 
 A visitor scans the  website quickly and make a decision -
-Shall I book a holiday with this company ? but it is more likely to be- 
+Shall I book a holiday with this company ? 
+ or more likely 
 
-Am I sufficiently persuaded by the information on this website that I am willing to exchange my  email for  more information about the holidays? - either an answer to my question or to receive their brochure with all the details.
+Am I sufficiently persuaded by the information on this website that I want more information about their holidays? - either an answer to my question or to receive their brochure with all the details.
 
 Most  users know  that when they give their email to a company they will be added to their marketing list  so the primary function of the website must be to  convince the user that they will receive value in exchange for their email   
 
@@ -444,5 +445,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTI4Mzk4Miw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbMTg2ODk4NDI3MCw1OTIzMTY5NDVdfQ==
 -->
