@@ -39,18 +39,17 @@ Is the information on this website sufficiently persuasive that I want more info
 
 **The website attempts to meet the users goals ** by providing 
 
- 1. Quick, easy and obvious navigation to  access extra information  -
-    CTA buttons, link to contact form with text area for questions.
+ 1. Quick, easy and obvious navigation to  access extra information  ( CTA buttons, link to contact form with text area for questions.)
  2. Images on the website  aimed at  instilling in the user an immediate
-        sense of “ I would love to experience that “- hero image, image
-        gallery
- 3. Compelling, easy to read information on the website in terms of -   features,  team credentials.
+        sense of “ I would love to experience that “( hero image, image
+        gallery)
+ 3. Compelling, easy to read information on the website in terms of  ( features,  team credentials)
  4. Reassurance  that their email will not be spammed
  
  5. Evidence that the company is reputable by providing  good social 
     proof with strong testimonials on the website and links to reputable
     holiday associations
-  
+    
  6. Company phone number & email address - for users that don't want to
     give their email but are interested in  contacting the company
 
@@ -436,5 +435,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjQ4NjI3Niw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbMTU1ODI5NjQ3Miw1OTIzMTY5NDVdfQ==
 -->
