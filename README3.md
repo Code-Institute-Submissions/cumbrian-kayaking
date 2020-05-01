@@ -17,9 +17,9 @@ The site has two goals
 To capture leads. The business owners want to expand their business by attracting website visitors and converting them to customers  via a marketing funnel .
 
  **To meet this goal
-  users are invited to opt-in using**
+  users are invited to opt-in using:**
 
-a)A **CTA -button** link in the jumbotron section. The viewer is encouraged to receive the holiday brochure  with in depth information about the kayaking trips - when the button is used it opens a modal with a request for name and email. 
+a)A **CTA -button** Button links to By holiday brochure  with in depth information about the kayaking trips - when the button is used it opens a modal with a request for name and email. 
 
 b)  **A contact form i**ncluded in the contact us section - this is for users who don't want to get   a brochure but who want to  ask a question about the holiday
 
@@ -438,5 +438,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE1MjY1NjhdfQ==
+eyJoaXN0b3J5IjpbLTIxMTQzNTQ5NTFdfQ==
 -->
