@@ -88,6 +88,9 @@ LINK HERE TO WIREFRAMES
 **The website achieves these goals using the following methods**
 
   Feature 1 - allows users X to achieve Y, by having them fill out Z
+  
+ **Goals of the Business Owner**
+  
 
 Users that want **extra** information  have  2 immediate options 
 
@@ -427,5 +430,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODc4OTg1LDU5MjMxNjk0NV19
+eyJoaXN0b3J5IjpbLTIwMTQzNzY2ODAsNTkyMzE2OTQ1XX0=
 -->
