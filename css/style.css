@@ -306,12 +306,12 @@ header.gallery-head {
 
 /* -----------------------------------Team Section */
 .team-container {
-height: 100vh;
+/* height: 100vh; */
 border: 0;
 padding:0;
 }
 header.team-head {
-  background: #756f6f;
+  background: #756f6f; 
   padding: 1rem;
   min-height: 30vh;
   width: 100%; 
