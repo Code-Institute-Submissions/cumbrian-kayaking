@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 
-html {
+html {  
   font-size: 62.5%;
 }
 .container-fluid {
@@ -199,7 +199,7 @@ border-color:#93970f;
 }
 .btn--social {
     background-color:gray
-    width: 20px;
+    width: 2rem;
 
 }
 
@@ -306,7 +306,7 @@ header.gallery-head {
 
 /* -----------------------------------Team Section */
 .team-container {
-height: 100 vh;
+height: 100vh;
 border: 0;
 padding:0;
 }
