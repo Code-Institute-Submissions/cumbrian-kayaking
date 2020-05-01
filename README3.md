@@ -101,19 +101,22 @@ LINK HERE TO WIREFRAMES
     
    **Goals of the User** 
      
- Immediate information about the holidays  available using 
+ Immediate site information about the holidays   is available to the user with: 
 
- Links in the navbar to the Contact form and to the Features section  About Us is a dropdown to Reviews Section and Team information
+ 
 
-2. **Hero  image**  sets the user expectation on arrival
+ 1. **Links** in the navbar to the Contact form and to the Features section  About Us is a dropdown to Reviews Section and Team
+    information
 
-3. Company **phone number** is displayed also  in  case the user wants to call
-4.   **Features Section** gives a summary of what is on offer in terms of  other activities,food and accommodation and kayaking lessons   -- text is minimal and clear headings - users can scan it all in a few minutes 
-5. **Trips Section**   images with clear text so that the user can  quickly understand  the types of trips available 
-6. , **Team Section**   - summarizes the credentials and experience of the team  with photos and provides button links to  individual social media
-7.  **Social Proof Section**-  supplies strong testimonials from a variety of users -- provides reassurance of company credibility and proof that other customers have enjoyed their experience . Links to authorized 3rd party organization reviews.
-8.  **Contact Form**  allows user to contact the company and ask specific questions -- minimal requirements  just name and email . Here and for the button in the hero section the user is assured that the company will not misuse their information
-9.  **Links** in footer section supply more social proof -   Footer also has another button to request the brochure for more detailed information  and company email address and phone 
+ 2. **Hero  image**  sets the user expectation on arrival
+
+ 3. Company **phone number** is displayed also  in  case the user wants to call
+ 4.   **Features Section** gives a summary of what is on offer in terms of  other activities,food and accommodation and kayaking lessons   -- text is minimal and clear headings - users can scan it all in a few minutes 
+ 5. **Trips Section**   images with clear text so that the user can  quickly understand  the types of trips available 
+ 6. , **Team Section**   - summarizes the credentials and experience of the team  with photos and provides button links to  individual social media
+ 7.  **Social Proof Section**-  supplies strong testimonials from a variety of users -- provides reassurance of company credibility and proof that other customers have enjoyed their experience . Links to authorized 3rd party organization reviews.
+ 8.  **Contact Form**  allows user to contact the company and ask specific questions -- minimal requirements  just name and email . Here and for the button in the hero section the user is assured that the company will not misuse their information
+ 9.  **Links** in footer section supply more social proof -   Footer also has another button to request the brochure for more detailed information  and company email address and phone 
 
  
    The user that wants **extra** information is given  2 options 
@@ -139,7 +142,8 @@ LINK HERE TO WIREFRAMES
 
 
 
-2)   As a user I am a parent looking for a short holiday for my family. I want to read  reviews from other families and see what they most enjoyed about their experience.  I want to know how experienced are the kayaking instuctors, how child friendly are they? How safety conscious are they? I want to contact the company to ask about availability of trips next Summer.  I use my ipad and desktop 
+2)   As a user I am a parent looking for a short holiday for my family. 
+I want to read  reviews from other families and see what they most enjoyed about their experience.  I want to know how experienced are the kayaking instuctors, how child friendly are they? How safety conscious are they? I want to contact the company to ask about availability of trips next Summer.  I use my ipad and desktop 
 
 The  user can get the information in the following ways:
 
@@ -442,5 +446,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA2MTIxODUsNTkyMzE2OTQ1XX0=
+eyJoaXN0b3J5IjpbLTExNzEzNTc3NCw1OTIzMTY5NDVdfQ==
 -->
