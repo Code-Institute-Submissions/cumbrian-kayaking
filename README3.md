@@ -16,8 +16,7 @@ The site has two equally important goals
 
 The business owners want to capture leads. They want to use the website to expand their business by attracting website visitors and converting them to customers  via a marketing funnel .
 
- **To meet this goal
-  users are invited to opt-in using:**
+ **To meet this goal users are invited to opt-in using:**
 
  1. **Hero CTA -button** Button links to a name &  email address request -
     in return the user receives a brochure with holiday details
@@ -37,13 +36,13 @@ Shall I book a holiday with this company ?
 
 Is the information on this website sufficiently persuasive that I want more information about their holidays? If so - I am willing to exchange my  email for  their brochure or an answer to my question .
 
-**The website attempts to meet the users goals ** by providing 
+**The website attempts to meet the users goals** by providing 
 
- 1. Quick, easy and obvious navigation to  access extra information  ( CTA buttons, link to contact form with text area for questions.)
- 2. Images on the website  aimed at  instilling in the user an immediate
-sense of “ I would love to experience that “( hero image, images gallery)
- 3. Compelling, easy to read information on the website in terms of  ( features,  team credentials)
- 4. Reassurance  that their email will not be spammed
+ 1. Quick, easy and obvious navigation to  access extra information ( CTA buttons, link to contact form with text area for questions.)
+ 2. Images on the website  aimed at  instilling in the user an immediate sense of
+  “ I would love to experience that “( hero image, images gallery)
+ 3. Compelling, easy to read information on the website in terms of (features,  team credentials)
+ 4. Reassurance that their email will not be spammed
  
  5. Evidence that the company is reputable by providing  good social 
     proof with strong testimonials on the website and links to reputable
@@ -60,11 +59,11 @@ It is hoped that a combination of these factors will  promote the decision to as
 
  - Looking for activity holidays
  - Interested in  learning to kayak
- - Or who want to improve their      kayaking skills
+ - Or who want to improve their kayaking skills
  - Who want short outdoor breaks in a beautiful setting
 
-**Users  want 2 types of information** 
-  General  information on holidays from the website itself  Eg
+**Users want 2 types of information** 
+  General information on holidays from the website itself Eg
   
  - A summary of  main features of the holidays
  - Visual examples of holiday types
@@ -73,13 +72,10 @@ It is hoped that a combination of these factors will  promote the decision to as
  - Strong social proof that other people  were happy with their   
    experience
 
- 2 .  Extra  information  from the company ( other than that on the
-     website) Eg
+ 2. Extra information from the company (other than that on the website) Eg
   
-
- - To get answers to their questions
-
- - To  receive detailed information about prices, availability, deposit  etc.
+  - To get answers to their questions
+  - To  receive detailed information about prices, availability, deposit  etc.
 
 UX section is also where you would share links to any wireframes, 
 
@@ -90,58 +86,50 @@ LINK HERE TO WIREFRAMES
   Feature 1 - allows users X to achieve Y, by having them fill out Z
   
  **Goals of the Business Owner**
- Collection of user emails  is achieved 
 
- 1. By having users click a CTA button in the center of the hero image
+ Collection of user emails is achieved 
+
+ 1. Users click a CTA button in the center of the hero image
     or in the footer and  fill in the form in the modal  to request the
     holiday brochure
     
- 2. By having users enter their email to ask  a question in the contact
+ 2. Users enter their email to ask  a question in the contact
     form in the Contact Us section
     
    **Goals of the User** 
      
- Immediate site information about the holidays   is available to the user with: 
+ Information about the holidays is available to the user on the website: 
 
- 
-
- 1. **Links** in the navbar to the Contact form and to the Features section  About Us is a dropdown to Reviews Section and Team
+ 1.**Links** in the navbar to the Contact form and to the Features section  About Us is a dropdown to Reviews Section and Team
     information
-
- 2. **Hero  image**  sets the user expectation on arrival
-
- 3. Company **phone number** is displayed also  in  case the user wants to call
- 4.   **Features Section** gives a summary of what is on offer in terms of  other activities,food and accommodation and kayaking lessons   -- text is minimal and clear headings - users can scan it all in a few minutes 
- 5. **Trips Section**   images with clear text so that the user can  quickly understand  the types of trips available 
- 6. , **Team Section**   - summarizes the credentials and experience of the team  with photos and provides button links to  individual social media
- 7.  **Social Proof Section**-  supplies strong testimonials from a variety of users -- provides reassurance of company credibility and proof that other customers have enjoyed their experience . Links to authorized 3rd party organization reviews.
- 8.  **Contact Form**  allows user to contact the company and ask specific questions -- minimal requirements  just name and email . Here and for the button in the hero section the user is assured that the company will not misuse their information
- 9.  **Links** in footer section supply more social proof -   Footer also has another button to request the brochure for more detailed information  and company email address and phone 
+ 2.**Hero  image**  sets the user expectation on arrival
+ 3.Company **phone number** is displayed also  in  case the user wants to call
+ 4.**Features Section** gives a summary of what is on offer in terms of  other activities,food and accommodation and kayaking lessons   -- text is minimal and clear headings - users can scan it all in a few minutes 
+ 5.**Trips Section**   images with clear text so that the user can  quickly understand  the types of trips available 
+ 6.**Team Section**   - summarizes the credentials and experience of the team  with photos and provides button links to  individual social media
+ 7.**Social Proof Section**-  supplies strong testimonials from a variety of users -- provides reassurance of company credibility and proof that other customers have enjoyed their experience . Links to authorized 3rd party organization reviews.
+ 8.**Contact Form**  allows user to contact the company and ask specific questions -- minimal requirements  just name and email . Here and for the button in the hero section the user is assured that the company will not misuse their information
+ 9.**Links** in footer section supply more social proof -   Footer also has another button to request the brochure for more detailed information  and company email address and phone 
 
  
-   The user that wants **extra** information is given  2 options 
+   The user that wants extra information from the company is given 2 options:
 
 1. Via the **CTA button** -  visible because of central location, size & color  -button opens to a **modal**, with contact form for the user to sign up to receive the holiday brochure for detailed information
 2. Via the **Contact** link in the navbar - brings the user to the contact form on the page where they can ask a specific question by giving name and email.
 
 
-
-
-
 ## User stories
 
-1)   As a user I and 3 friends want a weekend activity break. 
- I am looking at several websites  on my phone and I want to know 
+1) As a user I and 3 friends want a weekend activity break. 
+ I am looking at several websites on my phone and I want to know 
  Can they cater to vegans? 
- I want contact the company for more information so that I can compare  prices.  
-This user can access the information they want 
-
- - The site is mobile first and one page  the  user can access
-   information by just scrolling down the page
+ How to contact the company for more information? so that I can compare  prices.  
+This user can access the information they want because the site is mobile first and one page 
+ by just scrolling down the page
  - They can click  the **CTA  button***  and sign up to receive the brochure with prices and details 
  - Toggle the burger icon and  then click the  contact us link in the menu  & ask a question about vegan options in the text area & receive an email reply.
  - User can scroll down to **contact form** & ask a question on the form and receive an email reply from the company. 
- -  They can  **read** information about vegan options in the feature section. 
+ -  They can **read** information about vegan options in the feature section. 
 - They can use  the **link in the footer** to sign up for the holiday brochure
 - **Call** the company and ask their question . 
 
