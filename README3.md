@@ -199,12 +199,13 @@ The website is organised for UX with the features in the expected areas, easy to
 
 ·     Feature 1 - allows users X to achieve Y, by having them fill out Z
 
-A **navbar**  links to the different site sections and contains a dropdown  About Us to other sections of the site ( Reviews and Team information)
- Navbar is clear and easily read, not too crowded and confusing
- Collapses to a convenient menu icon on mobile)
-
-
-An eyecatching  **jumbotron** section with large text and sub heading and a central CTA  button for the viewer to sign up for the holiday brochure -- this is the first thing the viewer will see 
+ 1. A **navbar**  links to the different site sections and contains a
+   dropdown  About Us to other sections of the site ( Reviews and Team information) 
+    Navbar is clear and easily read, not too crowded and confusing
+Collapses to a convenient menu icon on mobile
+ 2. An eyecatching  **jumbotron** section with large text and sub
+    heading and a central CTA  button for the viewer to sign up for the
+    holiday brochure -- this is the first thing the viewer sees
 
 A **hero image** represents the experience for users and  calls their attention immediately to the  detailed holiday information they can easily access
 
@@ -455,5 +456,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3NzIyNTA2LDU5MjMxNjk0NV19
+eyJoaXN0b3J5IjpbLTIxNDQzNTYyMDEsNTkyMzE2OTQ1XX0=
 -->
