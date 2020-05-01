@@ -19,9 +19,9 @@ To capture leads. The business owners want to expand their business by attractin
  **To meet this goal
   users are invited to opt-in using:**
 
-a)A **CTA -button** Button links to a name &  email address request - in return the user receives a brochure with holdi
+a) **CTA -button** Button links to a name &  email address request - in return the user receives a brochure with holiday details
 
-b)  **A contact form i**ncluded in the contact us section - this is for users who don't want to get   a brochure but who want to  ask a question about the holiday
+b)   **Contact us form** -  for users not  yet ready for a brochure but who want to  ask a question about the holiday
 
 c)  **Another link** to get  the brochure is located  in the footer
 
@@ -438,5 +438,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzU2ODI1MV19
+eyJoaXN0b3J5IjpbLTkzMzQyMDkwNF19
 -->
