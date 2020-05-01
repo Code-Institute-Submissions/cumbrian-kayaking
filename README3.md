@@ -15,9 +15,11 @@ The site has two goals
 
 
 
- 1. 
+  
 
- 1. Goal of the Business Owner
+ 
+
+## 1. Goal of the Business Owner
 
 The business owners want to capture leads. They want to use the website to expand their business by attracting website visitors and converting them to customers  via a marketing funnel .
 
@@ -28,9 +30,9 @@ a) ** Hero CTA -button** Button links to a name &  email address request - in re
 
 b)   **Contact us form** -  for users not  yet ready for all the holiday details  but who have a question about the holidays
 
-c)  **Footer CTA button ** a second opportunity to get  the brochure is located  in the footer
+c)  **Footer CTA button**- a second opportunity to get  the brochure is located  in the footer
 
-d) ** Company phone number & email address**  are in the navbar and in the footer giving  other contact options.
+d) ** **Company phone number & email address****  are in the navbar and in the footer giving  other contact options.
 
  Converting a website viewer to a  purchaser requires several  communications with potential clients, this is more successful if the company can persuade a user to part with their email address. 
  Users are offered valuable information and assistance via their email, and the company is given their permission to add their email in their marketing   funnel . Website owners can supply some information immediately, and establish longer term communication with users Eg  with off- season specials or group discounts.
@@ -442,5 +444,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MjEyMDY1LDU5MjMxNjk0NV19
+eyJoaXN0b3J5IjpbMTUxOTkyNzAxMyw1OTIzMTY5NDVdfQ==
 -->
