@@ -98,19 +98,8 @@ LINK HERE TO WIREFRAMES
     
  2. By having users enter their email to ask  a question in the contact
     form in the Contact Us section
-    **User Goals**
-
- 
-    
-
- 
-
-Users that want **extra** information  have  2 immediate options 
-
-1. Via the **CTA button** -  visible because of central location, size & color  -button opens to a **modal**, with contact form for the user to sign up to receive the holiday brochure for detailed information
-2. Via the **Contact** link in the navbar - also visible immediately - transfers user to the contact form on the page where they can ask a specific question by giving name and email.
-
-Users have  access to **immediate** information on the website 
+    **U Goals**
+    Users have  access to **immediate** information on the website 
 
 1. **Links** in the navbar are to the Contact form at the bottom , About Us is a dropdown to Reviews and Team information
 
@@ -123,6 +112,14 @@ Users have  access to **immediate** information on the website
 7.  **Social Proof Section**-  supplies strong testimonials from a variety of users -- provides reassurance of company credibility and proof that other customers have enjoyed their experience . Links to authorized 3rd party organization reviews.
 8.  **Contact Form**  allows user to contact the company and ask specific questions -- minimal requirements  just name and email . Here and for the button in the hero section the user is assured that the company will not misuse their information
 9.  **Links** in footer section   supply more social proof - the user can click on the FB or Twitter links or see more images on Instagram. Footer also has another link to request the brochure for more detailed information 
+
+ 
+   **extra** information  have  2 immediate options 
+
+1. Via the **CTA button** -  visible because of central location, size & color  -button opens to a **modal**, with contact form for the user to sign up to receive the holiday brochure for detailed information
+2. Via the **Contact** link in the navbar - also visible immediately - transfers user to the contact form on the page where they can ask a specific question by giving name and email.
+
+
 
 
 
@@ -443,5 +440,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTA1MjgwOSw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbLTY3NzM2NjA5Niw1OTIzMTY5NDVdfQ==
 -->
