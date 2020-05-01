@@ -82,19 +82,12 @@ It is hoped that a combination of these factors will  promote the decision to as
  - To  receive detailed information about prices, availability, deposit  etc.
 
 UX section is also where you would share links to any wireframes, 
-LINK HERE TO WIREFRAMES 
 
-  
-
-
-
-
-
-------
+LINK HERE TO WIREFRAMES
 
 **The website achieves these goals using the following methods**
 
-
+  Feature 1 - allows users X to achieve Y, by having them fill out Z
 
 Users that want **extra** information  have  2 immediate options 
 
@@ -434,5 +427,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjMxMzI0Myw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbLTMzODc4OTg1LDU5MjMxNjk0NV19
 -->
