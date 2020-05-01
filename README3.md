@@ -60,8 +60,8 @@ It is hoped that a combination of these factors will  promote the decision to as
 
  - Looking for activity holidays
  - Interested in  learning to kayak
- - Who want to improve their      kayaking skills
- - Those who want short outdoor breaks in a beautiful setting
+ - Or who want to improve their      kayaking skills
+ - Who want short outdoor breaks in a beautiful setting
 
 .Users are deciding  ( quickly ) whether they are sufficiently interested to ask for more details.
 
@@ -439,5 +439,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3MDI0MDkzLDU5MjMxNjk0NV19
+eyJoaXN0b3J5IjpbMjEzODM1NDA2OSw1OTIzMTY5NDVdfQ==
 -->
