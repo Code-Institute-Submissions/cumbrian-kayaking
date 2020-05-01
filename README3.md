@@ -63,16 +63,16 @@ It is hoped that a combination of these factors will  promote the decision to as
  - Or who want to improve their      kayaking skills
  - Who want short outdoor breaks in a beautiful setting
 
-.Users are deciding  ( quickly ) whether they are sufficiently interested to ask for more details.
+Users are deciding  ( quickly ) whether they are sufficiently interested to seek more information from the company
 
 **Users  want 2 types of information** 
   General  information on holidays from the website itself  Eg
   
- 2. A summary of  main features of the holidays
- 3. Visual examples of holiday types
- 4. The qualifications of the kayak instructors
- 5. Social proof of the credibility of the company from 3rd party organisations
- 6. Strong social proof that other people  were happy with their   
+ 1. A summary of  main features of the holidays
+ 2. Visual examples of holiday types
+ 3. The qualifications of the kayak instructors
+ 4. Social proof of the credibility of the company from 3rd party organisations
+ 5. Strong social proof that other people  were happy with their   
    experience
 
 .
@@ -437,5 +437,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTQwNDE4LDU5MjMxNjk0NV19
+eyJoaXN0b3J5IjpbODM4MTM5MzEzLDU5MjMxNjk0NV19
 -->
