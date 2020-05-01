@@ -113,10 +113,10 @@ LINK HERE TO WIREFRAMES
 6. , **Team Section**   - summarizes the credentials and experience of the team  with photos and provides button links to  individual social media
 7.  **Social Proof Section**-  supplies strong testimonials from a variety of users -- provides reassurance of company credibility and proof that other customers have enjoyed their experience . Links to authorized 3rd party organization reviews.
 8.  **Contact Form**  allows user to contact the company and ask specific questions -- minimal requirements  just name and email . Here and for the button in the hero section the user is assured that the company will not misuse their information
-9.  **Links** in footer section supply more social proof - th user can click on the FB or Twitter links or see more images on Instagram. Footer also has another link to request the brochure for more detailed information 
+9.  **Links** in footer section supply more social proof -   Footer also has another button to request the brochure for more detailed information  and company email address and phone 
 
  
-   **extra** information  have  2 immediate options 
+   The user that wants **extra** information  has  2 options 
 
 1. Via the **CTA button** -  visible because of central location, size & color  -button opens to a **modal**, with contact form for the user to sign up to receive the holiday brochure for detailed information
 2. Via the **Contact** link in the navbar - also visible immediately - transfers user to the contact form on the page where they can ask a specific question by giving name and email.
@@ -442,5 +442,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjIyOTc0Nyw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbMjAzMjQzNjUxNSw1OTIzMTY5NDVdfQ==
 -->
