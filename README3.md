@@ -43,7 +43,7 @@ A visitor scans the  website quickly and make a decision -
 Shall I book a holiday with this company ? 
  or more likely 
 
-Am I sufficiently persuaded by the information on this website that I want more information about their holidays? - either an answer to my question or to receive their brochure with all the details.
+Is the information on this website sufficiently persuasive that I want more information about their holidays? If so - I am willing to exchange my  email for   - either an answer to my question .
 
 Most  users know  that when they give their email to a company they will be added to their marketing list  so the primary function of the website must be to  convince the user that they will receive value in exchange for their email   
 
@@ -445,5 +445,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODk4NDI3MCw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbLTM4MjAxNzYzLDU5MjMxNjk0NV19
 -->
