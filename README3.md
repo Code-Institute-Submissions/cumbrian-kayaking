@@ -9,7 +9,7 @@ Website owners can supply some information immediately, and establish longer ter
 
 ## Goals of the website 
 
-The site has two goals 
+The site has two equally important goals 
 
 
 ## 1. Goal of the Business Owner
@@ -22,8 +22,7 @@ The business owners want to capture leads. They want to use the website to expan
  1. **Hero CTA -button** Button links to a name &  email address request -
     in return the user receives a brochure with holiday details
  2. **Contact us form** -  for users not  yet ready for all the holiday details  but who have a question about the holidays
- 3. **Footer CTA button**- a second opportunity to get  the brochure is located  in the footer
- 4. **Company phone number & email address**  located in the navbar and in the footer giving  other contact options.
+ 3. **Footer CTA button**- a second opportunity to receive  the brochure is located  in the footer
 
 The website  will not meet the  goal of the business owners unless it is able to persuade users to part with their emails  - so it is equally important to meet the user/visitor goals
 
@@ -51,6 +50,7 @@ Is the information on this website sufficiently persuasive that I want more info
  5. Evidence that the company is reputable by providing  good social 
     proof with strong testimonials on the website and links to reputable
     holiday associations
+ 6 **Company phone number & email address**  located in the navbar and in the footer giving  other contact options.
 
 It is hoped that a combination of these factors will  promote the decision to ask for more details from the company 
 
@@ -434,5 +434,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY1NzcyNiw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbMjAwMjA5MzA4MCw1OTIzMTY5NDVdfQ==
 -->
