@@ -44,11 +44,10 @@ Is the information on this website sufficiently persuasive that I want more info
  2. Images on the website  aimed at  instilling in the user an immediate
         sense of “ I would love to experience that “- hero image, image
         gallery
- 3. Compelling, easy to read information on the website in terms of - 
-            features,  team credentials.
+ 3. Compelling, easy to read information on the website in terms of -   features,  team credentials.
 
     
-       
+      
 
  1. Reassurance  that their email will not be spammed
 
@@ -444,5 +443,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU1MzI0NDEsNTkyMzE2OTQ1XX0=
+eyJoaXN0b3J5IjpbLTUxMDE2MTIxMyw1OTIzMTY5NDVdfQ==
 -->
