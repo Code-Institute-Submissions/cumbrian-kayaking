@@ -103,17 +103,17 @@ LINK HERE TO WIREFRAMES
      
    **Immediate** information about the holidays is easily available using 
 
- Links in the navbar to the Contact form and to the Features section  About Us is a dropdown to Reviews Sand Team information
+ Links in the navbar to the Contact form and to the Features section  About Us is a dropdown to Reviews Section and Team information
 
 2. **Hero  image**  sets the user expectation on arrival
 
-3. The company **phone number** is displayed also  in  case the user wants to call
-4.   **Features Section** supplies **a summary ** what is on offer in terms of  other activities,food and accommodation and kayaking lessons   -- text is minimal and clear headings - users can scan it all in a few minutes 
+3. Company **phone number** is displayed also  in  case the user wants to call
+4.   **Features Section** gives a summary of what is on offer in terms of  other activities,food and accommodation and kayaking lessons   -- text is minimal and clear headings - users can scan it all in a few minutes 
 5. **Trips Section**   images with clear text so that the user can  quickly understand  the types of trips available 
 6. , **Team Section**   - summarizes the credentials and experience of the team  with photos and provides button links to  individual social media
 7.  **Social Proof Section**-  supplies strong testimonials from a variety of users -- provides reassurance of company credibility and proof that other customers have enjoyed their experience . Links to authorized 3rd party organization reviews.
 8.  **Contact Form**  allows user to contact the company and ask specific questions -- minimal requirements  just name and email . Here and for the button in the hero section the user is assured that the company will not misuse their information
-9.  **Links** in footer section   supply more social proof - the user can click on the FB or Twitter links or see more images on Instagram. Footer also has another link to request the brochure for more detailed information 
+9.  **Links** in footer section supply more social proof - th user can click on the FB or Twitter links or see more images on Instagram. Footer also has another link to request the brochure for more detailed information 
 
  
    **extra** information  have  2 immediate options 
@@ -442,5 +442,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Mjc4NDYwMSw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbMjA3NjIyOTc0Nyw1OTIzMTY5NDVdfQ==
 -->
