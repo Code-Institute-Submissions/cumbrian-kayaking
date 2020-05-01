@@ -98,8 +98,10 @@ LINK HERE TO WIREFRAMES
     
  2. By having users enter their email to ask  a question in the contact
     form in the Contact Us section
-    **U Goals**
-    Users have  access to **immediate** information on the website 
+    
+     **Goals of the User** 
+     
+   **Immediate** information about the holidays is avail
 
 1. **Links** in the navbar are to the Contact form at the bottom , About Us is a dropdown to Reviews and Team information
 
@@ -440,5 +442,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzM2NjA5Niw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbNDE3NDEzNDQ0LDU5MjMxNjk0NV19
 -->
