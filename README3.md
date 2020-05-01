@@ -25,7 +25,7 @@ b)   **Contact us form** -  for users not  yet ready for all the holiday details
 
 c)  **Footer CTA button ** a second opportunity to get  the brochure is located  in the footer
 
-c) **Phone number and email address** is clearly shown giving the site visitor other contact options.
+c) ** Company phone number & email address**  are in the navbar and in the footer giving  other contact options.
 
  Booking a holiday usually requires several  communications with potential clients.  
 
@@ -438,5 +438,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA4NzkzMzBdfQ==
+eyJoaXN0b3J5IjpbLTE5MzMwNTE1XX0=
 -->
