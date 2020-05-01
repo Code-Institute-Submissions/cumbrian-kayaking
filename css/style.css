@@ -247,7 +247,7 @@ header h3 {
 }
 
 .card {
-  /* width: 25rem; */
+   width: 25rem; 
   text-align: center;
   min-height: 40vh;
   margin: 2rem 5rem;
