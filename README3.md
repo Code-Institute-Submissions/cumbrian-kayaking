@@ -2,7 +2,7 @@
 
 
 
-The website is called Cumbrian Kayaking, it is a single page site  advertising camping and kayaking  holidays in the  Lake District national park in the UK.  ( Cumbria ) 
+ Cumbrian Kayaking is a single page website,  advertising camping and kayaking  holidays in the  Lake District national park in Cumbria in the UK.  
 
 
 
@@ -434,3 +434,6 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -  https://w3schools.com  for help with the contact form layout 
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NDQzNzIwMjddfQ==
+-->
