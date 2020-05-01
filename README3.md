@@ -28,11 +28,10 @@ c)  **Footer CTA button ** a second opportunity to get  the brochure is located 
 
 c) ** Company phone number & email address**  are in the navbar and in the footer giving  other contact options.
 
- Converting a website viewer to a  purchaser requires several  communications with potential clients, this is facilita 
+ Converting a website viewer to a  purchaser requires several  communications with potential clients, this is more successful if the company can persuade a user to part with their email address. 
+ Users are offered valuable information and assistance via their email, and the company is given their permission to add their email in their marketing   funnel . Website owners can supply some information immediately, and establish longer term communication with users Eg  with off- season specials or group discounts.
 
- Users are offered valuable information and assistance via their email, and then the company is given their permission to add their email in their marketing   funnel . Website owners can supply some information immediately, and establish longer term communication with users Eg  with off- season specials or group discounts.
-
-####   **The goal of  the website user**
+ 2. ####   **The goal of  the website user**
 
 To scan the  website quickly and make a decision -
 That decision might be- shall I book a holiday with this company but it is more likely to be- 
@@ -439,5 +438,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTEwMzI1OCw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbLTE4NjYyMDgyODEsNTkyMzE2OTQ1XX0=
 -->
