@@ -95,7 +95,12 @@ LINK HERE TO WIREFRAMES
  1. By having users click a CTA button in the center of the hero image
     or in the footer and  fill in the form in the modal  to request the
     holiday brochure
-    By having user
+    
+ 2. By having users enter their email to ask  a question in the contact
+    form in the Contact Us section
+    **User Goals**
+
+ 
     
 
  
@@ -438,5 +443,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTIzNTYzNzMsNTkyMzE2OTQ1XX0=
+eyJoaXN0b3J5IjpbLTk2OTA1MjgwOSw1OTIzMTY5NDVdfQ==
 -->
