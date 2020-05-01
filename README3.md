@@ -131,9 +131,11 @@ LINK HERE TO WIREFRAMES
 ## User stories
 
 1)   As a user I and 3 friends want a weekend activity break. 
- I am looking at several websites  on my phone and I want to know whether they can cater to vegans, I want contact the company for more information so that I can compare  prices.  
-
-- The site is mobile first and one page - so the  user can access easily from their phone   
+ I am looking at several websites  on my phone and I want to know 
+ Can they cater to vegans? 
+ I want contact the company for more information so that I can compare  prices.  
+This user can access the information they want 
+- The site is mobile first and one page - so the  user can access    
 
 - Click  the **CTA  button***  and sign up to receive the brochure with prices and details 
 - Toggle the burger icon and  then click the  contact us link in the menu  & ask a question about vegan options in the text area & receive an email reply.
@@ -450,5 +452,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDQxMzc1MSw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbOTk5ODM4NzQ4LDU5MjMxNjk0NV19
 -->
