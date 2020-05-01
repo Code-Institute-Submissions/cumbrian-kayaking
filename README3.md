@@ -99,9 +99,9 @@ LINK HERE TO WIREFRAMES
  2. By having users enter their email to ask  a question in the contact
     form in the Contact Us section
     
-     **Goals of the User** 
+   **Goals of the User** 
      
-   **Immediate** information about the holidays is easily available using 
+ Immediate information about the holidays  available using 
 
  Links in the navbar to the Contact form and to the Features section  About Us is a dropdown to Reviews Section and Team information
 
@@ -116,10 +116,10 @@ LINK HERE TO WIREFRAMES
 9.  **Links** in footer section supply more social proof -   Footer also has another button to request the brochure for more detailed information  and company email address and phone 
 
  
-   The user that wants **extra** information  has  2 options 
+   The user that wants **extra** information is given  2 options 
 
 1. Via the **CTA button** -  visible because of central location, size & color  -button opens to a **modal**, with contact form for the user to sign up to receive the holiday brochure for detailed information
-2. Via the **Contact** link in the navbar - also visible immediately - transfers user to the contact form on the page where they can ask a specific question by giving name and email.
+2. Via the **Contact** link in the navbar - brings the user to the contact form on the page where they can ask a specific question by giving name and email.
 
 
 
@@ -442,5 +442,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjQzNjUxNSw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbLTEyNDA2MTIxODUsNTkyMzE2OTQ1XX0=
 -->
