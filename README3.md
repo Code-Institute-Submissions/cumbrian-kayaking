@@ -15,7 +15,7 @@ The site has two goals
 
 ## Business Owners
 
-The busin capture leads. The business owners want to expand their business by attracting website visitors and converting them to customers  via a marketing funnel .
+The business owners want to capture leads. They want to use the website to expand their business by attracting website visitors and converting them to customers  via a marketing funnel .
 
  **To meet this goal
   users are invited to opt-in using:**
@@ -28,7 +28,7 @@ c)  **Footer CTA button ** a second opportunity to get  the brochure is located 
 
 c) ** Company phone number & email address**  are in the navbar and in the footer giving  other contact options.
 
- Booking a holiday usually requires several  communications with potential clients.  
+ Converting a website viewer to a  holiday usually requires several  communications with potential clients.  
 
  Users are offered valuable information and assistance via their email, and then the company is given their permission to add their email in their marketing   funnel . Website owners can supply some information immediately, and establish longer term communication with users Eg  with off- season specials or group discounts.
 
@@ -439,5 +439,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzk2NzMxN119
+eyJoaXN0b3J5IjpbNTkyMzE2OTQ1XX0=
 -->
