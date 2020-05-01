@@ -90,8 +90,15 @@ LINK HERE TO WIREFRAMES
   Feature 1 - allows users X to achieve Y, by having them fill out Z
   
  **Goals of the Business Owner**
- Collection of user emails 
- is achieved by having users fill in the form in the modal  
+ Collection of user emails  is achieved 
+
+ 1. By having users click a CTA button in the center of the hero image
+    or in the footer and  fill in the form in the modal  to request the
+    holiday brochure
+    By having user
+    
+
+ 
 
 Users that want **extra** information  have  2 immediate options 
 
@@ -431,5 +438,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3Nzk1MDIsNTkyMzE2OTQ1XX0=
+eyJoaXN0b3J5IjpbLTE1MTIzNTYzNzMsNTkyMzE2OTQ1XX0=
 -->
