@@ -203,10 +203,10 @@ Collapses to a convenient menu icon on mobile
  6. A **Team Member**  section-- highlighting the experience and
     qualifications  of the team including their safety qualifications
  7. An  **Image Gallery** highlighting the popular kayaking trips -- for
-    experienced kayakers or beginners, for families, for reunions, or
-    corporate teams, singles or groups
- 8. **Social Proof**  section featuring customer testimonials and links to 3rd party reviews   from holiday organisations
- 9. **A contact  section ** to allow users to ask questions   or to request any information
+    experienced kayakers or beginners, for families,for reunions,or
+    corporate teams,singles or groups
+ 8. **Social Proof**  section featuring customer testimonials and links to 3rd party reviews from holiday organisations
+ 9. **A contact section ** to allow users to ask questions or to request any information
  10. **Footer** -- with links to social sites and another CTA button link to receive the brochure & company email and phone number
 
 
@@ -270,13 +270,14 @@ Data entered
 
 Modal button shows color change at hover, pointer and after clicked 
 
-###### Button working 
+###### Buttons working 
 
-Button shows pointer and state during hover 
+Buttons in jumbotron, footer, contact section and modal  shows pointer and state during hover 
 
-button color changes after use
+button color change color  after use
 
-Links in Team member work and connect to social sites 
+Social inks in Team section work and connect to social sites
+Social links in Footer section work and connect to social sites  
 
 ###### Contact form works
 
