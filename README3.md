@@ -19,13 +19,13 @@ To capture leads. The business owners want to expand their business by attractin
  **To meet this goal
   users are invited to opt-in using:**
 
-a) **CTA -button** Button links to a name &  email address request - in return the user receives a brochure with holiday details
+a) ** Hero CTA -button** Button links to a name &  email address request - in return the user receives a brochure with holiday details
 
 b)   **Contact us form** -  for users not  yet ready for all the holiday details  but who have a question about the holidays
 
-c)  **foote CTA button ** for  the brochure is located  in the footer
+c)  **Footer CTA button ** a second opportunity to get  the brochure is located  in the footer
 
-c) The company phone number and email address is clearly shown giving the site visitor other contact options.
+c) **Phone number and email address** is clearly shown giving the site visitor other contact options.
 
  Booking a holiday usually requires several  communications with potential clients.  
 
@@ -438,5 +438,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0MDcwMDIwXX0=
+eyJoaXN0b3J5IjpbLTEzMzA4NzkzMzBdfQ==
 -->
