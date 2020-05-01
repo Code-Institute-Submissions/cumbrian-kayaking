@@ -67,17 +67,15 @@ It is hoped that a combination of these factors will  promote the decision to as
 
 **Users  want 2 types of information** 
 
-1. General  information on the website itself  Eg 
+ - General  information on the website itself  Eg 
+ - A summary of  main features of the holidays
+  - Visual examples of holiday types
+   - The qualifications of the kayak instructors
+ - Social proof of the credibility of the company from 3rd party organisations
+ -  - Strong social proof that other people  were happy with their   
+   experience
 
-A summary of  main features of the holidays
-
-Visual examples of holiday types
-
-The qualifications of the kayak instructors 
-
-Social proof of the credibility of the company from 3rd party reviews
-
-Strong social proof that other people  were happy with their experience.
+.
 
 2.  Extra  information  from the company ( other than that on the website) Eg 
 
@@ -439,5 +437,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxMTk1MTQ2LDU5MjMxNjk0NV19
+eyJoaXN0b3J5IjpbLTE5MTk2NDk3NzQsNTkyMzE2OTQ1XX0=
 -->
