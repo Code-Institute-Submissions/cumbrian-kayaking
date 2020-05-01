@@ -50,7 +50,9 @@ Is the information on this website sufficiently persuasive that I want more info
  5. Evidence that the company is reputable by providing  good social 
     proof with strong testimonials on the website and links to reputable
     holiday associations
- 6 **Company phone number & email address**  located in the navbar and in the footer giving  other contact options.
+  
+ 6. Company phone number & email address - for users that don't want to
+    give their email but are interested in  contacting the company
 
 It is hoped that a combination of these factors will  promote the decision to ask for more details from the company 
 
@@ -434,5 +436,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjA5MzA4MCw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbMTY1MjQ4NjI3Niw1OTIzMTY5NDVdfQ==
 -->
