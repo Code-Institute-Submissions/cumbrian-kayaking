@@ -206,11 +206,10 @@ Collapses to a convenient menu icon on mobile
  2. An eyecatching  **jumbotron** section with large text and sub
     heading and a central CTA  button for the viewer to sign up for the
     holiday brochure -- this is the first thing the viewer sees
-
-A **hero image** represents the experience for users and  calls their attention immediately to the  detailed holiday information they can easily access
-
-A **modal** that opens to a simple form  -- this allows the user to get what they want in a matter of a few minutes without having to go any further.  
-
+ 3. A **hero image** represents the experience for users and  calls
+    their attention immediately to the  detailed holiday information
+    they can easily access
+ 4. A **modal** that opens to a simple email request form .  The central position  allows the user to get what they want in a matter of a few minutes without having to go any further.
 A **Features** section -- summarising activities available , accommodation and food options 
 
 A **Team Member**  section-- highlighting the experience and qualifications  of the team including their safety qualifications
@@ -456,5 +455,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQzNTYyMDEsNTkyMzE2OTQ1XX0=
+eyJoaXN0b3J5IjpbLTE1MDg0NDAwMiw1OTIzMTY5NDVdfQ==
 -->
