@@ -3,21 +3,13 @@
 
 
  Cumbrian Kayaking is a single page website,  advertising camping and kayaking  holidays in the  Lake District national park in Cumbria in the UK.  
-
-
+ Converting a website viewer to a  purchaser requires several  communications with potential clients, purchasing is more likely if the company can persuade a user to part with their email address. 
+ Users are offered valuable information and assistance via their email, and then the company can ask their permission to add them to their marketing   funnel . Website owners can supply some information immediately, and establish longer term communication with users Eg  with off- season specials or group discounts.
 
 ## Goals of the website 
 
 The site has two goals 
 
-
- 
-
-
-
-  
-
- 
 
 ## 1. Goal of the Business Owner
 
@@ -32,7 +24,7 @@ The business owners want to capture leads. They want to use the website to expan
  3. **Footer CTA button**- a second opportunity to get  the brochure is located  in the footer
  4. **Company phone number & email address**  located in the navbar and in the footer giving  other contact options.
 
-The primary goal of the website is to present visitors with useful valuable information to persuade users to part with email address 
+The website is to present visitors with useful valuable information to persuade users to part with email address 
 
  
 
@@ -452,5 +444,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTAzMTE5Miw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbLTExNTMxODIyMDAsNTkyMzE2OTQ1XX0=
 -->
