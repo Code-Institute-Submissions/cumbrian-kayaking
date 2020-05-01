@@ -10,11 +10,14 @@
 
 The site has two goals 
 
-#### **The goal of the business owners** 
+#### **
+
+ 1. Goal of the business owners** 
 
 To capture leads. The business owners want to expand their business by attracting website visitors and converting them to customers  via a marketing funnel .
 
- **The website attempts to meet this goal by inviting  visitors to opt-in using**
+ **To meet this goal
+  users are invited to opt-in using**
 
 a)A **CTA -button** link in the jumbotron section. The viewer is encouraged to receive the holiday brochure  with in depth information about the kayaking trips - when the button is used it opens a modal with a request for name and email. 
 
@@ -435,5 +438,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQzNzIwMjddfQ==
+eyJoaXN0b3J5IjpbLTIwNjE1MjY1NjhdfQ==
 -->
