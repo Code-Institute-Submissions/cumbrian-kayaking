@@ -24,7 +24,7 @@ The business owners want to capture leads. They want to use the website to expan
  3. **Footer CTA button**- a second opportunity to get  the brochure is located  in the footer
  4. **Company phone number & email address**  located in the navbar and in the footer giving  other contact options.
 
-The website  will not meet the primary goal unless it is able to persuade users to part with their email a
+The website  will not meet the  goal of the business owners unless it is able to persuade users to part with their emails  - so it is equally important to meet the user/visitor goals
 
  
 
@@ -444,5 +444,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTkzODIxMSw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbLTE0NzU1MzI0NDEsNTkyMzE2OTQ1XX0=
 -->
