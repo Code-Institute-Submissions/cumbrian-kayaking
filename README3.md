@@ -63,8 +63,6 @@ It is hoped that a combination of these factors will  promote the decision to as
  - Or who want to improve their      kayaking skills
  - Who want short outdoor breaks in a beautiful setting
 
-Users are deciding  ( quickly ) whether they are sufficiently interested to seek more information from the company
-
 **Users  want 2 types of information** 
   General  information on holidays from the website itself  Eg
   
@@ -77,13 +75,11 @@ Users are deciding  ( quickly ) whether they are sufficiently interested to seek
 
 .
 
-2.  Extra  information  from the company ( other than that on the website) Eg 
-
-To get answers to their questions 
-
-To  receive detailed information about prices, availability, deposits etc.
-
-
+ -  Extra  information  from the company ( other than that on the website) Eg 
+ - To get answers to their questions 
+   
+   To  receive detailed information about prices, availability, deposits
+   etc.
 
 UX section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
@@ -437,5 +433,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4MTM5MzEzLDU5MjMxNjk0NV19
+eyJoaXN0b3J5IjpbLTUzNzQzNzI0LDU5MjMxNjk0NV19
 -->
