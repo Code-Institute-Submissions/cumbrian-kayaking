@@ -210,17 +210,16 @@ Collapses to a convenient menu icon on mobile
     their attention immediately to the  detailed holiday information
     they can easily access
  4. A **modal** that opens to a simple email request form .  The central position  allows the user to get what they want in a matter of a few minutes without having to go any further.
-A **Features** section -- summarising activities available , accommodation and food options 
-
-A **Team Member**  section-- highlighting the experience and qualifications  of the team including their safety qualifications
-
-An  **Image Gallery** highlighting the popular kayaking trips -- for experienced kayakers or beginners, for families, for reunions, or corporate teams, singles or groups 
-
-**Social Proof**  section featuring customer testimonials and links to 3rd party reviews   from holiday organisations
-
- **A contact  section ** to allow users to ask questions   or to request any information 
-
-**Footer** -- with links to social sites and another link to receive the brochure
+ 5. A **Features** section -- summarising activities available ,
+    accommodation and food options
+ 6. A **Team Member**  section-- highlighting the experience and
+    qualifications  of the team including their safety qualifications
+ 7. An  **Image Gallery** highlighting the popular kayaking trips -- for
+    experienced kayakers or beginners, for families, for reunions, or
+    corporate teams, singles or groups
+ 8. **Social Proof**  section featuring customer testimonials and links to 3rd party reviews   from holiday organisations
+ 9. **A contact  section ** to allow users to ask questions   or to request any information
+ 10. **Footer** -- with links to social sites and another CTA button link to receive the brochure & company email and phone number
 
 
 
@@ -230,7 +229,7 @@ An  **Image Gallery** highlighting the popular kayaking trips -- for experienced
 - **Remarketing pixels** so that the company can remind the visitor that they visited the site 
 - **Videos** of wildlife and hiking trips and people around a campfire -- to add to the virtual experience
 - **SEO features**  - adding  meta data & descriptions as well as G -maps and locations to enable search engines to find the website in response to user search queries   
-- **A  carousel** to replace the static image trip section 
+- **A  carousel** to replace the static image trip section  and possibl
 -  **A message bot**  to answer routine questions and take enquiries and numbers for call backs.
 - **Video testimonials** from clients  filmed during their holiday.
 - Change the hero image to achieve better text readability - I tried several different ways to make the text stand out, including making the transparent jumbotron a contrasting underlay but it looked ugly. For the time being I darkened the area with a tool in Canva.com but  it is still not exactly right.  
@@ -455,5 +454,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg0NDAwMiw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbLTI5NzAwMTExOCw1OTIzMTY5NDVdfQ==
 -->
