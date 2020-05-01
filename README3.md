@@ -46,14 +46,9 @@ Is the information on this website sufficiently persuasive that I want more info
         gallery
  3. Compelling, easy to read information on the website in terms of -   features,  team credentials.
 
-    
-      
-
- 1. Reassurance  that their email will not be spammed
-
-      
-
- 1. Evidence that the company is credible by providing  good social
+ Reassurance  that their email will not be spammed
+ 
+ Evidence that the company is reputable by providing  good social
             proof with strong testimonials on the website and links to reputable
             holiday associations
 
@@ -443,5 +438,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDE2MTIxMyw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbLTEzMjc0NjQ0MjksNTkyMzE2OTQ1XX0=
 -->
