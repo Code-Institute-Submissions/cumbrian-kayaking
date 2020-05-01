@@ -229,20 +229,16 @@ Collapses to a convenient menu icon on mobile
 - **Remarketing pixels** so that the company can remind the visitor that they visited the site 
 - **Videos** of wildlife and hiking trips and people around a campfire -- to add to the virtual experience
 - **SEO features**  - adding  meta data & descriptions as well as G -maps and locations to enable search engines to find the website in response to user search queries   
-- **A  carousel** to replace the static image trip section  and possibl
+- **A  carousel** to replace the static image trip section  and another carousel  for additional testimonials
 -  **A message bot**  to answer routine questions and take enquiries and numbers for call backs.
 - **Video testimonials** from clients  filmed during their holiday.
-- Change the hero image to achieve better text readability - I tried several different ways to make the text stand out, including making the transparent jumbotron a contrasting underlay but it looked ugly. For the time being I darkened the area with a tool in Canva.com but  it is still not exactly right.  
+- **Photoshopping the hero image** to achieve better text readability - I tried several different ways to make the text stand out, including making the transparent jumbotron a contrasting underlay but it looked ugly. For the time being I darkened the area with a tool in Canva.com but  it is still not exactly right.  
 
 ## Technologies Used
 
-
-
-
-
 - [Balsamiq](balsamiq.com) -  to create a mockup of the different versions of the website, desktop, tablet & mobile 
-
 - [Typora](typora.com)- to  create  the README.md file to outline the site creation process 
+- 
 - [HTML]( https://GitHub.com ) 
 - CSS 
 - JavaScript 
@@ -454,5 +450,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzAwMTExOCw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbNTg5MTUyNjUyLDU5MjMxNjk0NV19
 -->
