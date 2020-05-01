@@ -169,7 +169,7 @@ The website is organised for UX with the features in the expected areas, easy to
 
 
 
-4)   A  user wants to organise a family  reunion for 7people of mixed age. I want to know is this a reputable company, do they have accreditation with holiday organisations that are trustworthy, what are their reviews like? I want  more  information on prices and deposits and availablilty.  
+4)   A  user wants to organise a family  reunion for 7 people of mixed age. I want to know is this a reputable company, do they have accreditation with holiday organisations that are trustworthy, what are their reviews like? I want  more  information on prices and deposits and availablilty.  
 
 - The user can click the CTA button, fill in the form and receive the brochure with all date and price details
 
@@ -183,31 +183,39 @@ The website is organised for UX with the features in the expected areas, easy to
 
 
 
-## Features  
+## Features of the Website: 
 
 ·     Feature 1 - allows users X to achieve Y, by having them fill out Z
 
- 1. A **navbar**  links to the different site sections and contains a
-   dropdown  About Us to other sections of the site ( Reviews and Team information) 
-    Navbar is clear and easily read, not too crowded and confusing
-Collapses to a convenient menu icon on mobile
- 2. An eyecatching  **jumbotron** section with large text and sub
-    heading and a central CTA  button for the viewer to sign up for the
-    holiday brochure -- this is the first thing the viewer sees
- 3. A **hero image** represents the experience for users and  calls
-    their attention immediately to the  detailed holiday information
-    they can easily access
- 4. A **modal** that opens to a simple email request form .  The central position  allows the user to get what they want in a matter of a few minutes without having to go any further.
+ 1.  **Navbar**   with links to the different site sections 
+  has a dropdown  About Us to other sections of the site ( Reviews and Team information) 
+    Navbar is clear and easily read, not crowded and confusing and collapses to a convenient toggle menu icon on mobile
+
+ 2. An eyecatching  **jumbotron** section with large text and subheading 
+    with central CTA  button for the viewer to sign up for the
+    holiday brochure. Is the first thing the viewer sees
+
+ 3. A **hero image** giving a visual idea of the holiday 
+    and calls user attention immediately to the  information they can easily access
+
+ 4. A **modal** that opens to a simple email request form. 
+ The central position  allows the user to get what they want without going further into the site. 
+ Minimal requirement from the user to sign up just name and email 
+
  5. A **Features** section -- summarising activities available ,
-    accommodation and food options
+    accommodation and food options. 
+
  6. A **Team Member**  section-- highlighting the experience and
-    qualifications  of the team including their safety qualifications
- 7. An  **Image Gallery** highlighting the popular kayaking trips -- for
-    experienced kayakers or beginners, for families,for reunions,or
-    corporate teams,singles or groups
+    qualifications  of the team with a link to their individual social media pages for more information
+
+ 7. An  **Image Gallery** highlighting the popular kayaking trips and different categories.
+   
  8. **Social Proof**  section featuring customer testimonials and links to 3rd party reviews from holiday organisations
+
  9. **A contact section ** to allow users to ask questions or to request any information
- 10. **Footer** -- with links to social sites and another CTA button link to receive the brochure & company email and phone number
+
+ 10. **Footer** -- Social links company socialmedia sites and another CTA button link 
+  & company email and phone number
 
 
 
