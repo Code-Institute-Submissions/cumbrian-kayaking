@@ -33,6 +33,7 @@ b)   **Contact us form** -  for users not  yet ready for all the holiday details
 c)  **Footer CTA button**- a second opportunity to get  the brochure is located  in the footer
 
 d) ** **Company phone number & email address****  are in the navbar and in the footer giving  other contact options.
+The primary goal of the website is to present visitors with useful valuable information to persuade user
 
  Converting a website viewer to a  purchaser requires several  communications with potential clients, purchasing is more likely if the company can persuade a user to part with their email address. 
  Users are offered valuable information and assistance via their email, and then the company can ask their permission to add them to their marketing   funnel . Website owners can supply some information immediately, and establish longer term communication with users Eg  with off- season specials or group discounts.
@@ -446,5 +447,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4MjIzOTMyLDU5MjMxNjk0NV19
+eyJoaXN0b3J5IjpbMTQzODU2NzI5MSw1OTIzMTY5NDVdfQ==
 -->
