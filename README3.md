@@ -81,9 +81,10 @@ It is hoped that a combination of these factors will  promote the decision to as
 
  - To  receive detailed information about prices, availability, deposit  etc.
 
-UX section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+UX section is also where you would share links to any wireframes, 
+LINK HERE TO WIREFRAMES 
 
-·     Feature 1 - allows users X to achieve Y, by having them fill out Z
+  
 
 
 
@@ -433,5 +434,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDA3NTc3LDU5MjMxNjk0NV19
+eyJoaXN0b3J5IjpbMTY2NjMxMzI0Myw1OTIzMTY5NDVdfQ==
 -->
