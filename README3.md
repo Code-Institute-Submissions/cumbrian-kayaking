@@ -65,9 +65,9 @@ It is hoped that a combination of these factors will  promote the decision to as
 
 .Users are deciding  ( quickly ) whether they are sufficiently interested to ask for more details.
 
-Users possibly want
+**Users  want 2 types of information** 
 
-1. General information immediately Eg 
+1. General  information on the website itself  Eg 
 
 A summary of  main features of the holidays
 
@@ -439,5 +439,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODM1NDA2OSw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbODIxMTk1MTQ2LDU5MjMxNjk0NV19
 -->
