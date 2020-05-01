@@ -48,11 +48,9 @@ Shall I book a holiday with this company ?
 
 Is the information on this website sufficiently persuasive that I want more information about their holidays? If so - I am willing to exchange my  email for  their brochure or an answer to my question .
 
+**The website attempts to meet the users goals ** by providing 
 
-
-**The website attempts to meet the users goals by**
-
-a) Easy, obvious navigation to  access more information  - CTA button, Contact us link, contact form with text area for messages 
+a) Quick, easy and obvious navigation to  access more information  - CTA button, Contact us link, contact form with text area for messages 
 
 b)  Images on the website  aimed at  instilling in the user an immediate sense of “ I would love to experience that “- hero image, trips gallery 
 
@@ -448,5 +446,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTA0MDcwMiw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbLTkxMzkwOTcwNiw1OTIzMTY5NDVdfQ==
 -->
