@@ -66,20 +66,20 @@ It is hoped that a combination of these factors will  promote the decision to as
 **Users  want 2 types of information** 
   General  information on holidays from the website itself  Eg
   
- 1. A summary of  main features of the holidays
- 2. Visual examples of holiday types
- 3. The qualifications of the kayak instructors
- 4. Social proof of the credibility of the company from 3rd party organisations
- 5. Strong social proof that other people  were happy with their   
+ - A summary of  main features of the holidays
+ - Visual examples of holiday types
+ - The qualifications of the kayak instructors
+ - Social proof of the credibility of the company from 3rd party organisations
+ - Strong social proof that other people  were happy with their   
    experience
 
-.
+ 2 .  Extra  information  from the company ( other than that on the
+     website) Eg
+  
 
- -  Extra  information  from the company ( other than that on the website) Eg 
- - To get answers to their questions 
-   
-   To  receive detailed information about prices, availability, deposits
-   etc.
+ - To get answers to their questions
+
+ - To  receive detailed information about prices, availability, deposit  etc.
 
 UX section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
@@ -433,5 +433,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzQzNzI0LDU5MjMxNjk0NV19
+eyJoaXN0b3J5IjpbMTIxMDA3NTc3LDU5MjMxNjk0NV19
 -->
