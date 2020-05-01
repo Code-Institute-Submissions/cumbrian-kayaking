@@ -138,12 +138,12 @@ This user can access the information they want
 
  - The site is mobile first and one page  the  user can access
    information by just scrolling down the page
-- They can click  the **CTA  button***  and sign up to receive the brochure with prices and details 
-- Toggle the burger icon and  then click the  contact us link in the menu  & ask a question about vegan options in the text area & receive an email reply.
-- User can scroll down to **contact form** & ask a question on the form and receive an email reply from the company. 
--  They can read information about vegan food is in the feature section. 
-- Use the **link in the footer** to sign up for the holiday brochure
-- Call the company and ask their question . 
+ - They can click  the **CTA  button***  and sign up to receive the brochure with prices and details 
+ - Toggle the burger icon and  then click the  contact us link in the menu  & ask a question about vegan options in the text area & receive an email reply.
+ - User can scroll down to **contact form** & ask a question on the form and receive an email reply from the company. 
+ -  They can  **read** information about vegan options in the feature section. 
+- They can use  the **link in the footer** to sign up for the holiday brochure
+- **Call** the company and ask their question . 
 
 
 
@@ -198,8 +198,6 @@ The website is organised for UX with the features in the expected areas, easy to
 ## Features  
 
 ·     Feature 1 - allows users X to achieve Y, by having them fill out Z
-
-An Alert 
 
 A **navbar** (collapses to a convenient menu icon on mobile),  links to the different site sections 
 
@@ -454,5 +452,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjU1NDI3Myw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbMTIxNjAyMzczOCw1OTIzMTY5NDVdfQ==
 -->
