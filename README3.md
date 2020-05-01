@@ -101,9 +101,9 @@ LINK HERE TO WIREFRAMES
     
      **Goals of the User** 
      
-   **Immediate** information about the holidays is avail
+   **Immediate** information about the holidays is easily available using 
 
-1. **Links** in the navbar are to the Contact form at the bottom , About Us is a dropdown to Reviews and Team information
+ Links in the navbar to the Contact form and to the Features section  About Us is a dropdown to Reviews Sand Team information
 
 2. **Hero  image**  sets the user expectation on arrival
 
@@ -442,5 +442,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3NDEzNDQ0LDU5MjMxNjk0NV19
+eyJoaXN0b3J5IjpbLTQ5Mjc4NDYwMSw1OTIzMTY5NDVdfQ==
 -->
