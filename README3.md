@@ -50,7 +50,7 @@ Is the information on this website sufficiently persuasive that I want more info
 
 **The website attempts to meet the users goals ** by providing 
 
-a) Quick, easy and obvious navigation to  access more information  - CTA button, Contact us link, contact form with text area for messages 
+a) Quick, easy and obvious navigation to  access extra information  - CTA buttons, link to contact form with text area for q
 
 b)  Images on the website  aimed at  instilling in the user an immediate sense of “ I would love to experience that “- hero image, trips gallery 
 
@@ -446,5 +446,5 @@ a Swedish adventure kayaking company and I based my  project on their idea.
 -   https://startbootstrap.com/previews/heroic-features/
 -  https://css-tricks.com/reset-all-margins-padding/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzkwOTcwNiw1OTIzMTY5NDVdfQ==
+eyJoaXN0b3J5IjpbMTM1Mzk1OTAyMCw1OTIzMTY5NDVdfQ==
 -->
