@@ -173,13 +173,13 @@ position:relative;
     font-family:'Kaushan Script', cursive;  
     font-weight:bold;
     margin-left: 2rem;
-    font-size: 2.5rem;
+    font-size: 2.5rem; 
 }  
 
 
-.dropdown-item a {
+/* .dropdown.dropdown-item a {
     color:black;
-}
+} */
 
 /* -----------------------------------Jumbotron Section */
 
@@ -202,9 +202,9 @@ margin-bottom: 2rem;
 }
 
 
-/* Buttons */
+/* Buttons */ 
 
-jumbotron button & footer btn
+jumbotron button
 .btn-cta { 
  background-color: #edf40f;
     font-weight: 600;
@@ -228,11 +228,34 @@ border-color:#93970f;
   width: 100px; 
   font-size: 15px;
 }
-.btn--social {
+ this iis the jumbotron button control 
+ button.btn-contact {
+  background-color: #edf40f;
+  color: black;
+  font-weight: 700;
+  font-size: 15px;
+  padding: 16px 20px;
+ border-radius: 23px;
+  cursor: pointer;
+  width: 50%;
+  opacity: 0.9;
+}
+ .btn--social {
     background-color:gray
     width: 2rem;
 
-}
+} 
+/* button.btn--footer {
+ background-color: #edf40f;
+  color: black;
+  font-weight: 600;
+  font-size: 10px;
+  padding: 5px 5px;
+ border-radius: 23px;
+  cursor: pointer;
+  width: 40%;
+  opacity: 0.9;
+} */
 
 /* -----------------------------------Feature Card Section */
 
@@ -332,10 +355,11 @@ team-member {
     text-align: center; 
     }
 
+/* -----------------Reviews Section */
 
-/* -----------------------------------Reviews Section */
 
-/* Styling & idea adapted from webseo on YT.com */
+ /*  CSS styling adapted from webseo on YT.com */
+
 
 
 .review-container {
@@ -397,6 +421,7 @@ form.container {
   margin: 20px;
   max-width: 500px;
   padding: 16px;
+  align-items: center;
   background-color: rgba(22, 29, 35, 0.3);
   border-radius: 20px;
   
@@ -409,12 +434,12 @@ form.container {
     font-size: 1rem;
 }
 
-/* Full-width input fields */
+
 
 input[type="text"],
 input[type="email"]
  {
-  width: 70%;
+  width: 60%; 
   padding: 15px;
   margin: 5px 0 22px 0;
   border: none;
@@ -427,7 +452,7 @@ background-color: #ddd;
   outline: none; 
 }
 
-/* 
+ /* this iis the jumbotron button control 
  button.btn-contact {
   background-color: #edf40f;
   color: black;
@@ -438,14 +463,12 @@ background-color: #ddd;
   cursor: pointer;
   width: 50%;
   opacity: 0.9;
-} */
+}  */
  
 
-.btn-contact:hover {
+/* .btn-contact:hover {
   opacity: 1;
-}
-
-
+} */
 
 
 /* -----------------------------------Footer Section */
@@ -456,8 +479,11 @@ footer {
   min-height: 120px; 
   margin: 0;
 }
-button.btn--footer {
- background-color: #edf40f;
+
+
+
+ /* button.btn--footer {
+ background-color: #edf40f; 
   color: black;
   font-weight: 600;
   font-size: 10px;
@@ -466,9 +492,11 @@ button.btn--footer {
   cursor: pointer;
   width: 40%;
   opacity: 0.9;
-}
+} */
+
 #footer-details {
   padding: 20px;
+  background-color:#756f6f; 
 }
 .social-links {
   padding-bottom: 15px;
@@ -495,7 +523,7 @@ button.btn--footer {
 /* Media Query Section */
 
 
-/* @media screen and (max-width: 932px) {  
+ @media screen and (max-width: 932px) {  
   
     html {
     font-size: 45%;
@@ -517,7 +545,7 @@ gallery images {
   footer {
     text-align: center;
   }
-} */
+} 
 
 
 
