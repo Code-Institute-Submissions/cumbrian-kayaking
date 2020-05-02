@@ -43,8 +43,8 @@ h2::after {
 
 button,
 label,
-input,
-p {
+input
+ {
   font-size: 1.5rem;
 }
 h2 {
@@ -91,7 +91,9 @@ body {
 } 
 
 /* -----------------------------------Callout Section */
- /* Style details for callout img https://css-tricks.com/perfect-full-page-background-image/ */
+
+ /* Style details for callout img  from https://css-tricks.com/perfect-full-page-background-image/ */
+ /* Photo by Filip Mroz on Unsplash */
 
 .callout-container {
  height: 100vh;
@@ -134,11 +136,12 @@ position:relative;
     z-index:1; 
 }
 .navbar .navbar-toggler { 
-    border:0;
+    border:0; 
 }
-.navbar navbar-nav a { 
-    font-weight: bold;
-    font-size: 2rem; 
+.nav-item a { 
+    font-weight: 400;
+    font-size: 1.5rem;
+    color:#fafafa 
 }
 .navbar-brand {
     font-family:'Kaushan Script', cursive;  
@@ -146,7 +149,9 @@ position:relative;
     margin-left: 2rem;
     font-size: 2rem;
 }  
-
+.nav-link.dropdown-toggle  {
+    font-size: 1.5rem;
+}
 
 
 /* -----------------------------------Jumbotron Section */
@@ -159,18 +164,20 @@ background-color: transparent;
 .jumbotron-header {
 color:white;
 font-weight: bold;
-font-size: 3rem;
+font-size: 3.5rem;
 margin-bottom: 10px;
 }
-.jumbotron .lead {
-font-size: 1.25rem;
-font-weight: 500;
-color:#fafafa;
+.lead {
+    font-size: 2rem;
+    font-weight: 300;
+    color: white;
 }
-.jumbotron small {
+/* .jumbotron small {
 color: #fff;
-font-size: 80%;
-}
+font-size: 1.5rem;
+font-weight:400;
+
+} */
 
 /* Buttons */
 
@@ -194,12 +201,17 @@ border-color:#93970f;
  background-color:#edf40f;
   font-weight: 300;
   border-radius: 23px;
-  width: 100px;
+  width: 100px; 
   font-size: 15px;
 }
 .btn--social {
+<<<<<<< HEAD
     background-color:gray
     width: 2rem;
+=======
+ background-color:gray;
+ width: 100px;
+>>>>>>> cc7364f3dd070c1a987cb96b55ce10e960aeb2cc
 
 }
 
@@ -211,20 +223,22 @@ border-color:#93970f;
  padding: 0;
  height:100vh;
 }
+
 .features-head { 
  background: #756f6f;
   padding: 1rem;
   min-height: 30vh;
   width: 100%; 
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;  
   justify-content: center;
   align-items: center;
   color: white;
   text-align: center;
 } 
 header h3 {
-    padding-top: 1rem;
+padding-top: 1rem; 
+align-content: center;
 }
 
 
@@ -240,7 +254,7 @@ header h3 {
 }
 
 .card {
-  width: 25rem;
+   width: 25rem; 
   text-align: center;
   min-height: 40vh;
   margin: 2rem 5rem;
@@ -306,7 +320,11 @@ header.gallery-head {
 
 /* -----------------------------------Team Section */
 .team-container {
+<<<<<<< HEAD
 /* height: 100vh; */
+=======
+height: 100vh;
+>>>>>>> cc7364f3dd070c1a987cb96b55ce10e960aeb2cc
 border: 0;
 padding:0;
 }
@@ -367,19 +385,17 @@ border: 0;
   #reviews .card {
     border-radius: 0;
     border-color: #edf40f;
-    box-shadow: 5px 5px 15px #;
-    transition: all 0.3s ease-in;
-    -webkit-transition: all 0.3s ease-in;
-    -moz-transition: all 0.3s ease-in ;
-  }
-  #reviews.card :hover{
-    background:#93970f
-    color:#fff;
-    border-radius: 5px;
-    border: none; 
-    box-shadow: 5px 5px 10px #9e9e9e;
-
-  }
+    max-width: 25rem;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    flex: 1 1 auto; 
+    justify-content: space-between;
+    box-shadow: 5px 5px 15px 
+   }
+ 
 
 
 /* -----------------------------------Contact Section */
@@ -466,12 +482,12 @@ footer {
 button.btn--footer {
  background-color: #edf40f;
   color: black;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 10px;
-  padding: 10px 15px;
+  padding: 5px 5px;
  border-radius: 23px;
   cursor: pointer;
-  width: 30%;
+  width: 40%;
   opacity: 0.9;
 }
 #footer-details {
@@ -483,7 +499,11 @@ button.btn--footer {
 .social-links li a i {
   width: 32px;
   height: 32px;
+<<<<<<< HEAD
   padding: 12px 0; 
+=======
+  padding: 12px 0;
+>>>>>>> cc7364f3dd070c1a987cb96b55ce10e960aeb2cc
   border-radius: 50%;
   font-size: 12px;
   line-height: 7px;
@@ -498,3 +518,33 @@ button.btn--footer {
 .social-links li a i:hover {
   background: #93970f;
 }
+
+/* Media Query Section */
+
+
+@media screen and (max-width: 932px) {  
+  
+    html {
+    font-size: 45%;
+  }
+  nav {
+    text-align: center;
+  }
+  #logo { 
+    padding: 2rem;
+  }
+
+gallery images {
+
+}
+  
+  .form-wrapper {
+    width: 100%;
+  }
+  footer {
+    text-align: center;
+  }
+}
+
+
+
