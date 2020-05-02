@@ -17,7 +17,7 @@ html {
 h1 {
   font-size: 4rem;
 }
-h2 {
+header h2 {
 	color: #333;
 	
     text-align: center;
@@ -28,7 +28,7 @@ h2 {
 	margin: 30px  0 60px;
 }
 
-h2::after {
+ header h2::after {
 	content: "";
 	width: 100px;
 	position: absolute;
@@ -122,7 +122,6 @@ position:relative;
  max-width:100%
 
  }
- 
  .opaque-overlay {
    position: absolute;
   top: 0;
@@ -131,6 +130,7 @@ position:relative;
   width: 100%;
   background-color: linear-gradient(rgba(0, 0, 0, 0.5), transparent);   
  }
+
 /* Navbar Section */
 
 .navbar-container {
@@ -192,15 +192,9 @@ margin-bottom: 10px;
     font-weight: 400;
     color: white;
 }
-/* .jumbotron small {
-color: #fff;
-font-size: 1.5rem;
-font-weight:400;
 
-} */
 
 /* Buttons */
-
 
 
 .btn-cta { 
@@ -241,22 +235,6 @@ border-color:#93970f;
  width: 100%
  }
 
-.features-head { 
- background: #756f6f;
-  padding: 1rem;
-  min-height: 30vh;
-  width: 100%; 
-  display: flex;
-  flex-direction: column;  
-  justify-content: center;
-  align-items: center;
-  color: white;
-  text-align: center;
-} 
-/* header h3 {
-padding-top: 1rem; 
-align-content: center;
-} */
 
 
 .cards {
@@ -301,18 +279,7 @@ margin:2rem;
 border: 0;
 padding:0;
 }
-header.team-head {
-  background: #756f6f; 
-  padding: 1rem;
-  min-height: 30vh;
-  width: 100%; 
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  text-align: center;
-}
+
 team-member {
  margin-bottom: 3rem;
  text-align: center;
@@ -334,18 +301,7 @@ team-member {
   padding:0;
   border:0;
 }
-header.gallery-head {
-  background: #756f6f;
-  padding: 1rem;
-  min-height: 30vh;
-  width: 100%; 
-  display: flex;
-  flex-direction: column; 
-  justify-content: center;
-  align-items: center;
-  color: white;
-  text-align: center;
-}
+
 .gallery-item {
   
     max-width: 24rem;
@@ -383,21 +339,10 @@ border: 0;
   border:0; 
 }
 
-.reviews-head {
-  background: #756f6f;
-  padding: 1rem;
-  min-height: 30vh;
-  width: 100%;
-  display: flex;
-  flex-direction: column; 
-  justify-content: center;
-  align-items: center;
-  color: white;
-  text-align: center;
-}
 #reviews img{
   margin-top: -5rem;
   }
+
 #reviews .cards {
     display:flex;
     justify-content: space-between;
@@ -453,6 +398,7 @@ form.container {
 }
 
 /* Full-width input fields */
+
 input[type="text"],
 input[type="email"]
  {
@@ -466,7 +412,7 @@ input[type="email"]
 input[type="text"]:focus,
 input[type="email"]:focus
 background-color: #ddd;
-  outline: none;
+  outline: none; 
 }
 
 
