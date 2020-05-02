@@ -219,9 +219,9 @@ border-color:#93970f;
  /*Styling for the features/cards adapted from examples in Deved course on HTML & CSS on Youtube  */
  /* Icons used are from "Icon made by Pixel perfect from www.flaticon.com" */
 .
-.features-container {
+.feature-container {
  padding: 0;
- height:100vh;
+ 
 }
 
 .features-head { 
