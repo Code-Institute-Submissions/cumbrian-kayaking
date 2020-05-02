@@ -72,7 +72,7 @@ h4 {
   text-transform: uppercase;
 }
 .general-sub {
-  font-family: "Exo", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 300;
   color: #fafafa;
 }
@@ -90,6 +90,19 @@ body {
 
 } 
 
+header {
+  background: #756f6f;
+    padding: 1rem;
+    min-height: 30vh;
+    width: 100%; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center; 
+}
+
 /* -----------------------------------Callout Section */
 
  /* Style details for callout img  from https://css-tricks.com/perfect-full-page-background-image/ */
@@ -106,6 +119,8 @@ display: flex;
 align-items: center;
 justify-content: center;
 position:relative;
+ max-width:100%
+
  }
  
  .opaque-overlay {
@@ -143,6 +158,11 @@ position:relative;
     font-size: 1.5rem;
     color:#fafafa 
 }
+.navbar .navbar-nav a {
+  font-weight: bold;
+  font-size:1.5rem;
+  color:#fafafa;
+}
 .navbar-brand {
     font-family:'Kaushan Script', cursive;  
     font-weight:bold;
@@ -169,7 +189,7 @@ margin-bottom: 10px;
 }
 .lead {
     font-size: 2rem;
-    font-weight: 300;
+    font-weight: 400;
     color: white;
 }
 /* .jumbotron small {
@@ -185,7 +205,7 @@ font-weight:400;
 
 .btn-cta { 
   background-color:#edf40f;
-  font-weight: 500;
+  font-weight: 700;
   border-radius: 23px;
   width: 200px;
   font-size: 15px;
@@ -205,24 +225,21 @@ border-color:#93970f;
   font-size: 15px;
 }
 .btn--social {
-<<<<<<< HEAD
     background-color:gray
     width: 2rem;
-=======
- background-color:gray;
- width: 100px;
->>>>>>> cc7364f3dd070c1a987cb96b55ce10e960aeb2cc
 
 }
 
 /* -----------------------------------Feature Card Section */
+
  /*Styling for the features/cards adapted from examples in Deved course on HTML & CSS on Youtube  */
+ 
  /* Icons used are from "Icon made by Pixel perfect from www.flaticon.com" */
 .
-.feature-container {
+.features-container {
  padding: 0;
- 
-}
+ width: 100%
+ }
 
 .features-head { 
  background: #756f6f;
@@ -236,21 +253,21 @@ border-color:#93970f;
   color: white;
   text-align: center;
 } 
-header h3 {
+/* header h3 {
 padding-top: 1rem; 
 align-content: center;
-}
+} */
 
 
 .cards {
   width: 90%;
   margin: auto;
   display: flex;
-  flex: 1 1 auto;
+  flex: 1 1 30;
   min-height: 70vh;
   align-items: center;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  /* flex-wrap: wrap; */
+  justify-content: space-around;
 }
 
 .card {
@@ -272,59 +289,15 @@ background: #edf40f;
 }
 
 .cards img {
-
 max-width: 15%;
 margin:2rem;   
 }
 
 
-/* -----------------------------------Trips Gallery Section */
-
-.gallery-container { 
-  padding:0;
-  border:0;
-}
-header.gallery-head {
-  background: #756f6f;
-  padding: 1rem;
-  min-height: 30vh;
-  width: 100%; 
-  display: flex;
-  flex-direction: column; 
-  justify-content: center;
-  align-items: center;
-  color: white;
-  text-align: center;
-}
-.gallery-item {
-  
-    max-width: 25rem;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    display: block;
-    margin: 0 auto;
-    flex: 1 1 auto;
-    justify-content: space-between;
-   
-  }
-
-  #gallery h5 { 
-    font-weight: 400; 
-    font-size:2rem;
-    text-align: center;
-    }
-    #gallery h5,p {
-    text-align: center; 
-    }
-
 /* -----------------------------------Team Section */
+
 .team-container {
-<<<<<<< HEAD
 /* height: 100vh; */
-=======
-height: 100vh;
->>>>>>> cc7364f3dd070c1a987cb96b55ce10e960aeb2cc
 border: 0;
 padding:0;
 }
@@ -353,6 +326,49 @@ team-member {
   margin-top: 1.5rem;
   margin-bottom: 0;
 }
+
+
+/* ----------------------------------- Gallery Images Section */
+
+.gallery-container { 
+  padding:0;
+  border:0;
+}
+header.gallery-head {
+  background: #756f6f;
+  padding: 1rem;
+  min-height: 30vh;
+  width: 100%; 
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+}
+.gallery-item {
+  
+    max-width: 24rem;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    flex: 0 1 33%;
+    justify-content: space-between;
+   
+  }
+
+  #gallery h5 { 
+    font-weight: 600; 
+    font-size:2rem;
+    text-align: center;
+    }
+    #gallery h5,p {
+    text-align: center; 
+    }
+
+
 /* -----------------------------------Reviews Section */
 .review-container {
 padding: 0;
@@ -362,7 +378,7 @@ border: 0;
 /* Review Section */
 
 .review-container {
-  height: 100vh;
+  /* height: 100vh; */
   padding: 0; 
   border:0; 
 }
@@ -382,6 +398,10 @@ border: 0;
 #reviews img{
   margin-top: -5rem;
   }
+#reviews .cards {
+    display:flex;
+    justify-content: space-between;
+}
   #reviews .card {
     border-radius: 0;
     border-color: #edf40f;
@@ -411,7 +431,6 @@ border: 0;
   position: relative;
 } 
 
-/* Add styles to the form container */
 form.container {
   position: absolute;
   color:#fff; 
@@ -499,11 +518,7 @@ button.btn--footer {
 .social-links li a i {
   width: 32px;
   height: 32px;
-<<<<<<< HEAD
   padding: 12px 0; 
-=======
-  padding: 12px 0;
->>>>>>> cc7364f3dd070c1a987cb96b55ce10e960aeb2cc
   border-radius: 50%;
   font-size: 12px;
   line-height: 7px;
@@ -522,7 +537,7 @@ button.btn--footer {
 /* Media Query Section */
 
 
-@media screen and (max-width: 932px) {  
+/* @media screen and (max-width: 932px) {  
   
     html {
     font-size: 45%;
@@ -544,7 +559,7 @@ gallery images {
   footer {
     text-align: center;
   }
-}
+} */
 
 
 
