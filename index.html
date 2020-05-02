@@ -11,7 +11,7 @@
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
       <script src="https://kit.fontawesome.com/c99d0d7831.js" crossorigin="anonymous"></script>
-      <link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Raleway:400,700|Kaushan+Script&display=swap" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Exo:400,700|Kaushan+Script&display=swap" rel="stylesheet">
       <link rel="stylesheet" href="/css/style.css">
    </head>
    <body>
@@ -33,8 +33,8 @@
                   About Us
                   </a>
                   <div class="dropdown-menu" aria-labelledby="navbarDropdownMenulink">
-                     <a class="dropdown-item" href="#team">Our Team</a>
-                     <a class="dropdown-item" href="#reviews">Testimonials</a>
+                     <a class=" dropdown dropdown-item" href="#team">Our Team</a>
+                     <a class=" dropdown dropdown-item" href="#reviews">Testimonials</a>
                   </div>
                </ul>
             </div>
@@ -48,8 +48,9 @@
 			<div class="col-12">
 				<section class="callout jumbotron text-center">
 					<h1 class="jumbotron-header">Kayak The Lakes</h1>
-					<h3 class="lead">Get Our 2020 Brochure Now </h3>
+					<!-- <h3 class="lead">Get Our 2020 Brochure Now </h3> -->
 					<button class="btn btn-cta btn-lg" data-toggle="modal" data-target="#signUpModal">I Want the Brochure!</button>
+                    <h3 class="lead">Sign Up for Our 2020 Brochure Now </h3>
 					<!-- <p class="text-muted"><small>Great Discounts Available for Groups</small></p> -->
 				</section> 
 			</div>
@@ -62,7 +63,7 @@
 
 <div class=" container-fluid features-container">      
   <header class="features-head">
-      <h2 class="head text-uppercase ">What To Expect </h2>
+      <h2 class="head-text text-uppercase ">What To Expect </h2>
       <h3> Luxurious tent accomodation, superb camp cuisine and great kayaking! </h3>
       	
   </header>
@@ -110,8 +111,8 @@
              
 			<div class=" container-fluid gallery-container"> 
             <header class="gallery-head"> 
-            <h2 class="text-uppercase">Our Most Popular Trips </h2>
-        <h3>Friends, family, colleagues, teens or teams we have the perfect trip for you. </h3>
+            <h2 class=" head-text text-uppercase">Our Most Popular Trips </h2>
+        <h3>Friends, family, colleagues, teens or teams we have the perfect kayaking getaway for you. </h3>
        </header>
    
 
@@ -196,7 +197,7 @@
 					<div class=" container-fluid team-container">
 						
 							<header class="team-head">
-                            <h2 class="text-uppercase">Meet The Team </h2>
+                            <h2 class=" head-text text-uppercase">Meet The Team </h2>
 								<h3> Expert instructors, fun, friendly & patient, we want you to have the best time </h3>
 							</header>
 						 
@@ -262,7 +263,7 @@
     	
            <header class="reviews-head"> 
     
-        <h2 class="text-uppercase">Our Customers Say.... </h2>
+        <h2 class=" head-text text-uppercase">Our Customers Say.... </h2>
         <h3 class="text-center" >They had a wonderful Kayaking holiday! </h3>
      </header> 
 
@@ -364,11 +365,11 @@
  <form>
  <div class="form-group">
       <label for="name">Name</label>
-        <input type="text" class="form-control" id="name" placeholder="Name">
+        <input type="text" class="form-control" id="name" placeholder="Name:" aria-describedby="emailHelp">
   </div>
     <div class="form-group"> 
-      <label for="exampleInputEmail1">Email address</label>
-        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+      <label for="exampleInputEmail1">Email</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email:" aria-describedby="emailHelp">
           <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
   </div>
   
@@ -389,7 +390,7 @@
         <div class="col-sm-4">
           <h5 class="uppercase general-sub"> Get Your 2020 Brochure</h5>
         
-           <button class="btn btn-cta btn--footer btn-lg" data-toggle="modal" data-target="#signUpModal">I Want the Brochure!</button> 
+           <button class="btn btn-cta btn--footer btn-sm" data-toggle="modal" data-target="#signUpModal">I Want the Brochure!</button> 
         </div>
         <div class="col-sm-4">
           <span class="sr-only">Brochure link </span>

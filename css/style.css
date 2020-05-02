@@ -17,27 +17,7 @@ html {
 h1 {
   font-size: 4rem;
 }
-header h2 {
-color: #333;
-text-align: center;
-text-transform: uppercase;
-font-family: "Poppins", sans-serif;
-font-weight: bold;
-position: relative;
-margin: 30px  0 60px;
-}
 
- header h2::after {
-	content: "";
-	width: 100px;
-	position: absolute;
-	margin: 0 auto;
-	height: 3px;
-	background: #edf40f;
-	left: 0;
-	right: 0; 
-	bottom: -9px;
-}
 
 
 button,
@@ -105,6 +85,28 @@ header {
     color: white;
     text-align: center; 
 }
+header h2 {
+color: #333;
+text-align: center;
+text-transform: uppercase;
+font-family: 'Exo',sans-serif;
+font-size: 3.5rem; 
+font-weight: bold;
+position: relative;
+margin: 30px  0 60px;
+}
+
+ header h2::after {
+	content: "";
+	width: 100px;
+	position: absolute;
+	margin: 0 auto;
+	height: 3px;
+	background: #edf40f;
+	left: 0;
+	right: 0; 
+	bottom: -9px;
+}
 
 /* -----------------------------------Callout Section */
 
@@ -156,26 +158,28 @@ position:relative;
 .navbar .navbar-toggler { 
     border:0; 
 }
-.nav-item a { 
+ .nav-item a { 
     font-weight: 400;
     font-size: 1.5rem;
-    color:#fafafa 
-}
+    color: #333; 
+} 
+/* nav-links  */
 .navbar .navbar-nav a {
   font-weight: bold;
-  font-size:1.5rem;
+  font-size: 2rem;
   color:#fafafa;
-}
+} 
 .navbar-brand {
     font-family:'Kaushan Script', cursive;  
     font-weight:bold;
     margin-left: 2rem;
     font-size: 2.5rem;
 }  
-.nav-link.dropdown-toggle  {
-    font-size: 1.5rem;
-}
 
+
+.dropdown-item a {
+    color:black;
+}
 
 /* -----------------------------------Jumbotron Section */
 
@@ -187,26 +191,29 @@ background-color: transparent;
 .jumbotron-header {
 color:white;
 font-weight: bold;
-font-size: 3.5rem;
-margin-bottom: 10px;
+font-size: 4rem;
+margin-bottom: 2rem;
 }
 .lead {
     font-size: 2rem;
     font-weight: 400;
     color: white;
+    margin-top: 4rem;
 }
 
 
 /* Buttons */
 
-
+jumbotron button & footer btn
 .btn-cta { 
-  background-color:#edf40f;
-  font-weight: 700;
-  border-radius: 23px;
-  width: 200px;
-  font-size: 15px;
+ background-color: #edf40f;
+    font-weight: 600;
+    border-radius: 2.3rem;
+    width: 250px;
+    font-size: 1.5rem;
+    padding: 1rem;
 }
+
 .btn-cta:hover,
 .btn-cta:active,
 .btn-cta:focus,
@@ -237,8 +244,6 @@ border-color:#93970f;
  padding: 0;
  width: 100%
  }
-
-
 
 .cards {
   width: 90%;
@@ -329,6 +334,10 @@ team-member {
 
 
 /* -----------------------------------Reviews Section */
+
+/* Styling & idea adapted from webseo on YT.com */
+
+
 .review-container {
 padding: 0;
 border: 0;
@@ -352,7 +361,7 @@ border: 0;
 }
   #reviews .card {
     border-radius: 0;
-    border-color: #edf40f;
+    border-color:#edf40f;
     max-width: 25rem;
     margin-left: auto;
     margin-right: auto;
@@ -418,7 +427,7 @@ background-color: #ddd;
   outline: none; 
 }
 
-
+/* 
  button.btn-contact {
   background-color: #edf40f;
   color: black;
@@ -429,7 +438,7 @@ background-color: #ddd;
   cursor: pointer;
   width: 50%;
   opacity: 0.9;
-}
+} */
  
 
 .btn-contact:hover {
