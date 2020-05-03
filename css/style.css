@@ -188,15 +188,17 @@ position:relative;
 .jumbotron {
 background-color: transparent;
 }
+
 .jumbotron-header {
 color:white;
-font-weight: bold;
-font-size: 4rem;
-margin-bottom: 2rem;
+font-weight: 700;
+font-size: 6rem;
+margin-bottom: 8rem;
 }
-.jumbotron.lead {
+
+.jumbotron-lead {
     font-size: 2rem;
-    font-weight: 400;
+    font-weight: 600;
     color: white;
     margin-top: 4rem;
 }
@@ -213,23 +215,24 @@ margin-bottom: 2rem;
     font-size: 1.5rem;
     padding: 1rem;
 }
- .btn--cta:hover, 
+ /* .btn--cta:hover, 
 .btn--cta:active,
 .btn--cta:focus,
 .btn--cta:active:focus{ 
 background-color:#93970f;
 border-color:#93970f; 
-}  
-/* 
+}   */
+ 
 button .btn:hover,
 button .btn:active,
 button .btn:focus,
 button .btn:active:focus {
 background-color:#93970f;
 border-color:#93970f; 
-} */
+} 
 
 /* contact form button  */
+
 .btn--contact{
  background-color:#edf40f;
   font-weight: 300;
@@ -237,7 +240,16 @@ border-color:#93970f;
   width: 100px; 
   font-size: 15px;
 }
- {
+
+.btn--modal {
+ background-color:#edf40f;
+ font-weight: 500;
+border-radius:13px;
+width: 200px;
+font-size: 15px
+}
+
+ 
   /* background-color: #edf40f;
   color: black;
   font-weight: 700;
@@ -247,12 +259,9 @@ border-color:#93970f;
   cursor: pointer;
   width: 50%;
   opacity: 0.9;
-} */
- .btn--social {
-    background-color:gray
-    width: 2rem;
-
 } 
+
+  
 
 /* Footer button  */
 
@@ -381,7 +390,7 @@ justify-content: space-between;
     display:flex;
     justify-content: space-between;
 } 
-  #reviews .card {
+  /* #reviews .card {
     border-radius: 0; 
     max-width: 25rem;
     margin-left: auto;
@@ -392,11 +401,11 @@ justify-content: space-between;
     flex: 1 1 auto; 
     justify-content: space-between;
     box-shadow: 5px 5px 15px 
-   } 
+   }  */
    
-/* .card-body {
+ .card-body {
     border:1px solid #edf40f;
-} */
+} 
 
 /* -----------------------------------Contact Section */
 
@@ -447,11 +456,11 @@ input[type="email"]
 
 input[type="text"]:focus,
 input[type="email"]:focus
-background-color: #ddd;
+background-color: #ddd; 
   outline: none; 
 }
 
-  this iis NOT the jumbotron button control 
+  /* this iis NOT the jumbotron button control 
  button.btn-contact {
   background-color: #edf40f;
   color: black;
@@ -462,7 +471,7 @@ background-color: #ddd;
   cursor: pointer;
   width: 50%;
   opacity: 0.9;
-}  
+}   */
  
 
  .btn-contact:hover {
@@ -479,19 +488,6 @@ footer {
   margin: 0;
 }
 
-/* Footer button 
-
- button.btn--footer {
- background-color: #edf40f; 
-  color: black;
-  font-weight: 600;
-  font-size: 13px;
-  padding: 10px 5px; 
- border-radius: 23px;
-  cursor: pointer;
-  width: 40%;
-  opacity: 0.9;
-}  */
 
 #footer-details {
   padding: 20px;
@@ -505,11 +501,11 @@ footer {
   height: 32px;
   padding: 12px 0; 
   border-radius: 50%;
-  font-size: 12px;
+  font-size: 12px; 
   line-height: 7px;
   text-align: center;
   color: #fafafa;
-  background: #8f8f8f;
+  background: #525050;
   transition: all 0.35s ease-in-out;
   -moz-transition: all 0.35s ease-in-out;
   -webikit-transition: all 0.35s ease-in-out;

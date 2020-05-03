@@ -50,7 +50,7 @@
 					<h1 class="jumbotron-header">Kayak The Lakes</h1>
 					<!-- <h3 class="lead">Get Our 2020 Brochure Now </h3> -->
 					<button class="btn btn--cta btn-lg" data-toggle="modal" data-target="#signUpModal">I Want the Brochure!</button>
-                    <h3 class="lead">Sign Up for Our 2020 Brochure Now </h3>
+                    <h3 class="jumbotron-lead">Sign Up for Our 2020 Brochure Now </h3>
 				</section> 
 			</div>
 		</div> 
@@ -254,7 +254,7 @@
         </div>
       </div>
     </div>
- </section>
+
 
 			<!-------------------------------------------------------- Reviews  Section  -->
 			
@@ -298,7 +298,7 @@
          <img src="images/man2.jpg" alt="holiday-testimonial" class="img-fluid rounded-circle w-50 mb-3">
          <h3>John & Peter McMann</h3>
          <p>Harrogate UK</p>>
-         <p>We got a group together for a weekend and it was very enjoyable. Exactly right for a short break with friends.</p>
+         <p>We got a group together for a weekend and it was very enjoyable. Exactly right for a short break.</p>
                   <div class="d-flex flex-row justify-content-center"></div>
                  </div>
                </div>
@@ -311,7 +311,7 @@
                   <img src="images/woman-2.jpg" alt="kayaking-holiday-review" class="img-fluid rounded-circle w-50 mb-3">
                   <h3>Rene Valois</h3>
                   <p>Amsterdam NL</p>>
-                  <p>Excellent in every respect, magnificent scenery and the team were fabulous. We loved the kayaking lessons! </p>
+                  <p>Excellent in every respect, magnificent scenery and the team were fabulous. We loved the kayaking! </p>
                               <div class="d-flex flex-row justify-content-center"></div>
                         </div>
                      </div>
@@ -338,10 +338,9 @@
 									<label for="email"><b>Email:</b></label>
 									<input type="email" name ="name" required><br>
 
-									<label for="textarea"> <b>Your Question </b></label><br>
-									<textarea rows="5" cols="45" name="comment"></textarea><br>
-
-									<button type="submit" class="btn--contact">Submit</button>
+									<label for="textarea"> <b>Your Question: </b></label><br>
+                                   <textarea rows="5" cols="45" name="comment"></textarea><br>
+                                    <button type="submit" class="btn--contact">Submit</button>
 								</form>
 							  </div>
                            </div>
@@ -353,10 +352,11 @@
 						<!-------------------------------------------------------- Modal Section  -->
 
 <div class="modal" tabindex="-1" role="dialog" id="signUpModal">
+   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="modal-title">Sign Up For Our Holiday Brochure</h5>
-        <button type="button btn btn-modal"  class="close" data-dismiss="modal" aria-label="Close">
+        <button type="btn btn--modal"  class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>     
       </div>
@@ -369,10 +369,10 @@
     <div class="form-group"> 
       <label for="exampleInputEmail1">Email</label>
         <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email:" aria-describedby="emailHelp">
-          <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+          <small id="emailHelp" class="form-text ">We'll never share your email with anyone else.</small>
   </div>
   
-  <button type="submit" class="btn btn-modal">Send Me the Brochure!</button>
+  <button type="submit" class="btn btn--modal">Send Me the Brochure!</button>
   
  </form>
       </div> 
