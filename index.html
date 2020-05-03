@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"> 
    <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,7 +14,9 @@
       <link rel="stylesheet" href="/css/style.css">
    </head>
    <body>
-      <!-------------------------------------------------------- Navbar Section  -->
+
+          <!-- Navbar Section -->
+
      <div class="container-fluid navbar-container">
          <nav class="navbar navbar-dark  navbar-expand-sm">
             <a href="#" class="navbar-brand">Cumbrian Kayaking</a>
@@ -40,14 +42,15 @@
          </nav>
       </div>
       <div class="container-fluid callout-container">
-         <!-------------------------------------------------------- Jumbotron Section  -->
+
+         <!-- Jumbotron Section  -->
+
 		<div class="opaque-overlay">&nbsp;</div>
 		<div class=" row">
 			<div class="col-12">
 				<section class="callout jumbotron text-center">
 					<h1 class="jumbotron-header">Kayak The Lakes</h1>
-					<!-- <h3 class="lead">Get Our 2020 Brochure Now </h3> -->
-					<button class="btn btn--cta btn-lg" data-toggle="modal" data-target="#signUpModal">I Want the Brochure!</button>
+				    <button class="btn btn-cta primary btn-lg" data-toggle="modal" data-target="#signUpModal">I Want the Brochure!</button>
                     <h3 class="jumbotron-lead">Sign Up for Our 2020 Brochure Now </h3>
 				</section> 
 			</div>
@@ -101,7 +104,8 @@
             </div>
          </div>
       </div>
-			<!-----------------------------Trips Image Section  -->
+			
+            <!-- Image Gallery Section  -->
              
 			  <div class=" container-fluid gallery-container">
          <header id="gallery">
@@ -224,7 +228,8 @@
                </div>
             </div>
          </div>
-			<!-------------------------------------------------------- Reviews  Section  -->
+
+			<!-----Reviews Section  -->
 			  
 
  <div class="container-fluid review-container">
@@ -286,9 +291,10 @@
       </div>
    
 
-			<!-------------------------------------------------------- Contact Section -->
+			<!---------Contact Section -->
+
 			 <div class="container-fluid contact-container">
-         <section id="contact">
+         <section id="contact"> 
             <div class="row">
                <div class="col-12">
                   <div class="bg-img">
@@ -300,9 +306,9 @@
                         <label for="email"><b>Email:</b></label>
                         <input type="email" name ="name" required><br>
                         <label for="textarea"> <b>Your Question: </b></label><br>
-                        <textarea rows="10" cols="60" type="textarea" name="comment"></textarea>
+                        <textarea rows="10" cols="60" name="comment"></textarea> 
                         <br>
-                        <button type="submit" class="btn--contact">Submit</button>
+                        <button type="submit" class="btn btn-contact primary">Submit</button>
                      </form>
                   </div>
                </div>
@@ -311,13 +317,14 @@
       </div>
 
 
-       <!-------------------------------------------------------- Modal Section  -->
+       <!-------- Modal Section  -->
+
       <div class="modal" tabindex="-1" role="dialog" id="signUpModal">
          <div class="modal-dialog" role="document">
             <div class="modal-content">
                <div class="modal-header">
                   <h5 class="modal-title">Sign Up For Our Holiday Brochure</h5>
-                  <button type="btn btn--modal"  class="close" data-dismiss="modal" aria-label="Close">
+                  <button type="button primary btn-modal"  class="close" data-dismiss="modal" aria-label="Close">
                   <span aria-hidden="true">&times;</span>
                   </button>     
                </div>
@@ -332,7 +339,7 @@
                         <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email:" aria-describedby="emailHelp">
                         <small id="emailHelp" class="form-text ">We'll never share your email with anyone else.</small>
                      </div>
-                     <button type="submit" class="btn btn--modal">Send Me the Brochure!</button>
+                     <button type="submit" class="btn btn-modal btn-primary">Send Me the Brochure!</button>
                   </form>
                </div>
             </div>
@@ -344,7 +351,7 @@
          <div id="footer-details" class="row">
             <div class="col-sm-4">
                <h5 class="uppercase general-sub"> Get Your 2020 Brochure</h5>
-               <button class="btn btn--footer btn-lg" data-toggle="modal" data-target="#signUpModal">I Want the Brochure!</button> 
+               <button class="btn btn-footer primary btn-lg" data-toggle="modal" data-target="#signUpModal">I Want the Brochure!</button> 
             </div>
             <div class="col-sm-4">
                <span class="sr-only">Brochure link </span>

@@ -1,102 +1,107 @@
  /* Global Styles  */
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+ * {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 
-html {  
-  font-size: 62.5%;
+html {
+	font-size: 62.5%;
 }
+
 .container-fluid {
-    padding-left: 0;
-    padding-right: 0;
+	padding-left: 0;
+	padding-right: 0;
 }
 
 h1 {
-  font-size: 4rem;
+	font-size: 4rem;
 }
-
-
 
 button,
 label,
-input
- {
-  font-size: 1.5rem;
+input {
+	font-size: 1.5rem;
 }
+
 h2 {
-  font-size: 3rem;
+	font-size: 3rem;
 }
+
 h3 {
-  font-size: 2rem;
-  font-weight: normal;
+	font-size: 2rem;
+	font-weight: normal;
 }
+
 h4,
 h5 {
-  font-size: 2rem;
+	font-size: 2rem;
 }
+
 a {
-  color: white;
-  text-decoration: none; 
+	color: white;
+	text-decoration: none;
 }
+
 p {
- font-size: 1.5rem
+	font-size: 1.5rem
 }
 
 h1,
 h2,
 h3,
 h4 {
-  margin: 0;
+	margin: 0;
 }
-.uppercase { 
-  text-transform: uppercase;
+
+.uppercase {
+	text-transform: uppercase;
 }
+
 .general-sub {
-  font-family: "Raleway", sans-serif;
-  font-weight: 300;
-  color: #fafafa;
+	font-family: "Raleway", sans-serif;
+	font-weight: 300;
+	color: #fafafa;
 }
+
 .inline-block {
-  display: inline-block;
-  line-height: 1;
+	display: inline-block;
+	line-height: 1;
 }
 
 body {
-  font-family: "Poppins", sans-serif;
-   width: 100%; 
-  margin: 0px;
-  padding: 0px;
-  overflow-x: hidden; 
-
-} 
+	font-family: "Poppins", sans-serif;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+}
 
 header {
-  background: #756f6f;
-    padding: 1rem;
-    min-height: 30vh;
-    width: 100%; 
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    text-align: center; 
-}
-header h2 {
-color: #333;
-text-align: center;
-text-transform: uppercase;
-font-family: 'Exo',sans-serif;
-font-size: 3.5rem; 
-font-weight: bold;
-position: relative;
-margin: 30px  0 60px;
+	background: #756f6f;
+	padding: 1rem;
+	min-height: 30vh;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	text-align: center;
 }
 
- header h2::after {
+header h2 {
+	color: #333;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Exo', sans-serif;
+	font-size: 3.5rem;
+	font-weight: bold;
+	position: relative;
+	margin: 30px 0 60px;
+}
+
+header h2::after {
 	content: "";
 	width: 100px;
 	position: absolute;
@@ -104,80 +109,81 @@ margin: 30px  0 60px;
 	height: 3px;
 	background: #edf40f;
 	left: 0;
-	right: 0; 
+	right: 0;
 	bottom: -9px;
 }
-
-/* -----------------------------------Callout Section */
-
- /* Style details for callout img  from https://css-tricks.com/perfect-full-page-background-image/ */
- /* Photo by Filip Mroz on Unsplash */
-
-.callout-container {
- height: 100vh;
-background:url("/images/KG-with-leaves.png") no-repeat bottom right fixed;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
-display: flex; 
-align-items: center;
-justify-content: center;
-position:relative;
- max-width:100%
-
- }
- .opaque-overlay {
-   position: absolute;
-  top: 0;
-  left: 0;     
-  height: 100%;
-  width: 100%;
-  background-color: linear-gradient(rgba(0, 0, 0, 0.5), transparent);   
- }
 
 /* Navbar Section */
 
 .navbar-container {
-    position:absolute;
-    top:0;
-    left:0;
-    padding-left:0;
-    padding-right:0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding-left: 0;
+	padding-right: 0;
 }
-
 
 .navbar {
-    margin-bottom:0; 
-    border:0;
-    padding:5px; 
-    width: 100%;
-    background-color:rgba(0, 0, 0, 0.25);
-    z-index:1; 
+	margin-bottom: 0;
+	border: 0;
+	padding: 5px;
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.25);
+	z-index: 1;
 }
-.navbar .navbar-toggler { 
-    border:0; 
-} 
 
-  .navbar .navbar-nav a {
-  font-weight: 300;
-  font-size: 2rem;
-  color:fafafa;
-}  
+.navbar .navbar-toggler {
+	border: 0;
+}
+
+.navbar .navbar-nav a {
+	font-weight: 300;
+	font-size: 2rem;
+	color: fafafa;
+}
+
 .navbar-brand {
-    font-family:'Kaushan Script', cursive;  
-    font-weight:bold;
-    margin-left: 2rem;
-    font-size: 2.5rem; 
-} 
+	font-family: 'Kaushan Script', cursive;
+	font-weight: bold;
+	margin-left: 2rem;
+	font-size: 2.5rem;
+}
+
 .dropdown-menu a {
-    color:#333;
-    font-size:1.5rem;
-} 
+	color: #333;
+	font-size: 1.5rem;
+}
 
- 
+/* Callout Section */
 
-/* -----------------------------------Jumbotron Section */
+/* Style details for callout img  from https://css-tricks.com/perfect-full-page-background-image/ */
+/* Photo by Filip Mroz on Unsplash */
+ .callout-container {
+	height: 100vh;
+	background: url("/images/KG-with-leaves.png") no-repeat bottom right fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	max-width: 100%
+}
+
+.opaque-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background-color: linear-gradient(rgba(0, 0, 0, 0.5), transparent);
+}
+
+
+
+ /* Jumbotron Section */
 
 
 
@@ -186,24 +192,23 @@ background-color: transparent;
 }
 
 .jumbotron-header {
-color:white;
-font-weight: 700;
-font-size: 6rem;
-margin-bottom: 8rem;
+	color: white;
+	font-weight: 700;
+	font-size: 6rem;
+	margin-bottom: 8rem;
 }
 
 .jumbotron-lead {
-    font-size: 2rem;
-    font-weight: 600;
-    color: white;
-    margin-top: 4rem;
+	font-size: 2rem;
+	font-weight: 600;
+	color: white;
+	margin-top: 4rem;
 }
-
 
 /* Buttons */ 
 
 /* jumbotron button */
-.btn--cta { 
+.btn-cta { 
  background-color: #edf40f;
     font-weight: 600;
     border-radius: 2.3rem;
@@ -213,17 +218,18 @@ margin-bottom: 8rem;
 }
 
  
-button .btn:hover,
-button .btn:active,
-button .btn:focus,
-button .btn:active:focus {
+
+.btn.primary:hover,
+.btn.primary:active,
+.btn.primary:focus,
+.btn.primary:active:focus {
 background-color:#93970f;
 border-color:#93970f; 
 } 
 
 /* contact form button  */
 
-.btn--contact{
+.btn-contact{
  background-color:#edf40f;
   font-weight: 300;
   border-radius: 23px;
@@ -231,7 +237,7 @@ border-color:#93970f;
   font-size: 15px;
 }
 
-.btn--modal {
+.btn-modal {
  background-color:#edf40f;
  font-weight: 500;
 border-radius:13px;
@@ -241,7 +247,7 @@ font-size: 15px
 
 /* Footer button  */
 
- button.btn--footer {
+ button.btn-footer {
  background-color: #edf40f; 
   color: black;
   font-weight: 600;
@@ -414,10 +420,11 @@ input[type="email"],
 .textarea 
  {
   width: 60%; 
-  padding: 15px;
+  padding: 1.5rem;
   margin: 5px 0 22px 0;
   border: none;
   background:#f1f1f1;
+  font-size: 1.5rem
 }
 
 input[type="text"]:focus,
