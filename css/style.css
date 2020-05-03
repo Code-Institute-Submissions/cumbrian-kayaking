@@ -157,29 +157,25 @@ position:relative;
 }
 .navbar .navbar-toggler { 
     border:0; 
-}
- .nav-item a { 
-    font-weight: 400;
-    font-size: 1.5rem;
-    color: #333; 
 } 
-/* nav-links  */
-.navbar .navbar-nav a {
-  font-weight: bold;
+
+  .navbar .navbar-nav a {
+  font-weight: 300;
   font-size: 2rem;
-  color:#fafafa;
-} 
+  color:fafafa;
+}  
 .navbar-brand {
     font-family:'Kaushan Script', cursive;  
     font-weight:bold;
     margin-left: 2rem;
     font-size: 2.5rem; 
-}  
+} 
+.dropdown-menu a {
+    color:#333;
+    font-size:1.5rem;
+} 
 
-
-/* .dropdown.dropdown-item a {
-    color:black;
-} */
+ 
 
 /* -----------------------------------Jumbotron Section */
 
@@ -215,13 +211,7 @@ margin-bottom: 8rem;
     font-size: 1.5rem;
     padding: 1rem;
 }
- /* .btn--cta:hover, 
-.btn--cta:active,
-.btn--cta:focus,
-.btn--cta:active:focus{ 
-background-color:#93970f;
-border-color:#93970f; 
-}   */
+
  
 button .btn:hover,
 button .btn:active,
@@ -248,20 +238,6 @@ border-radius:13px;
 width: 200px;
 font-size: 15px
 }
-
- 
-  /* background-color: #edf40f;
-  color: black;
-  font-weight: 700;
-  font-size: 15px;
-  padding: 16px 20px;
- border-radius: 23px;
-  cursor: pointer;
-  width: 50%;
-  opacity: 0.9;
-} 
-
-  
 
 /* Footer button  */
 
@@ -390,18 +366,7 @@ justify-content: space-between;
     display:flex;
     justify-content: space-between;
 } 
-  /* #reviews .card {
-    border-radius: 0; 
-    max-width: 25rem;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    display: block;
-    margin: 0 auto;
-    flex: 1 1 auto; 
-    justify-content: space-between;
-    box-shadow: 5px 5px 15px 
-   }  */
+  
    
  .card-body {
     border:1px solid #edf40f;
@@ -462,19 +427,7 @@ background-color: #ddd;
 outline: none; 
 }
 
-  /* this iis NOT the jumbotron button control 
- button.btn-contact {
-  background-color: #edf40f;
-  color: black;
-  font-weight: 700;
-  font-size: 15px;
-  padding: 16px 20px;
- border-radius: 23px;
-  cursor: pointer;
-  width: 50%;
-  opacity: 0.9;
-}   */
- 
+
 
  .btn-contact:hover {
   opacity: 1;
@@ -522,22 +475,21 @@ footer {
 
  @media screen and (max-width: 932px) {  
   
-    html {
+    /* html {
     font-size: 45%;
-  }
-  nav {
-    text-align: center;
+  } 
+  */
   }
   #logo { 
     padding: 2rem;
+    text-align: center;
   }
 
-gallery images {
-
-}
-  
+  .bg-img{
+      align-content: center;
+  }
   .form-wrapper {
-    width: 100%;
+    width: 80%;
   }
   footer {
     text-align: center;
