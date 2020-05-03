@@ -5,12 +5,12 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
-      <title>Cumbrian Kayaking | Kayaking in the Lake District</title>
+      <title>Cumbrian Kayaking | Kayaking in the Lake District</title> 
       <link rel="icon" href="/icons/kayak.svg">
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
       <script src="https://kit.fontawesome.com/c99d0d7831.js" crossorigin="anonymous"></script>
-      <link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Exo:400,700|Kaushan+Script&display=swap" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Poppins:400,700%7cExo:400,700%7cKaushan+Script&display=swap" rel="stylesheet">
       <link rel="stylesheet" href="/css/style.css">
    </head>
    <body>
@@ -112,7 +112,7 @@
             <h2 class=" head-text text-uppercase">Our Most Popular Trips </h2>
             <h3>Friends, family, colleagues, teens or teams we have the perfect kayaking getaway for you. </h3>
          </header>
-         <div id="gallery">
+         <div class="gallery-images">
             <div class="row my-5">
                <div class="col-12 col-md-6 col-lg-4">
                   <div class="bg-white rounded shadow-sm">
@@ -295,18 +295,19 @@
 
 			 <div class="container-fluid contact-container">
          <section id="contact"> 
-            <div class="row">
+            <div class="row">     
                <div class="col-12">
                   <div class="bg-img">
                      <form action="/action_page.php" class="container">
                         <h3 class="text-uppercase">Get In Touch</h3>
                         <p>We promise not to share your email</p>
-                        <label for="name"><b>Name:</b></label>
+                        <label for="name"><b>Name:</b></label> 
                         <input type="text"  name="name" required><br>
-                        <label for="email"><b>Email:</b></label>
-                        <input type="email" name ="name" required><br>
-                        <label for="textarea"> <b>Your Question: </b></label><br>
-                        <textarea rows="10" cols="60" name="comment"></textarea> 
+                        <label for="exampleInputEmail2"><b>Email:</b></label>
+                         <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Email:" aria-describedby="emailHelp">
+                       
+                        <label for="Exampletextarea1"> <b>Your Question: </b></label><br>
+                        <textarea id=Exampletextarea1 rows="10" cols="60" name="comment"></textarea> 
                         <br>
                         <button type="submit" class="btn btn-contact primary">Submit</button>
                      </form>
@@ -324,7 +325,7 @@
             <div class="modal-content">
                <div class="modal-header">
                   <h5 class="modal-title">Sign Up For Our Holiday Brochure</h5>
-                  <button type="button primary btn-modal"  class="close" data-dismiss="modal" aria-label="Close">
+                  <button type="button"  class="close" data-dismiss="modal" aria-label="Close">
                   <span aria-hidden="true">&times;</span>
                   </button>     
                </div>
@@ -339,7 +340,7 @@
                         <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email:" aria-describedby="emailHelp">
                         <small id="emailHelp" class="form-text ">We'll never share your email with anyone else.</small>
                      </div>
-                     <button type="submit" class="btn btn-modal btn-primary">Send Me the Brochure!</button>
+                     <button type="submit" class="btn btn-modal primary">Send Me the Brochure!</button>
                   </form>
                </div>
             </div>
