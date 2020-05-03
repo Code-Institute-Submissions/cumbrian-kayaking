@@ -66,10 +66,10 @@ h4 {
 
 body {
   font-family: "Poppins", sans-serif;
-  width: 100%;
+   width: 100%; 
   margin: 0px;
   padding: 0px;
-  overflow-x: hidden;
+  overflow-x: hidden; 
 
 } 
 
@@ -475,25 +475,28 @@ footer {
 
  @media screen and (max-width: 932px) {  
   
-    /* html {
+     html {
     font-size: 45%;
   } 
-  */
+ body {
+overflow-x: hidden; 
+ }
   }
   #logo { 
     padding: 2rem;
     text-align: center;
   }
 
-  .bg-img{
+  .bg-img{ 
       align-content: center;
   }
+  overflow:h
   .form-wrapper {
     width: 80%;
   }
-  footer {
+  /* footer {
     text-align: center;
-  }
+  } */
 } 
 
 
