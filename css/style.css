@@ -138,7 +138,7 @@ header h2::after {
 
 .navbar .navbar-nav a {
 	font-weight: 300;
-	font-size: 2rem;
+	font-size: 1.5rem;
 	color:#fafafa;
 }
 
@@ -262,20 +262,19 @@ font-size: 15px
  /*Styling for the features/cards adapted from examples in Deved course on HTML & CSS on Youtube  */
  
  /* Icons used are from "Icon made by Pixel perfect from www.flaticon.com" */
-.
+
 .features-container {
  padding: 0;
  width: 100%
- }
+ } 
 
 .cards {
-  /* width: 90%; */
+  /* width: 90%;  */
   margin: auto;
   display: flex;
-  flex: 1 1 30;
+ flex: 1 1 30%; 
   min-height: 70vh;
   align-items: center;
-  /* flex-wrap: wrap; */
   justify-content: space-around;
 }
 
