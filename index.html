@@ -18,7 +18,7 @@
           <!-- Navbar Section -->
 
      <div class="container-fluid navbar-container">
-         <nav class="navbar navbar-dark  navbar-expand-sm">
+         <nav class="navbar fixed-top navbar-dark  navbar-expand-sm ">
             <a href="#" class="navbar-brand">Cumbrian Kayaking</a>
             <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
                aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -298,7 +298,8 @@
             <div class="row">     
                <div class="col-12">
                   <div class="bg-img">
-                     <form action="/action_page.php" class="container">
+                     <!-- <form action="/action_page.php" class="container"> -->
+                      <form action="https://formspree.io/mzbbyqbo" method="POST" class="container"> 
                         <h3 class="text-uppercase">Get In Touch</h3>
                         <p>We promise not to share your email</p>
                         <label for="name"><b>Name:</b></label> 
@@ -330,7 +331,8 @@
                   </button>     
                </div>
                <div class="modal-body">
-                  <form>
+                
+                  <form action="https://formspree.io/mzbbyqbo" method="POST">
                      <div class="form-group">
                         <label for="name">Name</label>
                         <input type="text" class="form-control" id="name" placeholder="Name:" aria-describedby="emailHelp">
@@ -344,8 +346,8 @@
                   </form>
                </div>
             </div>
-         </div>
-      </div>
+         </div> 
+      </div> 
 
 	 <!-----------Footer Section  -->
       <footer class=" container-fluid container-footer">
@@ -353,13 +355,13 @@
             <div class="col-sm-4">
                <h5 class="uppercase general-sub"> Get Your 2020 Brochure</h5>
                <button class="btn btn-footer primary btn-lg" data-toggle="modal" data-target="#signUpModal">I Want the Brochure!</button> 
-            </div>
-            <div class="col-sm-4">
+            </div> 
+            <div class="col-sm-4"> 
                <span class="sr-only">Brochure link </span>
                <h5 class="uppercase general-sub">Find Us</h5>
-               <p class="inline-block"><a href="info@cumbrianKayaking.co.uk">info@cumbrianKayaking.co.uk</a></p>
+               <p class="inline-block"><a href="info@cumbrianKayaking.co.uk"><i class="fa fa-envelope-o" aria-hidden="true"> info@cumbrianKayaking.co.uk</a></i></p>
                <br>
-               <p class="inline-block">Phone: 0141 3645167</p>
+               <p class="inline-block"><i class="fa fa-phone" aria-hidden="true"> Phone: 0141 3645167</i></p>
             </div>
             <div class="col-sm-4">
                <h5 class="uppercase general-sub">Social</h5>

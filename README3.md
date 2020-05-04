@@ -155,7 +155,11 @@ This  user can get the information they want by :
 
 
 
-3)   As a user I am a retiree, 2 friends and I want to learn to kayak when we are on holiday in the Lakes. I  want to know  whether the holiday includes birdwatching. I want to contact the company to ask how strenuous the trips are. I don't have a smart phone
+3)   As a user I am a retiree, 2 friends and I want to learn to kayak when we are on holiday in the Lakes. 
+I  want 
+
+I want to contact the company to ask how strenuous the trips are.
+I don't have a smart phone
 
 The website is organised for UX with the features in the expected areas, easy to read  and contrasting text. 
 
@@ -199,8 +203,8 @@ The website is organised for UX with the features in the expected areas, easy to
     and calls user attention immediately to the  information they can easily access
 
  4. A **modal** that opens to a simple email request form. 
- The central position  allows the user to get what they want without going further into the site. 
- Minimal requirement from the user to sign up just name and email 
+    The central position  allows the user to get what they want without going further into the site. 
+    Minimal requirement from the user to sign up just name and email 
 
  5. A **Features** section -- summarising activities available ,
     accommodation and food options. 
