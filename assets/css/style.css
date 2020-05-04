@@ -150,18 +150,20 @@ header h2::after {
 	font-size: 2.5rem;
 }
 
-.dropdown-menu a {
+ .dropdown-menu a {
 	color: #333;
 	font-size: 1.5rem;
-}
+} 
 
 /* Callout Section */
 
 /* Style details for callout img  from https://css-tricks.com/perfect-full-page-background-image/ */
 /* Photo by Filip Mroz on Unsplash */
- .callout-container {
+
+
+ .callout-container { 
 	height: 100vh;
-	background: url("girl-kayak-sm.png") no-repeat center center fixed;
+	background: url("./images/girl-kayak-sm.png") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -384,7 +386,7 @@ justify-content: space-between;
 
 
  .bg-img {  
-  background-image: url("/images/contact-form-bkg2.png");
+  background-image: url("images/contact-form-bkg2.png");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
