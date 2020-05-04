@@ -161,16 +161,17 @@ header h2::after {
 /* Photo by Filip Mroz on Unsplash */
  .callout-container {
 	height: 100vh;
-	background: url("/assets/images/KG-with-leaves.png") no-repeat bottom right fixed;
+	background: url("/assets/images/KG-with-leaves.png") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	display: flex;
+    background-attachment: fixed;
+	display: flex; 
 	align-items: center;
 	justify-content: center;
 	position: relative;
-	max-width: 100%
+	max-width: 100% 
 }
 
 .opaque-overlay {
@@ -482,14 +483,14 @@ footer {
 
  @media screen and (max-width: 932px) {  
   
-     html {
+ html {
     font-size: 45%;
   } 
  body {
-overflow-x: hidden; 
- }
+overflow-x: hidden;
   }
-  #logo { 
+  }
+  #logo {  
     padding: 2rem;
     text-align: center;
   }
@@ -497,7 +498,7 @@ overflow-x: hidden;
   .bg-img{ 
       align-content: center;
   }
-  overflow: 
+   
   .form-wrapper {
     width: 80%;
   }
@@ -505,6 +506,18 @@ overflow-x: hidden;
     text-align: center;
  
 } 
-
+@media screen and (max-width: 425px) {
+  .cards {
+  width: 100%;
+  display: flex;
+ justify-content: center;
+  flex-wrap: wrap;
+}
+  .card {
+    width: 300px;
+    margin-top: 18px;
+    border-radius: 5px;
+  }
+}
 
 

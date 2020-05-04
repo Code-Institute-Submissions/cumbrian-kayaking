@@ -94,11 +94,11 @@ It is hoped that a combination of these factors will promote the decision to ask
 
 
 
-*******\*The website is for people\**** **
+**\*The website is for people\***
 
 
 
- \- Looking for activity holidays
+  Looking for activity holidays
 
  \- Interested in learning to kayak
 
@@ -316,10 +316,10 @@ I want more information on prices and deposits and availablilty.
 
 
 
--  The user can click the CTA button, fill in the form and receive the brochure with all date and price details
+- The user can click the CTA button, fill in the form and receive the brochure with all date and price details
 - The user can read ***\*customer reviews\**** on the site in the review section 
 - The user has access to more social proof from ***\*3rd party organisations\**** from the links in the review section
--  They can use the links in the footer to FB and Twitter for more ***\*social proof\**** . 
+- They can use the links in the footer to FB and Twitter for more ***\*social proof\**** . 
 
 
 
@@ -780,9 +780,7 @@ Image by <a href="https://pixabay.com/users/Skullman-914392/?utm_source=link-att
 
 ### Acknowledgements
 
-- I received inspiration for this project from https://dothenorth.com/ 
-
-​     a Swedish adventure kayaking company and I based my  project on their idea.
+- I received inspiration for this project from [https://dothenorth.com/](https://dothenorth.com/)  a Swedish adventure kayaking company and I based my  project on their idea.
 
 -  I used several design and styling ideas ( the contact form over an image background, the box shadow detailing on the feature cards ) from Deved  on Youtube.com, his course on HTML & CSS [Deved courses](https://developedbyed.com/courses/)
 -  Team section adapted from a bootstrap snippet from [Startbootstrap.com](https://startbootstrap.com/snippets/portfolio-three-column/) 
