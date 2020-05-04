@@ -161,7 +161,7 @@ header h2::after {
 /* Photo by Filip Mroz on Unsplash */
  .callout-container {
 	height: 100vh;
-	background: url("/assets/images/girl-kayak-sm.png") no-repeat center center fixed;
+	background: url("girl-kayak-sm.png") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -384,7 +384,7 @@ justify-content: space-between;
 
 
  .bg-img {  
-  background-image: url("/assets/images/contact-form-bkg2.png");
+  background-image: url("/images/contact-form-bkg2.png");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
