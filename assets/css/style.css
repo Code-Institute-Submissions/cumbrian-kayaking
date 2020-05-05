@@ -163,7 +163,7 @@ header h2::after {
 
  .callout-container { 
 	height: 100vh;
-	background: url("assets/images/girl-kayak-sm.png") no-repeat center center fixed;
+	background: url("../images/girl-kayak-sm.png") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover; 
@@ -176,14 +176,7 @@ header h2::after {
 	max-width: 100% 
 }
 
-.opaque-overlay {
-	position: absolute;
-	top: 0;
-	left: 0;
-	height: 100%;
-	width: 100%;
-    background-color: linear-gradient(rgba(0, 0, 0, 0.5), transparent); 
-}
+/*  */
 
 
 
@@ -386,7 +379,7 @@ justify-content: space-between;
 
 
  .bg-img {  
-  background-image: url("assets/images/contact-form-bkg2.png");
+  background-image: url("../images/contact-form-bkg2.png");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
