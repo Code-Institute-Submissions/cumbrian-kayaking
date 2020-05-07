@@ -71,11 +71,20 @@ h4 {
 
 body {
 	font-family: "Poppins", sans-serif;
-	width: 100%;
-	margin: 0px;
-	padding: 0px;
-	overflow-x: hidden;
+
 }
+
+html,body
+{
+width: 100%;
+margin: 0px;
+padding: 0px;
+overflow-x: hidden; 
+/* overflow-y: hidden; */
+}
+
+    
+
 
 header {
 	background: #756f6f;
@@ -130,7 +139,7 @@ header h2::after {
 	width: 100%;
 	background-color: rgba(0, 0, 0, 0.25);
 	z-index: 1;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 .navbar .navbar-toggler {
@@ -140,20 +149,17 @@ header h2::after {
 .navbar .navbar-nav a {
 	font-weight: 300;
 	font-size: 1.5rem;
-	color:#fafafa;
+
 }
 
 .navbar-brand {
 	font-family: 'Kaushan Script', cursive;
 	font-weight: bold;
 	margin-left: 2rem;
-	font-size: 2.5rem;
+	font-size: 2.5rem; 
 }
 
- .dropdown-menu a {
-	color: #333;
-	font-size: 1.5rem;
-} 
+
 
 /* Callout Section */
 
@@ -176,7 +182,7 @@ header h2::after {
 	max-width: 100% 
 }
 
-/*  */
+
 
 
 
@@ -209,7 +215,7 @@ background-color: transparent;
  background-color: #edf40f;
     font-weight: 600;
     border-radius: 2.3rem;
-    width: 250px;
+    width: 200px;
     font-size: 1.5rem;
     padding: 1rem;
 }
@@ -370,17 +376,17 @@ justify-content: space-between;
 } 
   
    
- .card-body {
+ .card-body { 
     border:1px solid #edf40f;
 } 
 
 /* -----------------------------------Contact Section */
-
+	
 
 
  .bg-img {  
-  background-image: url("../images/contact-form-bkg2.png");
-  height: 100vh;
+  background-image:url("../images/contact-formbkg2.png");
+  height:100vh; 
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -432,9 +438,9 @@ outline: none;
 
 
 
- .btn-contact:hover {
+ /* .btn-contact:hover {
   opacity: 1;
-} 
+}  */
 
 
 /* -----------------------------------Footer Section */
@@ -484,7 +490,7 @@ footer {
  body {
 overflow-x: hidden;
   }
-  }
+  
   #logo {  
     padding: 2rem;
     text-align: center;
@@ -514,5 +520,3 @@ overflow-x: hidden;
     border-radius: 5px;
   }
 }
-
-
