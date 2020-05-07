@@ -385,7 +385,7 @@ justify-content: space-between;
 
 
  .bg-img {  
-  background-image:url("../images/contact-formbkg2.png");
+  background-image: url("../images/contact-formbkg2.png");
   height:100vh; 
   background-position: center;
   background-repeat: no-repeat;
@@ -507,6 +507,14 @@ overflow-x: hidden;
     text-align: center;
  
 } 
+@media screen and (max-width:768px){
+ 
+ .callout-container{
+background: url("../images/girl-kayak-mob.png") no-repeat bottom center;
+background-position: 
+}   
+} 
+
 @media screen and (max-width: 425px) {
   .cards {
   width: 100%;
