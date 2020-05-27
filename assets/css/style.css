@@ -516,12 +516,12 @@ background-position:
 } 
 
 @media screen and (max-width: 425px) {
-  .callout-container {
-Background-image: url("../images/new-hero-small-500.png");
-Background-position: center center; 
-Background-attachment: fixed;     
-Background-repeat: no-repeat;
- background-size: cover; 
+.callout-container {
+background-image: url("../images/new-hero-small-500.png");
+background-position: center center; 
+background-attachment: fixed;     
+background-repeat: no-repeat;
+background-size: cover; 
     
  }
   .cards {
