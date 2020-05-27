@@ -516,6 +516,14 @@ background-position:
 } 
 
 @media screen and (max-width: 425px) {
+  .callout-container {
+Background-image: url("../images/new-hero-small-500.png");
+Background-position: center center; 
+Background-attachment: fixed;     
+Background-repeat: no-repeat;
+ background-size: cover; 
+    
+ }
   .cards {
   width: 100%;
   display: flex;
@@ -524,7 +532,7 @@ background-position:
 }
   .card {
     width: 300px;
-    margin-top: 18px;
+    margin-top: 18px; 
     border-radius: 5px;
   }
 }
