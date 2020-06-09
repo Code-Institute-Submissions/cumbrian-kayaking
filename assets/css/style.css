@@ -508,10 +508,12 @@ overflow-x: hidden;
  
 } 
 @media screen and (max-width:768px){
- 
- .callout-container{
-background: url("../images/girl-kayak-mob.png") no-repeat bottom center;
-background-position: 
+  .callout-container{
+background: url("../images/girl-kayak-mob.png");
+background-position: center center;
+background-attachment:scroll;     
+background-repeat: no-repeat;
+background-size: cover; 
 }   
 } 
 
