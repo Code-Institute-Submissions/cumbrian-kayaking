@@ -519,7 +519,7 @@ background-position:
 .callout-container {
 background-image: url("../images/new-hero-small-500.png");
 background-position: center center; 
-background-attachment: fixed;     
+background-attachment:scroll;     
 background-repeat: no-repeat;
 background-size: cover; 
     
