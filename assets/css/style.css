@@ -237,29 +237,29 @@ border-color:#93970f;
   font-weight: 300;
   border-radius: 23px;
   width: 100px; 
-  font-size: 15px;
+  font-size: 10px;
 }
 
 .btn-modal {
  background-color:#edf40f;
  font-weight: 500;
-border-radius:13px;
-width: 200px;
-font-size: 15px
+ border-radius:13px;
+ width: 200px;
+ font-size: 15px
 }
 
 /* Footer button  */
 
- button.btn-footer {
- background-color: #edf40f; 
+.btn-footer {
+  background-color: #edf40f; 
   color: black;
-  font-weight: 600;
-  font-size: 13px;
+  font-weight: 500;
+  font-size: 9px;
   padding: 10px 5px; 
- border-radius: 23px;
+  border-radius: 23px;
   cursor: pointer;
   width: 40%;
-  }  
+  }   
 /* -----------------------------------Feature Card Section */
 
  /*Styling for the features/cards adapted from examples in Deved course on HTML & CSS on Youtube  */
@@ -402,45 +402,52 @@ form.container {
   margin: 20px;
   max-width: 500px;
   padding: 16px;
+  text-align: center;
   align-items: center;
   background-color: rgba(22, 29, 35, 0.3);
   border-radius: 20px;
   
 }
-#contact h2{
+/* .text-uppercase{
+    text-align: center;
     color:#fff;
     font-size: 1.5rem;
-}
+/* } */
 #contact p {
-    font-size: 1rem;
+    font-size: 1rem; */
 }
+.input-fields {
+  padding: 0 30px;
+  }
+  .input-fields .items {
+  width: 100%;
+  padding-bottom: 15px;
+  }
+  .input-fields .items .label{
+  display:block;   
+  font-size: 1rem;
+  color: #fff; 
+  padding-bottom:5px;
+  }
+  
+  .input-fields.items .input,
+  .input-fields.items .text-area { 
+  background: transparent;
+  border: 0;
+  border: 1px solid #fff;
+  width:100%
+  padding: 8px 10px;
+  font-size: 1rem;
+  color: #ffecb3;
+  border-radius: 3px;
+  }
+  label.label {
+  text-align: center;
+  } 
 
-
-
-input[type="text"],
-input[type="email"],
-.textarea 
- {
-  width: 60%; 
-  padding: 1.5rem;
-  margin: 5px 0 22px 0;
-  border: none;
-  background:#f1f1f1;
-  font-size: 1.5rem
-}
-
-input[type="text"]:focus,
-input[type="email"]:focus,
-.textarea:focus {
-background-color: #ddd; 
-outline: none; 
-}
-
-
-
- /* .btn-contact:hover {
+ .btn-contact:hover {
   opacity: 1;
-}  */
+}  
 
 
 /* -----------------------------------Footer Section */
