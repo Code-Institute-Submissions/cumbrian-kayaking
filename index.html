@@ -304,15 +304,15 @@
                         <div class="input-fields">
                     <div class="items">
                 <label for ="name" class="label">Name:</label> 
-               <input id ="name" type="text" class="input">
+               <input id ="name" type="text" class="input " required aria-describedby="namespace">
              </div>
                 <div class="items">
                 <label for ="email" class="label">Email:</label>
-               <input id ="email" type="text" class="input">
+               <input id ="email" type="text" class="input" required aria-describedby="emailspace">
                </div>
                       <div class="items"> 
                  <label for="msg" class="label">Your Question:</label>
-                        <textarea id="Exampletextarea1" rows="6" cols="25" name="comment"></textarea> 
+                        <textarea id="Exampletextarea1" rows="6" cols="25" name="comment"required aria-describedby="textspace"></textarea> 
                         </div>
                         <button type="submit" class="btn btn-contact primary">Submit</button>
                      </form>

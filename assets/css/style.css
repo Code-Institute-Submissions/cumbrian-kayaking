@@ -347,12 +347,12 @@ flex: 0 1 33%;
 justify-content: space-between;
      }
 
-  #gallery h5 { 
+.gallery-images h5 { 
     font-weight: 600; 
     font-size:2rem;
-    text-align: center;
+   
     }
-    #gallery h5,p {
+.gallery-images h5,p {
     text-align: center; 
     }
 
@@ -408,13 +408,9 @@ form.container {
   border-radius: 20px;
   
 }
-/* .text-uppercase{
-    text-align: center;
-    color:#fff;
-    font-size: 1.5rem;
-/* } */
+
 #contact p {
-    font-size: 1rem; */
+    font-size: 1rem; 
 }
 .input-fields {
   padding: 0 30px;
@@ -425,7 +421,7 @@ form.container {
   }
   .input-fields .items .label{
   display:block;   
-  font-size: 1rem;
+  font-size: 1.5rem;
   color: #fff; 
   padding-bottom:5px;
   }
@@ -441,10 +437,7 @@ form.container {
   color: #ffecb3;
   border-radius: 3px;
   }
-  label.label {
-  text-align: center;
-  } 
-
+ 
  .btn-contact:hover {
   opacity: 1;
 }  
@@ -515,12 +508,14 @@ overflow-x: hidden;
  
 } 
 @media screen and (max-width:768px){
-  .callout-container{
+.callout-container{
 background-image: url("../images/girl-kayak-mob.png");
 background-position: center center;
 background-attachment:scroll;     
 background-repeat: no-repeat;
 background-size: cover; 
+.input-fields 
+padding: 0;
 }   
 } 
 
