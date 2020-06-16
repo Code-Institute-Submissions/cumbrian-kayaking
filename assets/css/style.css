@@ -431,7 +431,7 @@ form.container {
   background: transparent;
   border: 0;
   border: 1px solid #fff;
-  width:100%
+  width:100%;
   padding: 8px 10px;
   font-size: 1rem;
   color: #ffecb3;
@@ -509,34 +509,36 @@ overflow-x: hidden;
 } 
 @media screen and (max-width:768px){
 .callout-container{
-background-image: url("../images/girl-kayak-mob.png");
+background-image: url("../images/new-hero-small-500.png");
 background-position: center center;
 background-attachment:scroll;     
 background-repeat: no-repeat;
 background-size: cover; 
-.input-fields 
+}
+.input-fields {
 padding: 0;
 }   
 } 
 
 @media screen and (max-width: 425px) {
+
 .callout-container {
 background-image: url("../images/new-hero-small-500.png");
 background-position: center center; 
 background-attachment:scroll;     
 background-repeat: no-repeat;
 background-size: cover; 
-    
  }
-  .cards {
-  width: 100%;
-  display: flex;
- justify-content: center;
-  flex-wrap: wrap;
+
+.cards {
+ width: 100%;
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
 }
-  .card {
-    width: 300px;
-    margin-top: 18px; 
-    border-radius: 5px;
-  }
+.card {
+ width: 300px;
+ margin-top: 18px; 
+ border-radius: 5px;
+}
 }
