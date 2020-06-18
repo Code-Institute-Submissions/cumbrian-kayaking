@@ -144,9 +144,11 @@ It is hoped that a combination of these factors will promote the decision to ask
 
 #### Links to Different Website Versions 
 
-- Desktop Version  [https://cacoo.com/diagrams/fHAOfsZez8Zom1Zi-F5A9F.png](https://cacoo.com/diagrams/fHAOfsZez8Zom1Zi-F5A9F.png)
-- Tablet Version  [https://cacoo.com/diagrams/AqdhY7BO864hZIIr-D5861.png]( https://cacoo.com/diagrams/AqdhY7BO864hZIIr-D5861.png)
-- Mobile Version https://cacoo.com/diagrams/Y6vIiZ5paBEQUSEc-A766A.png
+
+
+- ​       [Desktop Version](https://cacoo.com/diagrams/Y6vIiZ5paBEQUSEc/7D1FD)
+- ​       [Tablet Version](https://cacoo.com/diagrams/AqdhY7BO864hZIIr/6668E)  
+- ​       [ Mobile Version](https://cacoo.com/diagrams/fHAOfsZez8Zom1Zi/979B0) 
 
 
 
@@ -186,23 +188,57 @@ It is hoped that a combination of these factors will promote the decision to ask
 
 
 
- 1.***\*Links\**** in the navbar to the Contact form and to the Features section About Us is a dropdown to Reviews Section and Team information
+ 1.**Links**
 
- 2.***\*Hero image\**** sets the users expectation on arrival
+Are in  the navbar to the Contact form and to the Features section
 
- 3.Company ***\*phone number\**** is displayed in the footer and the company email  in case the user wants to connect directly
+ About Us link is a dropdown to Reviews Section and Team information
 
- 4.***\*Features Section\**** gives a summary of what is on offer in terms of other activities,food and accommodation and kayaking lessons  -- text is minimal and clear headings - users can scan it all in a few minutes 
+ 2.**Hero image**
 
- 5.***\*Trips Section\****  images with clear text so that the user can quickly understand the types of trips available 
+sets the users expectation on arrival
 
- 6.***\*Team Section\****  - summarizes the credentials and experience of the team with photos and provides button links to individual social media
+ 3.**Company phone number**
 
- 7.***\*Social Proof Section\****- supplies strong testimonials from a variety of users -- provides reassurance of company credibility and proof that other customers have enjoyed their experience . Links to authorized 3rd party organization reviews.
+displayed in the footer and email for the user  to connect directly
 
- 8.***\*Contact Form\**** allows user to contact the company and ask specific questions -- minimal requirements just name and email . Here and for the button in the hero section the user is assured that the company will not misuse their information
+ 4**.Features Section**
 
- 9.***\*Links\**** in footer section supply more social proof -  Footer also has another button to request the brochure for more detailed information and company email address and phone 
+ summarises what is on offer in terms of other activities,food and accommodation and kayaking lessons  -- text is minimal and clear headings 
+
+visitors can scan the information in a few minutes 
+
+ 5.**Gallery Section**
+
+ images with clear text so that the user can quickly understand the types of trips available 
+
+ 6.**Team Section** 
+
+ summarizes the credentials and experience of the team with photos 
+
+ provides button links to individual social media
+
+ 7.**Social Proof Section**
+
+strong testimonials from  users, provides reassurance of company credibility and proof that other customers have enjoyed their experience .
+
+ Links to authorized 3rd party organization reviews.
+
+ 8.**Contact Form**
+
+allows website visitors  to contact the company and ask specific questions 
+
+ minimal requirements just name and email . 
+
+The user is assured that the company will not misuse their information
+
+ 9.**Links in footer section** 
+
+supply more social proof 
+
+ Button to request the brochure for more detailed information
+
+ company email address and phone 
 
 
 
@@ -347,9 +383,9 @@ The site is one page and the user will spend a very short time looking at the co
 
 **Skeleton**
 
-- Desktop Version  [https://cacoo.com/diagrams/fHAOfsZez8Zom1Zi-F5A9F.png](https://cacoo.com/diagrams/fHAOfsZez8Zom1Zi-F5A9F.png)
-- Tablet Version  [https://cacoo.com/diagrams/AqdhY7BO864hZIIr-D5861.png]( https://cacoo.com/diagrams/AqdhY7BO864hZIIr-D5861.png)
-- Mobile Version https://cacoo.com/diagrams/Y6vIiZ5paBEQUSEc-A766A.png
+- [Desktop Version](https://cacoo.com/diagrams/Y6vIiZ5paBEQUSEc/7D1FD)  
+- [Tablet Version](https://cacoo.com/diagrams/AqdhY7BO864hZIIr/6668E)  
+- [Mobile Version](https://cacoo.com/diagrams/fHAOfsZez8Zom1Zi/979B0) 
 
 **Surface** 
 
@@ -387,7 +423,7 @@ The requirements for user information are minimal.
 
    
 
-2.   A ***\*jumbotron\**** section with large text and subheading 
+2.   **A jumbotron section** with large text and subheading 
 
    Allows user to click and fill in a request for the brochure without scrolling through the page 
 
@@ -395,7 +431,7 @@ The requirements for user information are minimal.
 
    
 
-3.   A ***\*hero image\****  
+3.   **Hero image**  
 
      Gives the user an immediate view of what their holiday might be like 
 
@@ -413,37 +449,41 @@ The requirements for user information are minimal.
 
    
 
-6.  ***\*Features\**** section -- summarising activities available 
+6.  **Features** section -- summarising activities available 
 
    Users can  read about the main features of the holiday
 
      
 
-7. ***\*Team Member\**** section--
+7. **Team Member** section--
 
    Allows user to read quickly about the team and if they want more information they can go to the individual social media pages for more details 
 
    
 
-8.  ***\*Image Gallery\**** highlights the  most popular categories of kayaking trips
+8.  **Image Gallery**  highlights the  most popular categories of kayaking trips
 
    User can see types of holidays run by the company  
 
     
 
-9.   ***\*Social Proof\**** section featuring customer testimonials and links to 3rd party reviews from holiday organisations
+9. **Social Proof** 
+
+   Customer testimonials and links to 3rd party reviews from holiday organisations
 
    Allows the user to read  the experiences of other customers and to see that the company is reputable
 
    
 
-10.   **Contact section ** again with minimal information to give 
+10. **Contact section **  
 
     Users can  make an inquiry or  request specific information without ordering the brochure 
 
     
 
-11.   ***\*Footer\**** --  supplies  links  to the company social media sites, gives phone and email of the company 
+11. **Footer**--  supplies  links  to the company social media sites,
+
+     Gives phone and email of the company 
 
     Allows users another opportunity to use a CTA button linking to the modal to get the holiday brochure  
 
@@ -715,7 +755,7 @@ I then asked the tutor Michael to help and he gave me a stackoverflow   thread d
 
 https://stackoverflow.com/questions/24154666/background-size-cover-not-working-on-ios
 
-I tried several different things suggested without getting a good solution and then changing the CSS in the media query from background-attachment: fixed; to background-scroll;   fixed the problem and the image now looks correct on my mobile and ipad. 
+I tried several different things suggested without getting a good solution and then changing the CSS in the media query from background-attachment: fixed; to background-scroll;   fixed the problem and the image now looks correct on my mobile but is still not fixed in the  ipad version 
 
 **Dropdown menu** no longer dropped in the deployed version -- I had overwritten the CSS  but was able to use the dev tools to narrow down the problem and restore the css. 
 
